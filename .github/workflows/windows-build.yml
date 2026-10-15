@@ -38,6 +38,20 @@ jobs:
       - run: python tools/gen_version_info.py
       - run: python -m pip install -r requirements-build.txt
       - run: python tools/fetch_office_js.py
+      - name: Prepare OCR fallback for the Windows runner
+        shell: powershell
+        run: |
+          choco install tesseract --version=5.5.3.20260724 --no-progress -y
+          if ($LASTEXITCODE -ne 0) { throw "Tesseract installation failed" }
+          $engine = Join-Path $env:ProgramFiles "Tesseract-OCR\tesseract.exe"
+          if (-not (Test-Path $engine)) { throw "Tesseract executable is missing" }
+          $models = "https://raw.githubusercontent.com/tesseract-ocr/tessdata_fast/87416418657359cb625c412a48b6e1d6d41c29bd"
+          foreach ($lang in @('eng', 'rus')) {
+            Invoke-WebRequest -Uri "$models/$lang.traineddata" -OutFile (Join-Path $env:ProgramFiles "Tesseract-OCR\tessdata\$lang.traineddata")
+          }
+          "ANONYMIZER_TESSERACT=$engine" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+          & $engine --list-langs
+          if ($LASTEXITCODE -ne 0) { throw "Tesseract languages could not be loaded" }
       - run: python run_tests.py
       - run: pyinstaller --noconfirm --clean Anonymizer.spec
       - name: Self-check of the built program
