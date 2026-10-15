@@ -134,7 +134,12 @@ jobs:
 
           SmartScreen: the files are not code-signed, so Windows may show "Windows protected your PC". Click "More info", then "Run anyway".
           EOF
-          gh release create "v${APP_VERSION}" dist/Anonymizer.exe "dist/Anonymizer-Setup-${APP_VERSION}.exe" dist/SHA256SUMS.txt \
-            --target "${GITHUB_SHA}" \
-            --title "Anonymizer v${APP_VERSION}" \
-            --notes-file release-notes.md
+          if gh release view "v${APP_VERSION}" >/dev/null 2>&1; then
+            # Mac may already have published this version; add Windows assets to it.
+            gh release upload "v${APP_VERSION}" dist/Anonymizer.exe "dist/Anonymizer-Setup-${APP_VERSION}.exe" dist/SHA256SUMS.txt --clobber
+          else
+            gh release create "v${APP_VERSION}" dist/Anonymizer.exe "dist/Anonymizer-Setup-${APP_VERSION}.exe" dist/SHA256SUMS.txt \
+              --target "${GITHUB_SHA}" \
+              --title "Anonymizer v${APP_VERSION}" \
+              --notes-file release-notes.md
+          fi

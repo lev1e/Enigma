@@ -18,10 +18,11 @@
 
 ## Установка
 
-Скачать готовые сборки: [GitHub Releases — lev1e/Enigma](https://github.com/lev1e/Enigma/releases/latest). Исходный код и работа над надстройкой: [lev1e/Enigma](https://github.com/lev1e/Enigma).
+- **[Скачать для Mac — M1, M2, M3 и новее](https://github.com/lev1e/Enigma/releases/download/v2.3.0/Anonymizer-2.3.0-arm64.dmg).** Откройте скачанный файл и перенесите Anonymizer в папку «Программы». Для Mac с процессором Intel эта версия не подходит. Инструкция по первому запуску находится внутри образа.
+- **[Скачать для Windows 10 и 11 — 64 бит](https://github.com/lev1e/Enigma/releases/download/v2.3.0/Anonymizer-Setup-2.3.0.exe).** Откройте установщик и следуйте подсказкам. Если нужен компонент Microsoft WebView2, установщик предложит его установить.
 
-- **macOS (Apple Silicon):** образ DMG из раздела Releases репозитория. Подписи Developer ID нет: при первом запуске система спросит подтверждение (инструкция лежит в образе). Обновления приходят через программу. Порядок выпуска: [docs/MAC_RELEASE.md](docs/MAC_RELEASE.md).
-- **Windows 10 и 11 (x64):** установщик, требуется Microsoft Edge WebView2 Runtime (установщик докладывает его при отсутствии). Установщик не подписан, SmartScreen покажет предупреждение. Подробная инструкция: [docs/WINDOWS_INSTALL.md](docs/WINDOWS_INSTALL.md).
+У программы пока нет цифровой подписи разработчика, поэтому система может показать предупреждение при установке. [Инструкция для Windows](docs/WINDOWS_INSTALL.md). [Все файлы выпуска](https://github.com/lev1e/Enigma/releases/tag/v2.3.0).
+
 - **Из исходников:** Python 3.12, зависимости из `requirements.txt`, запуск `python main.py`. Подробнее: [DEVELOPMENT.md](DEVELOPMENT.md).
 
 Быстрый старт: [QUICKSTART.md](QUICKSTART.md).
