@@ -3,9 +3,13 @@ on:
   workflow_dispatch:
     inputs:
       publish:
-        description: "Publish a release after tests, frozen selfcheck and installer build pass"
+        description: "Publish artifacts after the build and frozen selfcheck pass"
         type: boolean
         default: false
+      run_tests:
+        description: "Run unit suite and installer smoke (disable only for an explicit build-only run)"
+        type: boolean
+        default: true
   push:
     tags: ["v*"]
 
@@ -39,6 +43,7 @@ jobs:
       - run: python -m pip install -r requirements-build.txt
       - run: python tools/fetch_office_js.py
       - name: Prepare OCR fallback for the Windows runner
+        if: github.event_name != 'workflow_dispatch' || inputs.run_tests
         shell: powershell
         run: |
           choco install tesseract --version=5.5.3.20260724 --no-progress -y
@@ -53,6 +58,7 @@ jobs:
           & $engine --list-langs
           if ($LASTEXITCODE -ne 0) { throw "Tesseract languages could not be loaded" }
       - run: python run_tests.py
+        if: github.event_name != 'workflow_dispatch' || inputs.run_tests
       - run: pyinstaller --noconfirm --clean Anonymizer.spec
       - name: Self-check of the built program
         shell: powershell
@@ -73,6 +79,7 @@ jobs:
           if ($LASTEXITCODE -ne 0) { throw "Inno Setup failed" }
           if (-not (Test-Path "dist\Anonymizer-Setup-$env:APP_VERSION.exe")) { throw "Installer dist\Anonymizer-Setup-$env:APP_VERSION.exe was not produced" }
       - name: Smoke-test the installed program
+        if: github.event_name != 'workflow_dispatch' || inputs.run_tests
         timeout-minutes: 5
         shell: powershell
         run: |
