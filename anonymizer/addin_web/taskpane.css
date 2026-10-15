@@ -157,3 +157,13 @@ input[type=checkbox] { flex: none; width: 20px; height: 20px; margin: 2px 0 0; a
 #open-folder { min-height: var(--pane-ctl); }
 @media (max-width: 340px) { .pane { padding: var(--s3); } .brand { font-size: var(--fs-lg); } }
 @media (prefers-reduced-motion: reduce) { .btn, .bar > i, summary::before { transition: none; } }
+
+/* The approved light and dark Enigma tiles follow the pane theme. */
+.brand .mark-dark { display: none; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .brand .mark-light { display: none; }
+  :root:not([data-theme="light"]) .brand .mark-dark { display: inline-block; }
+}
+:root[data-theme="dark"] .brand .mark-light { display: none; }
+:root[data-theme="dark"] .brand .mark-dark { display: inline-block; }
+:root[data-theme="light"] .brand .mark-dark { display: none; }
