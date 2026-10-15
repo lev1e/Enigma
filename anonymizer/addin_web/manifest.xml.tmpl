@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OfficeApp xmlns="http://schemas.microsoft.com/office/appforoffice/1.1"
+           xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+           xmlns:bt="http://schemas.microsoft.com/office/officeappbasictypes/1.0"
+           xmlns:ov="http://schemas.microsoft.com/office/taskpaneappversionoverrides"
+           xsi:type="TaskPaneApp">
+  <Id>{ADDIN_ID}</Id>
+  <Version>{VERSION}.0</Version>
+  <ProviderName>Enigma</ProviderName>
+  <DefaultLocale>ru-RU</DefaultLocale>
+  <DisplayName DefaultValue="Anonymizer"/>
+  <Description DefaultValue="Обезличивает открытый документ на этом компьютере и возвращает исходные данные. Файлы не покидают компьютер."/>
+  <IconUrl DefaultValue="{BASE}/addin/icon-64.png?v={VERSION}-enigma"/>
+  <HighResolutionIconUrl DefaultValue="{BASE}/addin/icon-128.png?v={VERSION}-enigma"/>
+  <SupportUrl DefaultValue="{BASE}/addin/taskpane.html"/>
+  <AppDomains>
+    <AppDomain>{BASE}</AppDomain>
+  </AppDomains>
+  <Hosts>
+    <Host Name="Document"/>
+    <Host Name="Workbook"/>
+    <Host Name="Presentation"/>
+  </Hosts>
+{REQUIREMENTS}  <DefaultSettings>
+    <SourceLocation DefaultValue="{BASE}/addin/taskpane.html?k={PANE_KEY}"/>
+  </DefaultSettings>
+  <Permissions>ReadWriteDocument</Permissions>
+  <VersionOverrides xmlns="http://schemas.microsoft.com/office/taskpaneappversionoverrides" xsi:type="VersionOverridesV1_0">
+    <Hosts>
+{HOST_BLOCKS}
+    </Hosts>
+    <Resources>
+      <bt:Images>
+        <bt:Image id="Icon.16" DefaultValue="{BASE}/addin/icon-16.png?v={VERSION}-enigma"/>
+        <bt:Image id="Icon.32" DefaultValue="{BASE}/addin/icon-32.png?v={VERSION}-enigma"/>
+        <bt:Image id="Icon.80" DefaultValue="{BASE}/addin/icon-80.png?v={VERSION}-enigma"/>
+      </bt:Images>
+      <bt:Urls>
+        <bt:Url id="Pane.Url" DefaultValue="{BASE}/addin/taskpane.html?k={PANE_KEY}"/>
+      </bt:Urls>
+      <bt:ShortStrings>
+        <bt:String id="Group.Label" DefaultValue="Anonymizer"/>
+        <bt:String id="Button.Label" DefaultValue="Anonymizer"/>
+      </bt:ShortStrings>
+      <bt:LongStrings>
+        <bt:String id="Button.Tip" DefaultValue="Обезличить открытый документ или вернуть исходные данные. Всё выполняется на этом компьютере."/>
+      </bt:LongStrings>
+    </Resources>
+  </VersionOverrides>
+</OfficeApp>

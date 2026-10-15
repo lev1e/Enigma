@@ -1,0 +1,5878 @@
+[
+ {
+  "id": "prose_txt_0.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PERSON",
+    "Jean-Paul Fitzgerald-Whitcombe"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "IP_ADDRESS",
+    "10.89.246.225"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "ADDRESS",
+    "4347 Elm Grove, Tulsa, OK 74103"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "BIRTH_DATE",
+    "October 27, 1989"
+   ],
+   [
+    "NI",
+    "EJ143937B"
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "ORG",
+    "Orchard Lane Partners"
+   ],
+   [
+    "ORG",
+    "Oakmont Realty"
+   ],
+   [
+    "CARD",
+    "5105 6244 1520 0633"
+   ],
+   [
+    "BIRTH_DATE",
+    "17th of January 1958"
+   ],
+   [
+    "NI",
+    "PK 04 04 93 D"
+   ],
+   [
+    "ORG",
+    "Northwind Holdings"
+   ],
+   [
+    "ORG",
+    "Orchard Lane Partners"
+   ],
+   [
+    "PASSPORT",
+    "Z0494996"
+   ],
+   [
+    "CARD",
+    "5500-2462-2894-7704"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_csv_0.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "ADDRESS",
+    "2221 Brambleton Road, Suite 802, Tulsa, OK 74103"
+   ],
+   [
+    "CARD",
+    "4012830210258602"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "PERSON",
+    "Quigley, Natalie"
+   ],
+   [
+    "BIRTH_DATE",
+    "Jul 1, 1978"
+   ],
+   [
+    "SSN",
+    "526-13-8374"
+   ],
+   [
+    "PERSON",
+    "Tillman H."
+   ],
+   [
+    "PERSON",
+    "M. Rutherford"
+   ],
+   [
+    "PHONE",
+    "555-447-8078"
+   ],
+   [
+    "NI",
+    "ZJ 12 56 08 A"
+   ],
+   [
+    "ADDRESS",
+    "13 Harcourt Terrace"
+   ],
+   [
+    "SECRET",
+    "Rv537!kd4680Pm"
+   ],
+   [
+    "CARD",
+    "5105-5789-3649-3749"
+   ],
+   [
+    "PERSON",
+    "PATRICK GALLAGHER"
+   ],
+   [
+    "PERSON",
+    "TERRENCE BRENNAN"
+   ],
+   [
+    "PERSON",
+    "Oyelaran, Thomas"
+   ],
+   [
+    "PERSON",
+    "Carmichael, Raymond"
+   ],
+   [
+    "PASSPORT",
+    "139542600"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "PERSON",
+    "Raymond Montgomery"
+   ],
+   [
+    "PERSON",
+    "Oliver Thornbury"
+   ],
+   [
+    "ADDRESS",
+    "544 Sycamore Close, Apt 2B, Tulsa, OK"
+   ],
+   [
+    "PERSON",
+    "Alicia"
+   ],
+   [
+    "PERSON",
+    "Kowalczyk P."
+   ],
+   [
+    "PERSON",
+    "Jonathan Carmichael"
+   ],
+   [
+    "PERSON",
+    "Thomas"
+   ],
+   [
+    "PERSON",
+    "Oyelaran N."
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_xlsx_0.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "SECRET",
+    "Tr0ub4dor&24x"
+   ],
+   [
+    "PASSPORT",
+    "X6154463"
+   ],
+   [
+    "ADDRESS",
+    "Flat 16, 800 Elm Grove, London"
+   ],
+   [
+    "SSN",
+    "489-11-2796"
+   ],
+   [
+    "PERSON",
+    "Laura Whitfield"
+   ],
+   [
+    "PERSON",
+    "Castellanos"
+   ],
+   [
+    "PHONE",
+    "07700 900702"
+   ],
+   [
+    "EMAIL",
+    "megan.tillman@example.com"
+   ],
+   [
+    "CARD",
+    "4111 2443 9784 6975"
+   ],
+   [
+    "PERSON",
+    "Daniel Tillman"
+   ],
+   [
+    "BIRTH_DATE",
+    "26/10/1949"
+   ],
+   [
+    "ADDRESS",
+    "38 Pinecrest Parkway"
+   ],
+   [
+    "PERSON",
+    "Kevin Carmichael"
+   ],
+   [
+    "PERSON",
+    "G.N. Fitzgerald"
+   ],
+   [
+    "PERSON",
+    "Ashworth"
+   ],
+   [
+    "SSN",
+    "586-69-9182"
+   ],
+   [
+    "PERSON",
+    "William Fitzgerald"
+   ],
+   [
+    "CITY",
+    "DENVER"
+   ],
+   [
+    "SECRET",
+    "Rv036!kd7725Pm"
+   ],
+   [
+    "BIRTH_DATE",
+    "14th of December 1956"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "PHONE",
+    "07700 900044"
+   ],
+   [
+    "PHONE",
+    "020 7946 2237"
+   ],
+   [
+    "SECRET",
+    "Rv116!kd5215Pm"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_docx_0.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "ADDRESS",
+    "P.O. Box 7140, Columbus, TX 78701"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "ORG",
+    "Stonebridge Bank"
+   ],
+   [
+    "PERSON",
+    "Terrence Pemberton"
+   ],
+   [
+    "PERSON",
+    "K.S. Delacroix"
+   ],
+   [
+    "PERSON",
+    "JAMES MCALLISTER"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "PERSON",
+    "Grace Whitfield"
+   ],
+   [
+    "SSN",
+    "303-12-7059"
+   ],
+   [
+    "PERSON",
+    "Priya McAllister"
+   ],
+   [
+    "ADDRESS",
+    "86 Harcourt Terrace"
+   ],
+   [
+    "ORG",
+    "Tidewater Insurance"
+   ],
+   [
+    "ORG",
+    "Blue Harbor Capital"
+   ],
+   [
+    "PERSON",
+    "Okonkwo K."
+   ],
+   [
+    "CARD",
+    "4111708880335795"
+   ],
+   [
+    "PERSON",
+    "Natalie Vandermeer"
+   ],
+   [
+    "SECRET",
+    "Tr0ub4dor&07x"
+   ],
+   [
+    "PERSON",
+    "John Hargrove"
+   ],
+   [
+    "EMAIL",
+    "oconnell_samantha@corp-demo.example.net"
+   ],
+   [
+    "ORG",
+    "Ashgrove Pharmaceuticals"
+   ],
+   [
+    "ORG",
+    "Silverline Telecom plc"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pptx_0.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "ORG",
+    "Blue Harbor Capital"
+   ],
+   [
+    "ADDRESS",
+    "Flat 18, 3617 Calloway Court, Leeds"
+   ],
+   [
+    "PERSON",
+    "Patrick A. Oyelaran"
+   ],
+   [
+    "BIRTH_DATE",
+    "Apr 11, 1961"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 7316, Tulsa, TX 78701"
+   ],
+   [
+    "PERSON",
+    "Laura J. Whitcombe"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "PERSON",
+    "Dwayne Nakamura"
+   ],
+   [
+    "ADDRESS",
+    "Flat 7, 4841 Pinecrest Parkway, London"
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "PERSON",
+    "Fiona Tillman"
+   ],
+   [
+    "BIRTH_DATE",
+    "Jun 8, 1993"
+   ],
+   [
+    "NI",
+    "EW676627A"
+   ],
+   [
+    "PERSON",
+    "Rebecca Carmichael"
+   ],
+   [
+    "ORG",
+    "Blue Harbor Capital"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 2040, Raleigh, TX 78701"
+   ],
+   [
+    "PERSON",
+    "Jonathan Fitzgerald"
+   ],
+   [
+    "SECRET",
+    "ghp_4334aB976798cD88998547eF"
+   ],
+   [
+    "NI",
+    "XJ759798D"
+   ],
+   [
+    "PHONE",
+    "020 7946 3846"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 8429"
+   ],
+   [
+    "BIRTH_DATE",
+    "15th of May 1977"
+   ],
+   [
+    "NI",
+    "RT082658A"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_html_0.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PERSON",
+    "Terrence Carmichael"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PERSON",
+    "JONATHAN RUTHERFORD"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "PERSON",
+    "Laura Hargrove"
+   ],
+   [
+    "EMAIL",
+    "dunleavy_grace@corp-demo.example.net"
+   ],
+   [
+    "CITY",
+    "TULSA"
+   ],
+   [
+    "PERSON",
+    "ALICIA O'CONNELL"
+   ],
+   [
+    "EMAIL",
+    "mjankowski20@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Samantha Jankowski"
+   ],
+   [
+    "PERSON",
+    "Gallagher"
+   ],
+   [
+    "PERSON",
+    "Carmichael, Andrew"
+   ],
+   [
+    "PASSPORT",
+    "E85386860"
+   ],
+   [
+    "ADDRESS",
+    "4656B Old Mill Road, London, NW1 6XE"
+   ],
+   [
+    "PERSON",
+    "Elizabeth Lindqvist"
+   ],
+   [
+    "PERSON",
+    "Quigley"
+   ],
+   [
+    "NI",
+    "GY 63 85 15 A"
+   ],
+   [
+    "PERSON",
+    "Rebecca Kowalczyk"
+   ],
+   [
+    "EMAIL",
+    "nakamura_oliver@corp-demo.example.net"
+   ],
+   [
+    "ORG",
+    "Orchard Lane Partners"
+   ],
+   [
+    "ADDRESS",
+    "Flat 5, 1498 Sycamore Close, London"
+   ],
+   [
+    "PERSON",
+    "Megan D. Lindqvist"
+   ],
+   [
+    "BIRTH_DATE",
+    "9th of February 1964"
+   ],
+   [
+    "CARD",
+    "4111174976265059"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "PERSON",
+    "Katherine Brennan"
+   ],
+   [
+    "ADDRESS",
+    "1421 Elm Grove, Columbus, OH 43215"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_md_0.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "PERSON",
+    "Daniel"
+   ],
+   [
+    "PERSON",
+    "Rutherford R."
+   ],
+   [
+    "BIRTH_DATE",
+    "Sep 23, 1970"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/09/1990"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "ADDRESS",
+    "Flat 16, 4567 Fenwick Street, Nottingham"
+   ],
+   [
+    "PERSON",
+    "Olivia S. Castellanos"
+   ],
+   [
+    "BIRTH_DATE",
+    "August 11, 1978"
+   ],
+   [
+    "PERSON",
+    "Fiona Sandoval"
+   ],
+   [
+    "PERSON",
+    "Patrick Brennan"
+   ],
+   [
+    "IBAN",
+    "GB38 NWBK 3355 7502 8499 80"
+   ],
+   [
+    "PERSON",
+    "Katherine Kowalczyk"
+   ],
+   [
+    "ADDRESS",
+    "2800 Pinecrest Parkway, Suite 527, Boston, MA 02108"
+   ],
+   [
+    "PERSON",
+    "Elizabeth Pemberton"
+   ],
+   [
+    "PERSON",
+    "Marcus Dunleavy"
+   ],
+   [
+    "EMAIL",
+    "alicia.oyelaran@example.com"
+   ],
+   [
+    "PERSON",
+    "Underhill, Gareth"
+   ],
+   [
+    "BIRTH_DATE",
+    "04.02.1958"
+   ],
+   [
+    "SSN",
+    "559-37-5973"
+   ],
+   [
+    "PHONE",
+    "(415) 555-3816"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 8723"
+   ],
+   [
+    "PERSON",
+    "Kilpatrick P."
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "SECRET",
+    "Rv406!kd7418Pm"
+   ],
+   [
+    "PERSON",
+    "McAllister, Katherine"
+   ],
+   [
+    "PASSPORT",
+    "A27565996"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "PERSON",
+    "Elena"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PERSON",
+    "M. Castellanos"
+   ],
+   [
+    "PERSON",
+    "Jonathan K. Fitzgerald"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pdf_0.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "James Hargrove"
+   ],
+   [
+    "EMAIL",
+    "rmontgomery55@demo-mail.example.org"
+   ],
+   [
+    "ADDRESS",
+    "88 Brambleton Road"
+   ],
+   [
+    "SSN",
+    "619-14-7087"
+   ],
+   [
+    "PERSON",
+    "Terrence Whitcombe"
+   ],
+   [
+    "SECRET",
+    "Rv129!kd9199Pm"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "PERSON",
+    "Priya Haverford"
+   ],
+   [
+    "PERSON",
+    "Rebecca Brennan"
+   ],
+   [
+    "PERSON",
+    "Alicia Gallagher"
+   ],
+   [
+    "PERSON",
+    "Fiona Kowalczyk"
+   ],
+   [
+    "CARD",
+    "4012241666348956"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "PERSON",
+    "Brennan"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ADDRESS",
+    "46 Elm Grove"
+   ],
+   [
+    "SECRET",
+    "ghp_1858aB213976cD57312228eF"
+   ],
+   [
+    "IBAN",
+    "GB31 HBUK 8374 6843 3689 57"
+   ],
+   [
+    "PERSON",
+    "Natalie Oyelaran"
+   ],
+   [
+    "ADDRESS",
+    "Flat 1, 2310 Sycamore Close, London"
+   ],
+   [
+    "PERSON",
+    "James Vandermeer"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "table_csv_0.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "PERSON",
+    "William N. Gallagher"
+   ],
+   [
+    "BIRTH_DATE",
+    "September 10, 1961"
+   ],
+   [
+    "NI",
+    "JX 97 31 69 C"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "ADDRESS",
+    "Flat 18, 2528 Harcourt Terrace, Bristol"
+   ],
+   [
+    "PERSON",
+    "Patrick Whitcombe"
+   ],
+   [
+    "BIRTH_DATE",
+    "10/08/1994"
+   ],
+   [
+    "NI",
+    "YX 64 51 99 C"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "699 Pinecrest Parkway, Springfield, IL 62704"
+   ],
+   [
+    "PERSON",
+    "John Whitfield"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/28/75"
+   ],
+   [
+    "NI",
+    "GN 80 96 43 A"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "ADDRESS",
+    "3697 Marchmont Avenue, Suite 815, Springfield, IL 62704"
+   ],
+   [
+    "PERSON",
+    "Oliver J. Tillman"
+   ],
+   [
+    "BIRTH_DATE",
+    "23th of January 1957"
+   ],
+   [
+    "NI",
+    "BK 72 26 25 B"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "2133 Old Mill Road, Apt 29C, Springfield, IL"
+   ],
+   [
+    "PERSON",
+    "Harriet N. Delacroix"
+   ],
+   [
+    "BIRTH_DATE",
+    "17.10.2000"
+   ],
+   [
+    "NI",
+    "SB606884C"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "ADDRESS",
+    "2044 Tavistock Boulevard, Apt 10C, Springfield, IL"
+   ],
+   [
+    "PERSON",
+    "TERRENCE NAKAMURA"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/10/80"
+   ],
+   [
+    "NI",
+    "CY 84 90 66 A"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "ADDRESS",
+    "4885 Fenwick Street, Columbus, OH 43215"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_xlsx_0.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "PERSON",
+    "Prescott, Olivia"
+   ],
+   [
+    "BIRTH_DATE",
+    "01/24/1998"
+   ],
+   [
+    "NI",
+    "ZG616980B"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "ADDRESS",
+    "66 Calloway Court, Suite 491, Portland, OR 97205"
+   ],
+   [
+    "PERSON",
+    "Elena A. Underhill"
+   ],
+   [
+    "BIRTH_DATE",
+    "1985-08-24"
+   ],
+   [
+    "NI",
+    "XZ 20 45 54 C"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "ADDRESS",
+    "3590 Brambleton Road, London NW1 6XE"
+   ],
+   [
+    "PERSON",
+    "Elena A. Fitzgerald"
+   ],
+   [
+    "BIRTH_DATE",
+    "25th of May 1999"
+   ],
+   [
+    "NI",
+    "EW 13 72 03 D"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "ADDRESS",
+    "1157 Kingsway, Apt 11B, Boston, MA"
+   ],
+   [
+    "PERSON",
+    "FIONA O'CONNELL"
+   ],
+   [
+    "BIRTH_DATE",
+    "5th of March 1987"
+   ],
+   [
+    "NI",
+    "NA704680C"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "Flat 3, 4529 Old Mill Road, Glasgow"
+   ],
+   [
+    "PERSON",
+    "NATHANIEL BRENNAN"
+   ],
+   [
+    "BIRTH_DATE",
+    "14/02/1975"
+   ],
+   [
+    "NI",
+    "GK 29 51 02 C"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "ADDRESS",
+    "3111A Calloway Court, Edinburgh, EH1 1YZ"
+   ],
+   [
+    "PERSON",
+    "Alicia Ashworth"
+   ],
+   [
+    "BIRTH_DATE",
+    "April 2, 1990"
+   ],
+   [
+    "NI",
+    "KH 78 81 36 A"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "ADDRESS",
+    "2339 Larkspur Way, Apt 19C, Denver, CO"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_docx_0.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "PERSON",
+    "Montgomery, Fiona"
+   ],
+   [
+    "BIRTH_DATE",
+    "03/09/1951"
+   ],
+   [
+    "SSN",
+    "458-12-7867"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "IBAN",
+    "GB13 HBUK 1620 0569 6210 14"
+   ],
+   [
+    "PERSON",
+    "Natalie M. Carmichael"
+   ],
+   [
+    "BIRTH_DATE",
+    "4/23/91"
+   ],
+   [
+    "SSN",
+    "562-72-8958"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "IBAN",
+    "GB65NWBK79091573756652"
+   ],
+   [
+    "PERSON",
+    "NATALIE IBRAHIM"
+   ],
+   [
+    "BIRTH_DATE",
+    "04/07/1987"
+   ],
+   [
+    "SSN",
+    "400-26-6311"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "IBAN",
+    "GB43 BARC 3468 2266 9930 35"
+   ],
+   [
+    "PERSON",
+    "Patrick Thornbury"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 8, 1984"
+   ],
+   [
+    "SSN",
+    "130-45-6654"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "IBAN",
+    "GB96BARC31408429080496"
+   ],
+   [
+    "PERSON",
+    "O'Connell, Katherine"
+   ],
+   [
+    "BIRTH_DATE",
+    "1968-11-26"
+   ],
+   [
+    "SSN",
+    "450-90-3135"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "IBAN",
+    "GB40NWBK98216831398161"
+   ],
+   [
+    "PERSON",
+    "Andrew M. Thornbury"
+   ],
+   [
+    "BIRTH_DATE",
+    "04/11/1982"
+   ],
+   [
+    "SSN",
+    "372-21-5678"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "IBAN",
+    "GB90 NWBK 2305 7359 0131 19"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pptx_0.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "PERSON",
+    "Terrence Whitfield"
+   ],
+   [
+    "BIRTH_DATE",
+    "Aug 1, 1970"
+   ],
+   [
+    "PASSPORT",
+    "903155979"
+   ],
+   [
+    "SSN",
+    "289-41-6045"
+   ],
+   [
+    "EMAIL",
+    "oliver.ibrahim@example.com"
+   ],
+   [
+    "PERSON",
+    "KATHERINE OKONKWO"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/24/01"
+   ],
+   [
+    "PASSPORT",
+    "D23368084"
+   ],
+   [
+    "SSN",
+    "139-76-3847"
+   ],
+   [
+    "EMAIL",
+    "mprescott56@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Dwayne K. Dunleavy"
+   ],
+   [
+    "BIRTH_DATE",
+    "Aug 5, 2001"
+   ],
+   [
+    "PASSPORT",
+    "682092802"
+   ],
+   [
+    "SSN",
+    "457-24-1302"
+   ],
+   [
+    "EMAIL",
+    "billing76@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "James Thornbury"
+   ],
+   [
+    "BIRTH_DATE",
+    "8th of March 1960"
+   ],
+   [
+    "PASSPORT",
+    "A23743287"
+   ],
+   [
+    "SSN",
+    "459-41-5704"
+   ],
+   [
+    "EMAIL",
+    "billing15@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "FIONA TILLMAN"
+   ],
+   [
+    "BIRTH_DATE",
+    "19.04.1954"
+   ],
+   [
+    "PASSPORT",
+    "G56608538"
+   ],
+   [
+    "SSN",
+    "646-26-2311"
+   ],
+   [
+    "EMAIL",
+    "billing13@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Delacroix, Priya"
+   ],
+   [
+    "BIRTH_DATE",
+    "21th of August 1961"
+   ],
+   [
+    "PASSPORT",
+    "F19561512"
+   ],
+   [
+    "SSN",
+    "606-13-1729"
+   ],
+   [
+    "EMAIL",
+    "nathaniel.underhill@example.com"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_html_0.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PERSON",
+    "Dwayne R. Ashworth"
+   ],
+   [
+    "PASSPORT",
+    "H9296973"
+   ],
+   [
+    "BIRTH_DATE",
+    "3/16/71"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "CARD",
+    "4012 7368 8019 9861"
+   ],
+   [
+    "PERSON",
+    "DANIEL OKONKWO"
+   ],
+   [
+    "PASSPORT",
+    "G5243932"
+   ],
+   [
+    "BIRTH_DATE",
+    "7 September 1988"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "CARD",
+    "5500867709242545"
+   ],
+   [
+    "PERSON",
+    "Hollingsworth, Oliver"
+   ],
+   [
+    "PASSPORT",
+    "F4503036"
+   ],
+   [
+    "BIRTH_DATE",
+    "19.09.2000"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "CARD",
+    "5500-8084-5558-0472"
+   ],
+   [
+    "PERSON",
+    "Tillman, Alicia"
+   ],
+   [
+    "PASSPORT",
+    "E4057923"
+   ],
+   [
+    "BIRTH_DATE",
+    "Apr 22, 1970"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CARD",
+    "4012 4989 5960 6728"
+   ],
+   [
+    "PERSON",
+    "JAMES TILLMAN"
+   ],
+   [
+    "PASSPORT",
+    "Y7271308"
+   ],
+   [
+    "BIRTH_DATE",
+    "06/12/1998"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CARD",
+    "5500-2860-2026-6671"
+   ],
+   [
+    "PERSON",
+    "Richard Brennan"
+   ],
+   [
+    "PASSPORT",
+    "Z5154853"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 17, 1960"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CARD",
+    "5105-3413-3825-7133"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_md_0.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "PERSON",
+    "Gallagher, Nathaniel"
+   ],
+   [
+    "BIRTH_DATE",
+    "06/21/2003"
+   ],
+   [
+    "SSN",
+    "117-40-6073"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "IBAN",
+    "GB32 BARC 4873 5151 5695 58"
+   ],
+   [
+    "PERSON",
+    "Pemberton, Margaret"
+   ],
+   [
+    "BIRTH_DATE",
+    "8/25/93"
+   ],
+   [
+    "SSN",
+    "216-39-7623"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "IBAN",
+    "GB61 NWBK 6270 9413 9325 54"
+   ],
+   [
+    "PERSON",
+    "THOMAS HARGROVE"
+   ],
+   [
+    "BIRTH_DATE",
+    "1951-10-08"
+   ],
+   [
+    "SSN",
+    "402-35-7178"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "IBAN",
+    "GB41NWBK28152327124196"
+   ],
+   [
+    "PERSON",
+    "Natalie Thornbury"
+   ],
+   [
+    "BIRTH_DATE",
+    "23.09.1955"
+   ],
+   [
+    "SSN",
+    "440-81-2651"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "IBAN",
+    "GB89 BARC 0138 7096 7706 33"
+   ],
+   [
+    "PERSON",
+    "Harriet Okonkwo"
+   ],
+   [
+    "BIRTH_DATE",
+    "July 17, 1980"
+   ],
+   [
+    "SSN",
+    "278-81-3808"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "IBAN",
+    "GB72BARC28641587143677"
+   ],
+   [
+    "PERSON",
+    "REBECCA O'CONNELL"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/28/82"
+   ],
+   [
+    "SSN",
+    "443-27-6246"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "IBAN",
+    "GB89 HBUK 4987 5279 3849 17"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pdf_0.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "Laura D. Ibrahim"
+   ],
+   [
+    "PASSPORT",
+    "G3017578"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/26/1952"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "CARD",
+    "5105 1025 0807 9115"
+   ],
+   [
+    "PERSON",
+    "Oyelaran, Rebecca"
+   ],
+   [
+    "PASSPORT",
+    "X3226336"
+   ],
+   [
+    "BIRTH_DATE",
+    "September 8, 1977"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "CARD",
+    "5105358700256634"
+   ],
+   [
+    "PERSON",
+    "Kowalczyk, Natalie"
+   ],
+   [
+    "PASSPORT",
+    "077796270"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 20, 1964"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CARD",
+    "5105-5516-6044-2687"
+   ],
+   [
+    "PERSON",
+    "NATALIE O'CONNELL"
+   ],
+   [
+    "PASSPORT",
+    "E2369838"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/11/1952"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "CARD",
+    "4012111535260692"
+   ],
+   [
+    "PERSON",
+    "NATALIE IBRAHIM"
+   ],
+   [
+    "PASSPORT",
+    "X1643917"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/24/1980"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CARD",
+    "4012484113899060"
+   ],
+   [
+    "PERSON",
+    "PATRICK ASHWORTH"
+   ],
+   [
+    "PASSPORT",
+    "F1163195"
+   ],
+   [
+    "BIRTH_DATE",
+    "November 2, 1988"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CARD",
+    "4012626525544003"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_txt_0.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "PERSON",
+    "ANDREW DUNLEAVY"
+   ],
+   [
+    "BIRTH_DATE",
+    "07.01.1960"
+   ],
+   [
+    "NI",
+    "YZ 12 15 29 A"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "4613 Brambleton Road, Apt 32B, Portland, OR"
+   ],
+   [
+    "PERSON",
+    "Fiona T. Kilpatrick"
+   ],
+   [
+    "BIRTH_DATE",
+    "Feb 7, 1997"
+   ],
+   [
+    "NI",
+    "AG529540A"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "ADDRESS",
+    "2833 Pinecrest Parkway, Sheffield S1 2HE"
+   ],
+   [
+    "PERSON",
+    "Dunleavy, Thomas"
+   ],
+   [
+    "BIRTH_DATE",
+    "December 21, 1961"
+   ],
+   [
+    "NI",
+    "LN848792C"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "ADDRESS",
+    "1754 Tavistock Boulevard, Sacramento, CA 95814"
+   ],
+   [
+    "PERSON",
+    "Oliver Hollingsworth"
+   ],
+   [
+    "BIRTH_DATE",
+    "28 November 1997"
+   ],
+   [
+    "NI",
+    "NH959305D"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "ADDRESS",
+    "4488 Kingsway, Apt 4C, Columbus, OH"
+   ],
+   [
+    "PERSON",
+    "GARETH WHITFIELD"
+   ],
+   [
+    "BIRTH_DATE",
+    "November 11, 1998"
+   ],
+   [
+    "NI",
+    "ZR764464D"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "ADDRESS",
+    "Flat 12, 791 Old Mill Road, Cardiff"
+   ],
+   [
+    "PERSON",
+    "Nakamura, Samantha"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/18/1966"
+   ],
+   [
+    "NI",
+    "XY747547C"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "ADDRESS",
+    "2589 Pinecrest Parkway, Sacramento, CA 95814"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "prose_txt_1.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "PERSON",
+    "Grace Jankowski"
+   ],
+   [
+    "CITY",
+    "AUSTIN"
+   ],
+   [
+    "NI",
+    "AG824529B"
+   ],
+   [
+    "PERSON",
+    "Elizabeth Haverford"
+   ],
+   [
+    "EMAIL",
+    "billing34@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Thomas Okonkwo"
+   ],
+   [
+    "BIRTH_DATE",
+    "7/10/92"
+   ],
+   [
+    "ORG",
+    "Ashgrove Pharmaceuticals"
+   ],
+   [
+    "ORG",
+    "Halcyon Dynamics"
+   ],
+   [
+    "PERSON",
+    "Jankowski, William"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 11, 1956"
+   ],
+   [
+    "SSN",
+    "121-71-8913"
+   ],
+   [
+    "ADDRESS",
+    "14 Kingsway, Suite 786, Denver, CO 80202"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "SECRET",
+    "sk_live_605555Zq58555688Xw"
+   ],
+   [
+    "BIRTH_DATE",
+    "01/08/1969"
+   ],
+   [
+    "NI",
+    "XA 58 99 58 B"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "SECRET",
+    "ghp_4339aB767112cD79224190eF"
+   ],
+   [
+    "CARD",
+    "4111 9889 0900 2739"
+   ],
+   [
+    "CITY",
+    "MANCHESTER"
+   ],
+   [
+    "ADDRESS",
+    "2868A Wexford Drive, Leeds, LS1 4AP"
+   ],
+   [
+    "PERSON",
+    "Richard Castellanos"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "PERSON",
+    "Nakamura, Oliver"
+   ],
+   [
+    "BIRTH_DATE",
+    "12 December 1951"
+   ],
+   [
+    "SSN",
+    "531-46-9676"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_csv_1.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "ORG",
+    "Meridian Freight Inc."
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "SECRET",
+    "Rv605!kd9684Pm"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "ADDRESS",
+    "13 Tavistock Boulevard"
+   ],
+   [
+    "PERSON",
+    "Montgomery R."
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PERSON",
+    "RICHARD ABERNATHY"
+   ],
+   [
+    "PERSON",
+    "DWAYNE TILLMAN"
+   ],
+   [
+    "PERSON",
+    "RAYMOND OYELARAN"
+   ],
+   [
+    "PERSON",
+    "TERRENCE SANDOVAL"
+   ],
+   [
+    "EMAIL",
+    "raymond.carmichael@example.com"
+   ],
+   [
+    "PERSON",
+    "N. Haverford"
+   ],
+   [
+    "PHONE",
+    "07700 900966"
+   ],
+   [
+    "PERSON",
+    "Grace Hollingsworth"
+   ],
+   [
+    "PERSON",
+    "Quigley K."
+   ],
+   [
+    "PERSON",
+    "Anna-Marie Fitzgerald-Gallagher"
+   ],
+   [
+    "CARD",
+    "5500-8743-7226-0127"
+   ],
+   [
+    "SECRET",
+    "sk_live_684610Zq83121177Xw"
+   ],
+   [
+    "PERSON",
+    "Olivia Ibrahim"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_xlsx_1.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "PERSON",
+    "Katherine McAllister"
+   ],
+   [
+    "PERSON",
+    "Kevin"
+   ],
+   [
+    "PERSON",
+    "Montgomery P."
+   ],
+   [
+    "PHONE",
+    "(415) 555-8519"
+   ],
+   [
+    "PHONE",
+    "555-056-2609"
+   ],
+   [
+    "PHONE",
+    "(415) 555-6151"
+   ],
+   [
+    "PHONE",
+    "(415) 555-2819"
+   ],
+   [
+    "IBAN",
+    "GB60BARC74627961897010"
+   ],
+   [
+    "PERSON",
+    "Kevin McAllister"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PERSON",
+    "T. Okonkwo"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 0166"
+   ],
+   [
+    "PERSON",
+    "Andrew"
+   ],
+   [
+    "PERSON",
+    "Daniel Carmichael"
+   ],
+   [
+    "PERSON",
+    "O.R. Delacroix"
+   ],
+   [
+    "PERSON",
+    "Thomas Sandoval"
+   ],
+   [
+    "EMAIL",
+    "whitcombe_imogen@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "Nathaniel Dunleavy"
+   ],
+   [
+    "PERSON",
+    "Anna-Marie Pemberton-Fitzgerald"
+   ],
+   [
+    "ORG",
+    "Marlowe & Sons"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-6195"
+   ],
+   [
+    "EMAIL",
+    "samantha.tillman@example.com"
+   ],
+   [
+    "PHONE",
+    "617.555.0638"
+   ],
+   [
+    "EMAIL",
+    "ashworth_megan@corp-demo.example.net"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "BIRTH_DATE",
+    "05/15/1978"
+   ],
+   [
+    "NI",
+    "HL322604A"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_docx_1.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "PERSON",
+    "Underhill"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PERSON",
+    "O'Connell"
+   ],
+   [
+    "PHONE",
+    "07700 900458"
+   ],
+   [
+    "PERSON",
+    "Marcus Vandermeer"
+   ],
+   [
+    "PERSON",
+    "P.J. Whitfield"
+   ],
+   [
+    "NI",
+    "MA 73 86 46 C"
+   ],
+   [
+    "PERSON",
+    "Dunleavy, Laura"
+   ],
+   [
+    "BIRTH_DATE",
+    "14th of November 1999"
+   ],
+   [
+    "SSN",
+    "357-52-2628"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "SECRET",
+    "Rv336!kd2024Pm"
+   ],
+   [
+    "PERSON",
+    "Megan Lindqvist"
+   ],
+   [
+    "PERSON",
+    "NATHANIEL UNDERHILL"
+   ],
+   [
+    "PERSON",
+    "Jankowski"
+   ],
+   [
+    "ORG",
+    "Halcyon Dynamics"
+   ],
+   [
+    "ORG",
+    "Larkfield University"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "PERSON",
+    "Natalie Carmichael"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PERSON",
+    "Megan"
+   ],
+   [
+    "PERSON",
+    "Montgomery D."
+   ],
+   [
+    "BIRTH_DATE",
+    "3 May 1990"
+   ],
+   [
+    "NI",
+    "ZA258251C"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pptx_1.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "PERSON",
+    "Oliver Fitzgerald"
+   ],
+   [
+    "EMAIL",
+    "billing16@halcyon-demo.example.com"
+   ],
+   [
+    "SSN",
+    "167-89-1637"
+   ],
+   [
+    "PERSON",
+    "Rebecca Lindqvist"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "PERSON",
+    "Marcus"
+   ],
+   [
+    "PERSON",
+    "Ashworth R."
+   ],
+   [
+    "BIRTH_DATE",
+    "4/3/75"
+   ],
+   [
+    "BIRTH_DATE",
+    "1948-02-22"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/03/1967"
+   ],
+   [
+    "NI",
+    "AY676450A"
+   ],
+   [
+    "IP_ADDRESS",
+    "10.10.191.36"
+   ],
+   [
+    "PERSON",
+    "Dwayne"
+   ],
+   [
+    "PERSON",
+    "Laura Whitfield"
+   ],
+   [
+    "BIRTH_DATE",
+    "3/16/96"
+   ],
+   [
+    "ADDRESS",
+    "61 Kingsway"
+   ],
+   [
+    "SSN",
+    "540-46-8523"
+   ],
+   [
+    "PERSON",
+    "Elizabeth Brennan"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "PASSPORT",
+    "C91774161"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-8572"
+   ],
+   [
+    "PERSON",
+    "Daniel Brennan"
+   ],
+   [
+    "ADDRESS",
+    "1911 Wexford Drive, Columbus, OH 43215"
+   ],
+   [
+    "ORG",
+    "Blue Harbor Capital"
+   ],
+   [
+    "PERSON",
+    "Terrence Quigley"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_html_1.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PERSON",
+    "Olivia Hollingsworth"
+   ],
+   [
+    "PERSON",
+    "Gareth Nakamura"
+   ],
+   [
+    "EMAIL",
+    "daniel.lindqvist@example.com"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "SECRET",
+    "ghp_0083aB076408cD59318444eF"
+   ],
+   [
+    "PERSON",
+    "Raymond M. Brennan"
+   ],
+   [
+    "ORG",
+    "Silverline Telecom plc"
+   ],
+   [
+    "PERSON",
+    "J. Pemberton"
+   ],
+   [
+    "PHONE",
+    "555-286-2240"
+   ],
+   [
+    "SECRET",
+    "Tr0ub4dor&64x"
+   ],
+   [
+    "CARD",
+    "5105245657247098"
+   ],
+   [
+    "BIRTH_DATE",
+    "04.05.1964"
+   ],
+   [
+    "PERSON",
+    "Harriet Pemberton"
+   ],
+   [
+    "EMAIL",
+    "john.ibrahim@example.com"
+   ],
+   [
+    "ORG",
+    "Quillfeather Labs"
+   ],
+   [
+    "ORG",
+    "Marlowe & Sons"
+   ],
+   [
+    "SECRET",
+    "sk_live_711611Zq21630084Xw"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "SECRET",
+    "ghp_9948aB718703cD23049756eF"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "ORG",
+    "Corvid & Finch LLP"
+   ],
+   [
+    "PERSON",
+    "Kevin"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_md_1.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "IBAN",
+    "GB55BARC26673396569423"
+   ],
+   [
+    "PERSON",
+    "Robert Fitzgerald"
+   ],
+   [
+    "PERSON",
+    "Anna-Marie Dunleavy-Ashworth"
+   ],
+   [
+    "ORG",
+    "Ashgrove Pharmaceuticals"
+   ],
+   [
+    "ADDRESS",
+    "3506 Larkspur Way, Suite 484, Sacramento, CA 95814"
+   ],
+   [
+    "PERSON",
+    "Richard T. Delacroix"
+   ],
+   [
+    "BIRTH_DATE",
+    "22/12/1961"
+   ],
+   [
+    "PERSON",
+    "Natalie Whitcombe"
+   ],
+   [
+    "PERSON",
+    "R. Thornbury"
+   ],
+   [
+    "PHONE",
+    "07700 900431"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 7444, Pittsburgh, TX 78701"
+   ],
+   [
+    "PERSON",
+    "Dwayne Castellanos"
+   ],
+   [
+    "EMAIL",
+    "patrick.dunleavy@example.com"
+   ],
+   [
+    "SSN",
+    "477-65-8308"
+   ],
+   [
+    "PERSON",
+    "Priya Thornbury"
+   ],
+   [
+    "SSN",
+    "454-18-8763"
+   ],
+   [
+    "PERSON",
+    "Laura Tillman"
+   ],
+   [
+    "NI",
+    "RY700884B"
+   ],
+   [
+    "PERSON",
+    "Gareth Kowalczyk"
+   ],
+   [
+    "PERSON",
+    "Thomas"
+   ],
+   [
+    "PERSON",
+    "Thornbury R."
+   ],
+   [
+    "PERSON",
+    "Samantha Delacroix"
+   ],
+   [
+    "ADDRESS",
+    "3829A Pinecrest Parkway, Bristol, BS1 5TR"
+   ],
+   [
+    "BIRTH_DATE",
+    "August 16, 1973"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 8745, Portland, TX 78701"
+   ],
+   [
+    "CARD",
+    "5105774666297554"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pdf_1.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "OLIVIA CASTELLANOS"
+   ],
+   [
+    "ADDRESS",
+    "3836 Chestnut Lane, Portland, OR 97205"
+   ],
+   [
+    "PERSON",
+    "Gareth Delacroix"
+   ],
+   [
+    "PERSON",
+    "K.E. Rutherford"
+   ],
+   [
+    "CITY",
+    "SACRAMENTO"
+   ],
+   [
+    "PERSON",
+    "Andrew"
+   ],
+   [
+    "PERSON",
+    "McAllister M."
+   ],
+   [
+    "PASSPORT",
+    "006203835"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "BIRTH_DATE",
+    "27.07.2001"
+   ],
+   [
+    "NI",
+    "JB 19 39 05 C"
+   ],
+   [
+    "NI",
+    "EG 86 64 06 A"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 9685, Pittsburgh, TX 78701"
+   ],
+   [
+    "PERSON",
+    "McAllister"
+   ],
+   [
+    "ORG",
+    "Northwind Holdings"
+   ],
+   [
+    "ADDRESS",
+    "4560 Old Mill Road, Nottingham NG1 5FS"
+   ],
+   [
+    "PERSON",
+    "Grace K. Abernathy"
+   ],
+   [
+    "BIRTH_DATE",
+    "Dec 13, 1954"
+   ],
+   [
+    "PERSON",
+    "Hargrove, William"
+   ],
+   [
+    "BIRTH_DATE",
+    "16/08/1975"
+   ],
+   [
+    "SSN",
+    "514-75-5636"
+   ],
+   [
+    "PHONE",
+    "020 7946 7343"
+   ],
+   [
+    "PHONE",
+    "(415) 555-0900"
+   ],
+   [
+    "CARD",
+    "4012 2434 5985 4562"
+   ],
+   [
+    "PERSON",
+    "Jean-Paul Whitcombe-Dunleavy"
+   ],
+   [
+    "PERSON",
+    "LAURA THORNBURY"
+   ],
+   [
+    "EMAIL",
+    "rpemberton69@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Elena Ibrahim"
+   ],
+   [
+    "PERSON",
+    "Patrick Gallagher"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "table_csv_1.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "PERSON",
+    "ELIZABETH HARGROVE"
+   ],
+   [
+    "BIRTH_DATE",
+    "1980-02-27"
+   ],
+   [
+    "NI",
+    "SJ718080A"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ADDRESS",
+    "2396 Calloway Court, Suite 568, Columbus, OH 43215"
+   ],
+   [
+    "PERSON",
+    "DANIEL NAKAMURA"
+   ],
+   [
+    "BIRTH_DATE",
+    "1965-03-06"
+   ],
+   [
+    "NI",
+    "CN 24 20 25 A"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "ADDRESS",
+    "4364 Harcourt Terrace, Raleigh, NC 27601"
+   ],
+   [
+    "PERSON",
+    "Natalie Oyelaran"
+   ],
+   [
+    "BIRTH_DATE",
+    "December 10, 1952"
+   ],
+   [
+    "NI",
+    "BK334128B"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "ADDRESS",
+    "Flat 4, 640 Harcourt Terrace, Edinburgh"
+   ],
+   [
+    "PERSON",
+    "Raymond Oyelaran"
+   ],
+   [
+    "BIRTH_DATE",
+    "6/4/53"
+   ],
+   [
+    "NI",
+    "XK 98 71 03 A"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "Flat 11, 974 Wexford Drive, Glasgow"
+   ],
+   [
+    "PERSON",
+    "Thomas L. Delacroix"
+   ],
+   [
+    "BIRTH_DATE",
+    "1986-01-25"
+   ],
+   [
+    "NI",
+    "WM 70 92 87 C"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ADDRESS",
+    "3297 Kingsway, Apt 3C, Springfield, IL"
+   ],
+   [
+    "PERSON",
+    "GARETH PRESCOTT"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/09/1980"
+   ],
+   [
+    "NI",
+    "KR828634D"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "ADDRESS",
+    "1721 Kingsway, Sheffield S1 2HE"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_xlsx_1.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "PERSON",
+    "Laura Rutherford"
+   ],
+   [
+    "BIRTH_DATE",
+    "July 12, 1955"
+   ],
+   [
+    "PASSPORT",
+    "Y8277790"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 5109"
+   ],
+   [
+    "PERSON",
+    "RICHARD DUNLEAVY"
+   ],
+   [
+    "BIRTH_DATE",
+    "5/4/85"
+   ],
+   [
+    "PASSPORT",
+    "E8235167"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PHONE",
+    "020 7946 6139"
+   ],
+   [
+    "PERSON",
+    "Dunleavy, Natalie"
+   ],
+   [
+    "BIRTH_DATE",
+    "14 February 1965"
+   ],
+   [
+    "PASSPORT",
+    "H38523508"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "PHONE",
+    "(415) 555-3681"
+   ],
+   [
+    "PERSON",
+    "Marcus K. Abernathy"
+   ],
+   [
+    "BIRTH_DATE",
+    "5 August 1949"
+   ],
+   [
+    "PASSPORT",
+    "C00505667"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PHONE",
+    "(415) 555-0798"
+   ],
+   [
+    "PERSON",
+    "OLIVER DUNLEAVY"
+   ],
+   [
+    "BIRTH_DATE",
+    "April 9, 1950"
+   ],
+   [
+    "PASSPORT",
+    "654823919"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "PHONE",
+    "020 7946 4238"
+   ],
+   [
+    "PERSON",
+    "Jankowski, Andrew"
+   ],
+   [
+    "BIRTH_DATE",
+    "14.10.1960"
+   ],
+   [
+    "PASSPORT",
+    "396277940"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 6413"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_docx_1.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "PERSON",
+    "IMOGEN GALLAGHER"
+   ],
+   [
+    "BIRTH_DATE",
+    "1995-04-18"
+   ],
+   [
+    "PASSPORT",
+    "C42301089"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 9158"
+   ],
+   [
+    "PERSON",
+    "FIONA PEMBERTON"
+   ],
+   [
+    "BIRTH_DATE",
+    "1991-09-19"
+   ],
+   [
+    "PASSPORT",
+    "Y2018644"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PHONE",
+    "(415) 555-8415"
+   ],
+   [
+    "PERSON",
+    "MEGAN IBRAHIM"
+   ],
+   [
+    "BIRTH_DATE",
+    "August 7, 1985"
+   ],
+   [
+    "PASSPORT",
+    "A9097046"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PHONE",
+    "617.555.3780"
+   ],
+   [
+    "PERSON",
+    "Castellanos, Elena"
+   ],
+   [
+    "BIRTH_DATE",
+    "01/06/1970"
+   ],
+   [
+    "PASSPORT",
+    "F43066161"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PHONE",
+    "617.555.8549"
+   ],
+   [
+    "PERSON",
+    "Kevin C. Rutherford"
+   ],
+   [
+    "BIRTH_DATE",
+    "27.10.1980"
+   ],
+   [
+    "PASSPORT",
+    "F4907539"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-6470"
+   ],
+   [
+    "PERSON",
+    "Sandoval, Alicia"
+   ],
+   [
+    "BIRTH_DATE",
+    "Nov 27, 1952"
+   ],
+   [
+    "PASSPORT",
+    "B4027155"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 8948"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pptx_1.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "PERSON",
+    "Samantha Okonkwo"
+   ],
+   [
+    "BIRTH_DATE",
+    "December 18, 2002"
+   ],
+   [
+    "PASSPORT",
+    "839358142"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PHONE",
+    "07700 900125"
+   ],
+   [
+    "PERSON",
+    "Marcus Ibrahim"
+   ],
+   [
+    "BIRTH_DATE",
+    "27.11.1973"
+   ],
+   [
+    "PASSPORT",
+    "Z3333343"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 9045"
+   ],
+   [
+    "PERSON",
+    "Thomas E. Montgomery"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/07/1952"
+   ],
+   [
+    "PASSPORT",
+    "Z9788096"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PHONE",
+    "07700 900542"
+   ],
+   [
+    "PERSON",
+    "FIONA BRENNAN"
+   ],
+   [
+    "BIRTH_DATE",
+    "Jun 6, 1988"
+   ],
+   [
+    "PASSPORT",
+    "E92066146"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "PHONE",
+    "07700 900079"
+   ],
+   [
+    "PERSON",
+    "Rutherford, Elena"
+   ],
+   [
+    "BIRTH_DATE",
+    "11th of September 1999"
+   ],
+   [
+    "PASSPORT",
+    "G3231143"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 0842"
+   ],
+   [
+    "PERSON",
+    "Whitcombe, Andrew"
+   ],
+   [
+    "BIRTH_DATE",
+    "10.09.1963"
+   ],
+   [
+    "PASSPORT",
+    "E7665199"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PHONE",
+    "617.555.1352"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_html_1.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PERSON",
+    "ROBERT DELACROIX"
+   ],
+   [
+    "BIRTH_DATE",
+    "04/08/1957"
+   ],
+   [
+    "SSN",
+    "531-83-5721"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "IBAN",
+    "GB34 HBUK 1350 1319 5978 05"
+   ],
+   [
+    "PERSON",
+    "Rebecca R. O'Connell"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/10/1964"
+   ],
+   [
+    "SSN",
+    "433-40-9412"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "IBAN",
+    "GB10NWBK09542962962188"
+   ],
+   [
+    "PERSON",
+    "Imogen K. Vandermeer"
+   ],
+   [
+    "BIRTH_DATE",
+    "May 15, 1994"
+   ],
+   [
+    "SSN",
+    "615-58-7189"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "IBAN",
+    "GB17 HBUK 5906 5492 1886 70"
+   ],
+   [
+    "PERSON",
+    "GRACE CASTELLANOS"
+   ],
+   [
+    "BIRTH_DATE",
+    "24th of January 1987"
+   ],
+   [
+    "SSN",
+    "312-64-2016"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "IBAN",
+    "GB87BARC98597775773132"
+   ],
+   [
+    "PERSON",
+    "Tillman, Daniel"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 26, 1957"
+   ],
+   [
+    "SSN",
+    "328-74-1687"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "IBAN",
+    "GB31 HBUK 8535 8213 3792 71"
+   ],
+   [
+    "PERSON",
+    "Hollingsworth, Samantha"
+   ],
+   [
+    "BIRTH_DATE",
+    "27.02.1981"
+   ],
+   [
+    "SSN",
+    "566-56-9713"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "IBAN",
+    "GB22HBUK81249327859344"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_md_1.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "PERSON",
+    "Oyelaran, Raymond"
+   ],
+   [
+    "BIRTH_DATE",
+    "09.12.1956"
+   ],
+   [
+    "NI",
+    "RE993875D"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "2860 Marchmont Avenue, London NW1 6XE"
+   ],
+   [
+    "PERSON",
+    "ELENA HARGROVE"
+   ],
+   [
+    "BIRTH_DATE",
+    "2000-08-02"
+   ],
+   [
+    "NI",
+    "JR 96 56 74 D"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ADDRESS",
+    "101 Brambleton Road, Glasgow G2 4QZ"
+   ],
+   [
+    "PERSON",
+    "JONATHAN DELACROIX"
+   ],
+   [
+    "BIRTH_DATE",
+    "6/20/96"
+   ],
+   [
+    "NI",
+    "JP004598D"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ADDRESS",
+    "Flat 7, 2427 Calloway Court, Cardiff"
+   ],
+   [
+    "PERSON",
+    "Jankowski, Samantha"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 14, 1954"
+   ],
+   [
+    "NI",
+    "CH 96 16 04 A"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "ADDRESS",
+    "1970 Elm Grove, Leeds LS1 4AP"
+   ],
+   [
+    "PERSON",
+    "SAMANTHA MONTGOMERY"
+   ],
+   [
+    "BIRTH_DATE",
+    "10/19/1961"
+   ],
+   [
+    "NI",
+    "KB 53 94 55 A"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "ADDRESS",
+    "Flat 9, 3229 Old Mill Road, Nottingham"
+   ],
+   [
+    "PERSON",
+    "Ibrahim, Nathaniel"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/07/1952"
+   ],
+   [
+    "NI",
+    "YZ 52 47 52 A"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "ADDRESS",
+    "3107 Elm Grove, Sheffield S1 2HE"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pdf_1.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "Imogen D. Gallagher"
+   ],
+   [
+    "BIRTH_DATE",
+    "1997-06-13"
+   ],
+   [
+    "PASSPORT",
+    "232936292"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "PHONE",
+    "07700 900938"
+   ],
+   [
+    "PERSON",
+    "ELENA PRESCOTT"
+   ],
+   [
+    "BIRTH_DATE",
+    "18 June 1983"
+   ],
+   [
+    "PASSPORT",
+    "784009419"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 9569"
+   ],
+   [
+    "PERSON",
+    "Andrew B. Hargrove"
+   ],
+   [
+    "BIRTH_DATE",
+    "2003-06-07"
+   ],
+   [
+    "PASSPORT",
+    "Y6127750"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "PHONE",
+    "020 7946 7417"
+   ],
+   [
+    "PERSON",
+    "Montgomery, Robert"
+   ],
+   [
+    "BIRTH_DATE",
+    "10/1/02"
+   ],
+   [
+    "PASSPORT",
+    "C7354313"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PHONE",
+    "020 7946 5571"
+   ],
+   [
+    "PERSON",
+    "ELENA WHITCOMBE"
+   ],
+   [
+    "BIRTH_DATE",
+    "Sep 24, 1981"
+   ],
+   [
+    "PASSPORT",
+    "C67331766"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PHONE",
+    "(415) 555-3349"
+   ],
+   [
+    "PERSON",
+    "GARETH BRENNAN"
+   ],
+   [
+    "BIRTH_DATE",
+    "5th of August 1994"
+   ],
+   [
+    "PASSPORT",
+    "D46200911"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 6372"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_txt_1.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "PERSON",
+    "Gallagher, Laura"
+   ],
+   [
+    "BIRTH_DATE",
+    "September 14, 1991"
+   ],
+   [
+    "PASSPORT",
+    "C59925185"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "PHONE",
+    "617.555.8794"
+   ],
+   [
+    "PERSON",
+    "ELIZABETH JANKOWSKI"
+   ],
+   [
+    "BIRTH_DATE",
+    "October 26, 1991"
+   ],
+   [
+    "PASSPORT",
+    "E94746491"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 2420"
+   ],
+   [
+    "PERSON",
+    "Alicia Oyelaran"
+   ],
+   [
+    "BIRTH_DATE",
+    "September 27, 1991"
+   ],
+   [
+    "PASSPORT",
+    "D4614856"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 2242"
+   ],
+   [
+    "PERSON",
+    "Elizabeth Underhill"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 12, 1990"
+   ],
+   [
+    "PASSPORT",
+    "B8773282"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-0825"
+   ],
+   [
+    "PERSON",
+    "Thomas J. Pemberton"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/4/96"
+   ],
+   [
+    "PASSPORT",
+    "H8914654"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PHONE",
+    "(415) 555-0240"
+   ],
+   [
+    "PERSON",
+    "Okonkwo, Thomas"
+   ],
+   [
+    "BIRTH_DATE",
+    "7/13/86"
+   ],
+   [
+    "PASSPORT",
+    "A96114717"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 2441"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "prose_txt_2.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "NI",
+    "AL768526A"
+   ],
+   [
+    "PERSON",
+    "Raymond Haverford"
+   ],
+   [
+    "CITY",
+    "DENVER"
+   ],
+   [
+    "PERSON",
+    "Marcus Oyelaran"
+   ],
+   [
+    "BIRTH_DATE",
+    "Apr 21, 1975"
+   ],
+   [
+    "NI",
+    "PY 47 07 08 A"
+   ],
+   [
+    "SSN",
+    "317-98-9556"
+   ],
+   [
+    "PERSON",
+    "Megan Okonkwo"
+   ],
+   [
+    "ADDRESS",
+    "32 Chestnut Lane"
+   ],
+   [
+    "CARD",
+    "4012-4163-6164-8245"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-6372"
+   ],
+   [
+    "EMAIL",
+    "megan.vandermeer@example.com"
+   ],
+   [
+    "IBAN",
+    "GB07BARC41775011830895"
+   ],
+   [
+    "PERSON",
+    "Harriet Castellanos"
+   ],
+   [
+    "PERSON",
+    "E.E. Fitzgerald"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PERSON",
+    "W. Gallagher"
+   ],
+   [
+    "PHONE",
+    "020 7946 0074"
+   ],
+   [
+    "CITY",
+    "TULSA"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "ORG",
+    "Redwood Ferris Logistics"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_csv_2.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "PERSON",
+    "Ashworth, Elena"
+   ],
+   [
+    "PASSPORT",
+    "Z2630673"
+   ],
+   [
+    "SSN",
+    "600-53-1662"
+   ],
+   [
+    "PERSON",
+    "John Ashworth"
+   ],
+   [
+    "PERSON",
+    "ELENA RUTHERFORD"
+   ],
+   [
+    "PERSON",
+    "MARCUS WHITCOMBE"
+   ],
+   [
+    "PERSON",
+    "Elena Kilpatrick"
+   ],
+   [
+    "EMAIL",
+    "oyelaran_fiona@corp-demo.example.net"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "ADDRESS",
+    "3900 Calloway Court, Suite 129, Boston, MA 02108"
+   ],
+   [
+    "PERSON",
+    "Laura Montgomery"
+   ],
+   [
+    "PASSPORT",
+    "Y7412254"
+   ],
+   [
+    "BIRTH_DATE",
+    "Aug 17, 1969"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "PERSON",
+    "Gareth Haverford"
+   ],
+   [
+    "PERSON",
+    "J.S. Pemberton"
+   ],
+   [
+    "PASSPORT",
+    "B40562091"
+   ],
+   [
+    "PERSON",
+    "Terrence Tillman"
+   ],
+   [
+    "PERSON",
+    "Whitfield, Samantha"
+   ],
+   [
+    "PERSON",
+    "Hargrove, Oliver"
+   ],
+   [
+    "ADDRESS",
+    "25 Fenwick Street"
+   ],
+   [
+    "SECRET",
+    "sk_live_629701Zq87406638Xw"
+   ],
+   [
+    "PERSON",
+    "Gallagher, Elizabeth"
+   ],
+   [
+    "PERSON",
+    "Ashworth, Grace"
+   ],
+   [
+    "PHONE",
+    "020 7946 7419"
+   ],
+   [
+    "PERSON",
+    "Dwayne McAllister"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_xlsx_2.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "PHONE",
+    "555-300-1468"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 8961"
+   ],
+   [
+    "BIRTH_DATE",
+    "22th of April 1951"
+   ],
+   [
+    "NI",
+    "PG 28 80 98 A"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "ADDRESS",
+    "61 Brambleton Road"
+   ],
+   [
+    "PASSPORT",
+    "005578849"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 9516, Denver, TX 78701"
+   ],
+   [
+    "PERSON",
+    "NATALIE HARGROVE"
+   ],
+   [
+    "PERSON",
+    "RICHARD KILPATRICK"
+   ],
+   [
+    "BIRTH_DATE",
+    "13/12/1959"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "IBAN",
+    "GB17HBUK48514211531226"
+   ],
+   [
+    "PERSON",
+    "Laura E. Whitcombe"
+   ],
+   [
+    "ORG",
+    "Tidewater Insurance"
+   ],
+   [
+    "BIRTH_DATE",
+    "03.07.1982"
+   ],
+   [
+    "NI",
+    "EY 83 60 63 B"
+   ],
+   [
+    "PERSON",
+    "Samantha Dunleavy"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 1359"
+   ],
+   [
+    "EMAIL",
+    "billing33@halcyon-demo.example.com"
+   ],
+   [
+    "PHONE",
+    "(415) 555-3755"
+   ],
+   [
+    "EMAIL",
+    "billing21@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Haverford"
+   ],
+   [
+    "ADDRESS",
+    "1772 Tavistock Boulevard, Manchester M1 1AE"
+   ],
+   [
+    "PERSON",
+    "G. Quigley"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-9705"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_docx_2.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "ADDRESS",
+    "312A Pinecrest Parkway, Bristol, BS1 5TR"
+   ],
+   [
+    "PERSON",
+    "Gareth Sandoval"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "PERSON",
+    "Grace R. Brennan"
+   ],
+   [
+    "ORG",
+    "Silverline Telecom plc"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 1375"
+   ],
+   [
+    "EMAIL",
+    "billing41@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Patrick Pemberton"
+   ],
+   [
+    "PHONE",
+    "(415) 555-9592"
+   ],
+   [
+    "PHONE",
+    "07700 900317"
+   ],
+   [
+    "ADDRESS",
+    "Flat 1, 1463 Wexford Drive, Sheffield"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PERSON",
+    "Terrence Rutherford"
+   ],
+   [
+    "PERSON",
+    "Marcus Kowalczyk"
+   ],
+   [
+    "ORG",
+    "Corvid & Finch LLP"
+   ],
+   [
+    "PERSON",
+    "Kevin Kowalczyk"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "CARD",
+    "5105-4725-5600-5498"
+   ],
+   [
+    "CITY",
+    "SHEFFIELD"
+   ],
+   [
+    "ORG",
+    "Larkfield University"
+   ],
+   [
+    "ADDRESS",
+    "Flat 16, 1607 Harcourt Terrace, Manchester"
+   ],
+   [
+    "PERSON",
+    "John L. Kowalczyk"
+   ],
+   [
+    "BIRTH_DATE",
+    "12.12.2001"
+   ],
+   [
+    "CARD",
+    "4111 9992 5404 4663"
+   ],
+   [
+    "PASSPORT",
+    "C52631993"
+   ],
+   [
+    "CITY",
+    "TULSA"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pptx_2.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "PERSON",
+    "Oyelaran, Laura"
+   ],
+   [
+    "PERSON",
+    "Ashworth, Dwayne"
+   ],
+   [
+    "PERSON",
+    "Patrick Hargrove"
+   ],
+   [
+    "PERSON",
+    "Alicia Ibrahim"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 4283, Columbus, TX 78701"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PASSPORT",
+    "C3264052"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "CITY",
+    "BOSTON"
+   ],
+   [
+    "PHONE",
+    "+1 212 555 1918"
+   ],
+   [
+    "PERSON",
+    "Thomas Delacroix"
+   ],
+   [
+    "ORG",
+    "Tidewater Insurance"
+   ],
+   [
+    "PERSON",
+    "Brennan R."
+   ],
+   [
+    "PERSON",
+    "Whitcombe"
+   ],
+   [
+    "PHONE",
+    "555-202-8953"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 8231"
+   ],
+   [
+    "PERSON",
+    "Marcus Gallagher"
+   ],
+   [
+    "EMAIL",
+    "billing01@halcyon-demo.example.com"
+   ],
+   [
+    "ADDRESS",
+    "P.O. Box 8978, Raleigh, TX 78701"
+   ],
+   [
+    "IBAN",
+    "GB81 HBUK 3154 8947 1948 40"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "ADDRESS",
+    "2037A Marchmont Avenue, Bristol, BS1 5TR"
+   ],
+   [
+    "PERSON",
+    "Olivia R. Quigley"
+   ],
+   [
+    "BIRTH_DATE",
+    "2001-12-21"
+   ],
+   [
+    "PERSON",
+    "Olivia"
+   ],
+   [
+    "PERSON",
+    "Jean-Paul Underhill-O'Connell"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_html_2.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PHONE",
+    "07700 900108"
+   ],
+   [
+    "EMAIL",
+    "laura.vandermeer@example.com"
+   ],
+   [
+    "CITY",
+    "SHEFFIELD"
+   ],
+   [
+    "PERSON",
+    "Jean-Paul Quigley-Brennan"
+   ],
+   [
+    "PERSON",
+    "McAllister, Margaret"
+   ],
+   [
+    "PERSON",
+    "Thornbury, Oliver"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 7326"
+   ],
+   [
+    "EMAIL",
+    "billing53@halcyon-demo.example.com"
+   ],
+   [
+    "CARD",
+    "4111 7384 3945 9721"
+   ],
+   [
+    "BIRTH_DATE",
+    "17 January 1970"
+   ],
+   [
+    "NI",
+    "XK612032D"
+   ],
+   [
+    "SECRET",
+    "Tr0ub4dor&62x"
+   ],
+   [
+    "PERSON",
+    "Gallagher S."
+   ],
+   [
+    "PERSON",
+    "Carmichael, Raymond"
+   ],
+   [
+    "PERSON",
+    "Abernathy, Marcus"
+   ],
+   [
+    "ORG",
+    "Silverline Telecom plc"
+   ],
+   [
+    "ADDRESS",
+    "356 Marchmont Avenue, Apt 34B, Pittsburgh, PA"
+   ],
+   [
+    "PERSON",
+    "Harriet R. Nakamura"
+   ],
+   [
+    "BIRTH_DATE",
+    "07/11/1984"
+   ],
+   [
+    "PERSON",
+    "James Lindqvist"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "ORG",
+    "Kestrel Analytics"
+   ],
+   [
+    "PERSON",
+    "Hargrove"
+   ],
+   [
+    "BIRTH_DATE",
+    "5/20/83"
+   ],
+   [
+    "SECRET",
+    "Rv157!kd2851Pm"
+   ],
+   [
+    "IP_ADDRESS",
+    "10.48.198.16"
+   ],
+   [
+    "ORG",
+    "Silverline Telecom plc"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_md_2.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "NI",
+    "MM118766B"
+   ],
+   [
+    "PERSON",
+    "REBECCA MONTGOMERY"
+   ],
+   [
+    "PERSON",
+    "Alicia Abernathy"
+   ],
+   [
+    "EMAIL",
+    "ocastellanos96@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Castellanos"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "ORG",
+    "Marlowe & Sons"
+   ],
+   [
+    "PERSON",
+    "Kevin Fitzgerald"
+   ],
+   [
+    "EMAIL",
+    "funderhill88@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "IMOGEN RUTHERFORD"
+   ],
+   [
+    "PERSON",
+    "ROBERT THORNBURY"
+   ],
+   [
+    "ADDRESS",
+    "72 Marchmont Avenue"
+   ],
+   [
+    "CARD",
+    "5500-5083-4720-8080"
+   ],
+   [
+    "PERSON",
+    "Robert L. Hargrove"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "PERSON",
+    "MEGAN QUIGLEY"
+   ],
+   [
+    "PERSON",
+    "ELIZABETH PRESCOTT"
+   ],
+   [
+    "PERSON",
+    "Lindqvist R."
+   ],
+   [
+    "PHONE",
+    "555-139-3800"
+   ],
+   [
+    "EMAIL",
+    "tmcallister72@demo-mail.example.org"
+   ],
+   [
+    "CARD",
+    "4111689451925364"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 7360"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 7923"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PERSON",
+    "Margaret Oyelaran"
+   ],
+   [
+    "EMAIL",
+    "prescott_patrick@corp-demo.example.net"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "prose_pdf_2.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "Olivia Tillman"
+   ],
+   [
+    "PERSON",
+    "Natalie Abernathy"
+   ],
+   [
+    "PERSON",
+    "Imogen Oyelaran"
+   ],
+   [
+    "PERSON",
+    "G.K. Okonkwo"
+   ],
+   [
+    "ORG",
+    "Granite Peak Energy"
+   ],
+   [
+    "PASSPORT",
+    "H59869516"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PERSON",
+    "Megan Jankowski"
+   ],
+   [
+    "ORG",
+    "Northwind Holdings"
+   ],
+   [
+    "NI",
+    "HP765169A"
+   ],
+   [
+    "PERSON",
+    "Thornbury, Priya"
+   ],
+   [
+    "PASSPORT",
+    "A9487117"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CITY",
+    "BOSTON"
+   ],
+   [
+    "ADDRESS",
+    "2037B Pinecrest Parkway, London, NW1 6XE"
+   ],
+   [
+    "PASSPORT",
+    "519530636"
+   ],
+   [
+    "PERSON",
+    "Prescott S."
+   ],
+   [
+    "ORG",
+    "Corvid & Finch LLP"
+   ],
+   [
+    "ORG",
+    "Brightline Systems Ltd"
+   ],
+   [
+    "SSN",
+    "543-58-6706"
+   ],
+   [
+    "PERSON",
+    "Elena Tillman"
+   ],
+   [
+    "PASSPORT",
+    "186841609"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "IBAN",
+    "GB45BARC82757841755244"
+   ],
+   [
+    "CITY",
+    "Portland"
+   ],
+   [
+    "ORG",
+    "Ashgrove Pharmaceuticals"
+   ],
+   [
+    "PERSON",
+    "Patrick Sandoval"
+   ]
+  ],
+  "kind": "prose"
+ },
+ {
+  "id": "table_csv_2.csv",
+  "fmt": "csv",
+  "gold": [
+   [
+    "PERSON",
+    "Gareth E. Delacroix"
+   ],
+   [
+    "BIRTH_DATE",
+    "10.11.1951"
+   ],
+   [
+    "PASSPORT",
+    "G43297322"
+   ],
+   [
+    "SSN",
+    "536-31-1608"
+   ],
+   [
+    "EMAIL",
+    "tillman_marcus@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "HARRIET OYELARAN"
+   ],
+   [
+    "BIRTH_DATE",
+    "08.12.1974"
+   ],
+   [
+    "PASSPORT",
+    "A6122726"
+   ],
+   [
+    "SSN",
+    "232-40-7772"
+   ],
+   [
+    "EMAIL",
+    "moyelaran31@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Grace J. Hargrove"
+   ],
+   [
+    "BIRTH_DATE",
+    "10/16/1986"
+   ],
+   [
+    "PASSPORT",
+    "791166235"
+   ],
+   [
+    "SSN",
+    "423-45-2794"
+   ],
+   [
+    "EMAIL",
+    "ppemberton59@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "James E. Tillman"
+   ],
+   [
+    "BIRTH_DATE",
+    "12 June 1984"
+   ],
+   [
+    "PASSPORT",
+    "A44079778"
+   ],
+   [
+    "SSN",
+    "564-25-7187"
+   ],
+   [
+    "EMAIL",
+    "dhargrove26@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Gareth Okonkwo"
+   ],
+   [
+    "BIRTH_DATE",
+    "July 5, 1950"
+   ],
+   [
+    "PASSPORT",
+    "Z5780110"
+   ],
+   [
+    "SSN",
+    "551-15-7708"
+   ],
+   [
+    "EMAIL",
+    "oliver.prescott@example.com"
+   ],
+   [
+    "PERSON",
+    "Fiona Hargrove"
+   ],
+   [
+    "BIRTH_DATE",
+    "7/8/82"
+   ],
+   [
+    "PASSPORT",
+    "Y8929545"
+   ],
+   [
+    "SSN",
+    "470-39-7335"
+   ],
+   [
+    "EMAIL",
+    "kashworth15@demo-mail.example.org"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_xlsx_2.xlsx",
+  "fmt": "xlsx",
+  "gold": [
+   [
+    "PERSON",
+    "Gareth S. Quigley"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/15/86"
+   ],
+   [
+    "PASSPORT",
+    "382759875"
+   ],
+   [
+    "SSN",
+    "429-47-7453"
+   ],
+   [
+    "EMAIL",
+    "swhitcombe54@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Terrence C. Carmichael"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/3/97"
+   ],
+   [
+    "PASSPORT",
+    "683144658"
+   ],
+   [
+    "SSN",
+    "109-70-2045"
+   ],
+   [
+    "EMAIL",
+    "dcastellanos98@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "HARRIET SANDOVAL"
+   ],
+   [
+    "BIRTH_DATE",
+    "08/27/1971"
+   ],
+   [
+    "PASSPORT",
+    "B7154512"
+   ],
+   [
+    "SSN",
+    "553-42-8046"
+   ],
+   [
+    "EMAIL",
+    "jprescott11@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "John S. Jankowski"
+   ],
+   [
+    "BIRTH_DATE",
+    "October 21, 1965"
+   ],
+   [
+    "PASSPORT",
+    "A29476933"
+   ],
+   [
+    "SSN",
+    "113-53-7603"
+   ],
+   [
+    "EMAIL",
+    "castellanos_priya@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "Andrew L. Abernathy"
+   ],
+   [
+    "BIRTH_DATE",
+    "22 April 1970"
+   ],
+   [
+    "PASSPORT",
+    "A6221335"
+   ],
+   [
+    "SSN",
+    "656-35-1551"
+   ],
+   [
+    "EMAIL",
+    "equigley72@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Fiona S. Kowalczyk"
+   ],
+   [
+    "BIRTH_DATE",
+    "3 August 1965"
+   ],
+   [
+    "PASSPORT",
+    "629040584"
+   ],
+   [
+    "SSN",
+    "590-83-4675"
+   ],
+   [
+    "EMAIL",
+    "hoyelaran66@demo-mail.example.org"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_docx_2.docx",
+  "fmt": "docx",
+  "gold": [
+   [
+    "PERSON",
+    "Kevin N. Tillman"
+   ],
+   [
+    "BIRTH_DATE",
+    "1972-10-16"
+   ],
+   [
+    "PASSPORT",
+    "B4350797"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 4265"
+   ],
+   [
+    "PERSON",
+    "Prescott, Imogen"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/02/1969"
+   ],
+   [
+    "PASSPORT",
+    "898448017"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 1447"
+   ],
+   [
+    "PERSON",
+    "Fitzgerald, Jonathan"
+   ],
+   [
+    "BIRTH_DATE",
+    "May 2, 1966"
+   ],
+   [
+    "PASSPORT",
+    "Z5275129"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "PHONE",
+    "+44 20 7946 6318"
+   ],
+   [
+    "PERSON",
+    "William N. Dunleavy"
+   ],
+   [
+    "BIRTH_DATE",
+    "13th of February 2003"
+   ],
+   [
+    "PASSPORT",
+    "D1689055"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PHONE",
+    "+1-312-555-3345"
+   ],
+   [
+    "PERSON",
+    "Nakamura, Katherine"
+   ],
+   [
+    "BIRTH_DATE",
+    "1948-08-04"
+   ],
+   [
+    "PASSPORT",
+    "701342721"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "PHONE",
+    "555-270-2624"
+   ],
+   [
+    "PERSON",
+    "Lindqvist, Megan"
+   ],
+   [
+    "BIRTH_DATE",
+    "3 Feb 1987"
+   ],
+   [
+    "PASSPORT",
+    "G08046802"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PHONE",
+    "+44 (0)161 496 1286"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pptx_2.pptx",
+  "fmt": "pptx",
+  "gold": [
+   [
+    "PERSON",
+    "Underhill, Oliver"
+   ],
+   [
+    "PASSPORT",
+    "188891878"
+   ],
+   [
+    "BIRTH_DATE",
+    "22/02/2001"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CARD",
+    "4111657104921056"
+   ],
+   [
+    "PERSON",
+    "Thomas Montgomery"
+   ],
+   [
+    "PASSPORT",
+    "B4818112"
+   ],
+   [
+    "BIRTH_DATE",
+    "Sep 14, 1949"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "CARD",
+    "5105-7738-4369-7983"
+   ],
+   [
+    "PERSON",
+    "SAMANTHA PRESCOTT"
+   ],
+   [
+    "PASSPORT",
+    "D2242086"
+   ],
+   [
+    "BIRTH_DATE",
+    "1991-09-11"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "CARD",
+    "4012 1244 4843 1516"
+   ],
+   [
+    "PERSON",
+    "GARETH HAVERFORD"
+   ],
+   [
+    "PASSPORT",
+    "X1593938"
+   ],
+   [
+    "BIRTH_DATE",
+    "1986-08-04"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CARD",
+    "5105 1981 8334 6266"
+   ],
+   [
+    "PERSON",
+    "DANIEL HAVERFORD"
+   ],
+   [
+    "PASSPORT",
+    "101523260"
+   ],
+   [
+    "BIRTH_DATE",
+    "21th of May 1994"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "CARD",
+    "4111-7810-5181-2793"
+   ],
+   [
+    "PERSON",
+    "Nathaniel Montgomery"
+   ],
+   [
+    "PASSPORT",
+    "X1258289"
+   ],
+   [
+    "BIRTH_DATE",
+    "02/03/1960"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "CARD",
+    "4111-6480-3486-5612"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_html_2.html",
+  "fmt": "html",
+  "gold": [
+   [
+    "PERSON",
+    "Marcus Castellanos"
+   ],
+   [
+    "PASSPORT",
+    "C1273004"
+   ],
+   [
+    "BIRTH_DATE",
+    "24 September 1977"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "CARD",
+    "5105 2328 3398 1717"
+   ],
+   [
+    "PERSON",
+    "OLIVIA DELACROIX"
+   ],
+   [
+    "PASSPORT",
+    "008991661"
+   ],
+   [
+    "BIRTH_DATE",
+    "Jul 14, 1994"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "CARD",
+    "4012 6483 5868 2353"
+   ],
+   [
+    "PERSON",
+    "Harriet Ashworth"
+   ],
+   [
+    "PASSPORT",
+    "D38818757"
+   ],
+   [
+    "BIRTH_DATE",
+    "1973-10-15"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "CARD",
+    "5500 4343 9095 8382"
+   ],
+   [
+    "PERSON",
+    "Dunleavy, Patrick"
+   ],
+   [
+    "PASSPORT",
+    "043789111"
+   ],
+   [
+    "BIRTH_DATE",
+    "12 April 1951"
+   ],
+   [
+    "CITY",
+    "Denver"
+   ],
+   [
+    "CARD",
+    "4012941046602192"
+   ],
+   [
+    "PERSON",
+    "Andrew L. Fitzgerald"
+   ],
+   [
+    "PASSPORT",
+    "D0722390"
+   ],
+   [
+    "BIRTH_DATE",
+    "March 21, 2000"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "CARD",
+    "4111286865581550"
+   ],
+   [
+    "PERSON",
+    "Haverford, Richard"
+   ],
+   [
+    "PASSPORT",
+    "H4441800"
+   ],
+   [
+    "BIRTH_DATE",
+    "Oct 25, 1955"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "CARD",
+    "4111-7560-2260-5682"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_md_2.md",
+  "fmt": "md",
+  "gold": [
+   [
+    "PERSON",
+    "Thornbury, Richard"
+   ],
+   [
+    "PASSPORT",
+    "E07374239"
+   ],
+   [
+    "BIRTH_DATE",
+    "2002-11-28"
+   ],
+   [
+    "CITY",
+    "Raleigh"
+   ],
+   [
+    "CARD",
+    "4111 7519 4820 8398"
+   ],
+   [
+    "PERSON",
+    "Andrew S. Oyelaran"
+   ],
+   [
+    "PASSPORT",
+    "Y6304345"
+   ],
+   [
+    "BIRTH_DATE",
+    "16 February 1981"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "CARD",
+    "5500-5478-9120-8187"
+   ],
+   [
+    "PERSON",
+    "Priya Brennan"
+   ],
+   [
+    "PASSPORT",
+    "A08245566"
+   ],
+   [
+    "BIRTH_DATE",
+    "24 November 1980"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "CARD",
+    "5500748951225349"
+   ],
+   [
+    "PERSON",
+    "Vandermeer, John"
+   ],
+   [
+    "PASSPORT",
+    "830143097"
+   ],
+   [
+    "BIRTH_DATE",
+    "23/10/1979"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "CARD",
+    "5500 5420 0481 9608"
+   ],
+   [
+    "PERSON",
+    "Fitzgerald, Elizabeth"
+   ],
+   [
+    "PASSPORT",
+    "118024021"
+   ],
+   [
+    "BIRTH_DATE",
+    "5/12/52"
+   ],
+   [
+    "CITY",
+    "Boston"
+   ],
+   [
+    "CARD",
+    "5500 1380 4479 2903"
+   ],
+   [
+    "PERSON",
+    "Whitfield, Raymond"
+   ],
+   [
+    "PASSPORT",
+    "Y6142766"
+   ],
+   [
+    "BIRTH_DATE",
+    "October 18, 1959"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "CARD",
+    "5500 7288 7474 6274"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_pdf_2.pdf",
+  "fmt": "pdf",
+  "gold": [
+   [
+    "PERSON",
+    "Elena N. Thornbury"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 26, 1957"
+   ],
+   [
+    "PASSPORT",
+    "C7762054"
+   ],
+   [
+    "SSN",
+    "133-65-6019"
+   ],
+   [
+    "EMAIL",
+    "billing98@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "IMOGEN DUNLEAVY"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/17/81"
+   ],
+   [
+    "PASSPORT",
+    "C0475943"
+   ],
+   [
+    "SSN",
+    "270-72-9275"
+   ],
+   [
+    "EMAIL",
+    "ibrahim_patrick@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "FIONA CASTELLANOS"
+   ],
+   [
+    "BIRTH_DATE",
+    "28th of April 1982"
+   ],
+   [
+    "PASSPORT",
+    "Y7308467"
+   ],
+   [
+    "SSN",
+    "641-70-1368"
+   ],
+   [
+    "EMAIL",
+    "hollingsworth_oliver@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "Samantha B. Ibrahim"
+   ],
+   [
+    "BIRTH_DATE",
+    "8/7/75"
+   ],
+   [
+    "PASSPORT",
+    "418066823"
+   ],
+   [
+    "SSN",
+    "644-29-7329"
+   ],
+   [
+    "EMAIL",
+    "billing06@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Marcus Dunleavy"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/22/02"
+   ],
+   [
+    "PASSPORT",
+    "524131912"
+   ],
+   [
+    "SSN",
+    "125-11-2226"
+   ],
+   [
+    "EMAIL",
+    "billing95@halcyon-demo.example.com"
+   ],
+   [
+    "PERSON",
+    "Jonathan McAllister"
+   ],
+   [
+    "BIRTH_DATE",
+    "1952-04-14"
+   ],
+   [
+    "PASSPORT",
+    "Y3612608"
+   ],
+   [
+    "SSN",
+    "337-48-3165"
+   ],
+   [
+    "EMAIL",
+    "billing08@halcyon-demo.example.com"
+   ]
+  ],
+  "kind": "table"
+ },
+ {
+  "id": "table_txt_2.txt",
+  "fmt": "txt",
+  "gold": [
+   [
+    "PERSON",
+    "Patrick Jankowski"
+   ],
+   [
+    "BIRTH_DATE",
+    "06/12/1995"
+   ],
+   [
+    "PASSPORT",
+    "X9734265"
+   ],
+   [
+    "SSN",
+    "221-29-3803"
+   ],
+   [
+    "EMAIL",
+    "oyelaran_harriet@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "Okonkwo, Daniel"
+   ],
+   [
+    "BIRTH_DATE",
+    "3/26/00"
+   ],
+   [
+    "PASSPORT",
+    "Y5334146"
+   ],
+   [
+    "SSN",
+    "662-23-5005"
+   ],
+   [
+    "EMAIL",
+    "ibrahim_natalie@corp-demo.example.net"
+   ],
+   [
+    "PERSON",
+    "Pemberton, Marcus"
+   ],
+   [
+    "BIRTH_DATE",
+    "1974-02-25"
+   ],
+   [
+    "PASSPORT",
+    "419146975"
+   ],
+   [
+    "SSN",
+    "413-83-1366"
+   ],
+   [
+    "EMAIL",
+    "gibrahim25@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Alicia Whitfield"
+   ],
+   [
+    "BIRTH_DATE",
+    "24/09/1953"
+   ],
+   [
+    "PASSPORT",
+    "Y9017622"
+   ],
+   [
+    "SSN",
+    "492-24-2145"
+   ],
+   [
+    "EMAIL",
+    "gdelacroix02@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Harriet Brennan"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 15, 1987"
+   ],
+   [
+    "PASSPORT",
+    "D7429219"
+   ],
+   [
+    "SSN",
+    "351-40-7552"
+   ],
+   [
+    "EMAIL",
+    "librahim08@demo-mail.example.org"
+   ],
+   [
+    "PERSON",
+    "Daniel Gallagher"
+   ],
+   [
+    "BIRTH_DATE",
+    "2001-04-20"
+   ],
+   [
+    "PASSPORT",
+    "Z9674617"
+   ],
+   [
+    "SSN",
+    "281-12-4199"
+   ],
+   [
+    "EMAIL",
+    "fiona.vandermeer@example.com"
+   ]
+  ],
+  "kind": "table"
+ }
+]

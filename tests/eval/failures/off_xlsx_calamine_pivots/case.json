@@ -1,0 +1,1 @@
+{"id": "off_xlsx_calamine_pivots", "file": "input.xlsx", "fmt": "xlsx", "lang": "en", "traits": "office sample (MIT test file)", "gold": [], "note": "injection failed (TypeError: Nested.from_tree() missing 1 required positional argument: '); measured without gold", "source": "real", "licence": "MIT"}

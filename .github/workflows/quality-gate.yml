@@ -1,0 +1,57 @@
+name: Quality gate
+# Fast gates on every push to main and on pull requests; heavy gates nightly or by hand.
+# Desktop bridge/selfcheck tests import pywebview without opening a GUI; keep that dependency on Linux.
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+    inputs:
+      full:
+        description: "Run the heavy gates (images + pinned real subset); needs the raw corpus"
+        type: boolean
+        default: false
+  schedule:
+    - cron: "17 2 * * *"
+
+jobs:
+  fast:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install (test dependencies only)
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+      - name: Prepare pinned Office.js assets for desktop selfcheck
+        run: python tools/fetch_office_js.py
+      - name: Unit suite
+        run: python -m unittest discover -t . -s tests -p "test_*.py"
+      - name: Text gate, noise corpus, baseline comparison (fails on any leak increase)
+        run: python tools/quality_gate.py
+
+  heavy:
+    # nightly / manual: images, pinned real subset and triage. Needs tesseract and the untracked raw corpus
+    # (point EVAL_REAL_DIR at it); on a runner without the corpus this job reports the missing cases and fails by design.
+    if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.full)
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    env:
+      EVAL_REAL_DIR: ${{ github.workspace }}/tests/eval/real
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Install
+        run: |
+          sudo apt-get update && sudo apt-get install -y tesseract-ocr tesseract-ocr-rus poppler-utils
+          python -m pip install -r requirements.txt
+      - name: Full quality gate
+        run: python tools/quality_gate.py --full --jobs 2

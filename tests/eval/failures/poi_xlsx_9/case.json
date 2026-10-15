@@ -1,0 +1,1 @@
+{"id": "poi_xlsx_9", "file": "input.xlsx", "fmt": "xlsx", "lang": "en", "traits": "apache-poi test-data", "gold": [], "note": "injection failed (BadZipFile: Bad magic number for central directory); measured without gold", "source": "real", "licence": "Apache-2.0"}

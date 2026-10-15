@@ -1,0 +1,14 @@
+## SESSION 13.10 orchestrator 3 (handoff:v1)
+MERGED to main this session: W3 (bare ids, cue-word surnames RU/EN, OCR rules), W7 natasha (anonymizer/ner.py, setting ner_candidates default OFF, review list only; natasha 1.6.0 installed in .venv312, numpy now 2.5.4), W8 (release docs, build script version, README limits), W6+W11 (tools/quality_gate.py, tests/eval/baseline.json, noise corpus, CI workflow quality-gate.yml, entity-coverage.md), W12 (AI chat wiring, /ai page, ai_chat.py, guard ask path, outbound leak test 0 leaks on 90 RU+EN texts).
+Unit suite last run 1309 OK BEFORE W3b/W7/W8/W6/W12 merges: RE-RUN FULL SUITE on main first (also numpy upgrade).
+RUNNING: W3c (worktree ../wt-w3c, ws/w3c: csv/log leaks, RU ADDRESS/ORG, KPP, Техноград, huge_tree, over-redaction), W10b (../wt-w10b, ws/w10b: nested zip, image_mode UI, tiff/webp, OCR cost).
+NOT LAUNCHED: W4 PDF restore/perf (worktree ../wt-w4 exists, ws/w4; launch was denied by classifier), W9 formats (.xls .doc .ppt .rtf .odt; every extension SUPPORTED/REFUSED in quality-matrix.md), W11 gaps to W3 (ORG-ru, birth dates, roles/signatures, CONTRACT, UK NI; see entity-coverage.md, requests-w11.md), W12 file transform/attachments, W2 report merge (exp/ner docs only).
+TODO final: full unit; tools/quality_gate.py --full (baseline numbers in tests/eval/baseline.json); eval_real RU+EN quiet tree; e2e ALONE after telling owner; status-<date>.md scoreboard; SECURITY.md line 47 stale (images); verify /ai page in a real browser; update queue.md.
+Notes: bash needs /usr/bin/git for worktree agents; agents need explicit model sonnet.
+
+## UPDATE 13.10 (end of session) handoff:v1
+Also merged: W3c (ws/w3c), W10b (ws/w10b: nested images, tiff/webp support in replace mode, placeholder OCR skip). W4 launch was denied twice by the classifier; worktree ../wt-w4 (ws/w4) is ready; no W4 work exists.
+Full unit on merged main: 1365 run, 3 failures. Cause of all 3 = W3b merge (874a701, cue-word rules in detectors.py, `_lone_surname` line ~2527 `or not info.known`). Fixed 1 (tests.test_tester_findings D24 second-pass; commit "detector: unknown-word surname after role only for Cyrillic"). STILL FAILING:
+ (a) tests.test_round4_embedded_strict StrictModeTests.test_token_numbering_has_no_gaps_and_matches_manual_hide: "отвечает Name1" expected "отвечает Term2" (strict output differs from manual hide numbering: a cue-word candidate now becomes PERSON where the test expects a TERM);
+ (b) tests.test_case_files.CaseFilesTests.test_warnings_are_only_about_images: "После обработки остались критические совпадения" on a docx in case/ (private; do not read the file, run only the test).
+Next session: fix (a)(b) in detectors.py (restrict cue-word PERSON candidates so they do not change numbering of terms; probably emit REVIEW not AUTO / skip when the name was already a manual term), re-run full unit, then tools/quality_gate.py, then launch W4, W9, W11 gap fixes, final scoreboard, e2e (tell owner first).

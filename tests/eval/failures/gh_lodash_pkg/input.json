@@ -1,0 +1,125 @@
+{
+ "results": {
+  "name": "lodash",
+  "version": "4.18.1",
+  "license": "MIT",
+  "private": true,
+  "main": "lodash.js",
+  "engines": {
+   "node": ">=4.0.0"
+  },
+  "scripts": {
+   "build": "npm run build:main && npm run build:fp",
+   "build:fp": "node lib/fp/build-dist.js",
+   "build:fp-modules": "node lib/fp/build-modules.js",
+   "build:main": "node lib/main/build-dist.js",
+   "build:main-modules": "node lib/main/build-modules.js",
+   "doc": "node lib/main/build-doc github && npm run test:doc",
+   "doc:fp": "node lib/fp/build-doc",
+   "doc:site": "node lib/main/build-doc site",
+   "doc:sitehtml": "optional-dev-dependency marky-markdown@^9.0.1 && npm run doc:site && node lib/main/build-site",
+   "pretest": "npm run build",
+   "style": "npm run style:main && npm run style:fp && npm run style:perf && npm run style:test",
+   "style:fp": "jscs fp/*.js lib/**/*.js",
+   "style:main": "jscs lodash.js",
+   "style:perf": "jscs perf/*.js perf/**/*.js",
+   "style:test": "jscs test/*.js test/**/*.js",
+   "test": "npm run test:main && npm run test:fp",
+   "test:doc": "markdown-doctest doc/*.md",
+   "test:fp": "node test/test-fp",
+   "test:main": "node test/test",
+   "validate": "npm run style && npm run test"
+  },
+  "devDependencies": {
+   "async": "^2.6.3",
+   "benchmark": "^2.1.3",
+   "chalk": "^1.1.3",
+   "cheerio": "^0.22.0",
+   "codecov.io": "~0.1.6",
+   "coveralls": "^2.11.15",
+   "curl-amd": "~0.8.12",
+   "docdown": "~0.7.2",
+   "dojo": "^1.15.0",
+   "ecstatic": "^2.2.2",
+   "fs-extra": "~1.0.0",
+   "glob": "^7.1.4",
+   "istanbul": "0.4.5",
+   "jquery": "^3.4.1",
+   "jscs": "^3.0.7",
+   "lodash": "4.17.20",
+   "lodash-doc-globals": "^0.1.1",
+   "markdown-doctest": "^0.9.1",
+   "optional-dev-dependency": "^2.0.0",
+   "platform": "^1.3.3",
+   "qunit-extras": "^3.0.0",
+   "qunitjs": "^2.1.0",
+   "request": "^2.88.0",
+   "requirejs": "^2.3.6",
+   "sauce-tunnel": "^2.5.0",
+   "uglify-js": "2.7.5",
+   "webpack": "^1.14.0"
+  }
+ },
+ "contacts": [
+  {
+   "Name": "John T. Okonkwo",
+   "Phone": "+44 20 7965 1766",
+   "Email": "john.okonkwo69@demo-mail.example.com",
+   "SSN": "525-83-3995",
+   "Passport": "357131283",
+   "Address": "1405 Fenwick Street, Dunedin"
+  },
+  {
+   "Name": "Marcus A. Vandermeer",
+   "Phone": "(415) 555-9242",
+   "Email": "billing32@halcyon-demo.example.org",
+   "SSN": "100-69-9622",
+   "Passport": "G35601320",
+   "Address": "163 Larkspur Way, Halifax"
+  },
+  {
+   "Name": "Elena B. Lindqvist",
+   "Phone": "+1-212-555-1319",
+   "Email": "elindqvist102@corp-demo.example.net",
+   "SSN": "525-83-3995",
+   "Passport": "357131283",
+   "Address": "4104 Calloway Court, Leeds"
+  }
+ ],
+ "notes": [
+  "Applicant: John T. Okonkwo, date of birth 24/02/1976",
+  "Phone: +44 20 7965 1766  Email: john.okonkwo69@demo-mail.example.com",
+  "Card 5500 5679 0087 4307, passport no. 357131283",
+  "SSN 525-83-3995; alt. contact Vandermeer, Marcus",
+  "Quillfeather Labs, 1405 Fenwick Street, Dunedin",
+  "Wire to IBAN GB37NWBK79857415141641, attn Elena B. Lindqvist",
+  "Customer: Elena Haverford <billing32@halcyon-demo.example.org> tel (415) 555-9242",
+  "Billing address: 163 Larkspur Way, Halifax",
+  "Ship to 4104 Calloway Court, Leeds, contact Yuki R. Abernathy +1-212-555-1319",
+  "Witness: Marcus Vandermeer, passport G35601320, born July 23, 1971",
+  "Server 10.204.191.113 (fallback 172.16.40.187), admin elindqvist102@corp-demo.example.net",
+  "token = sk_live_552971Zq10988264Xw",
+  "password: Rv014!kd7315Pm",
+  "Halcyon Dynamics and Orchard Lane Partners signed by Elena M. Haverford, SSN 100-69-9622",
+  "Card on file 4111 1504 8985 8747, phone +49 30 791163"
+ ],
+ "paragraphs": [
+  "This agreement is made between Quillfeather Labs (1405 Fenwick Street, Dunedin) represented by Elena B. Lindqvist and John T. Okonkwo, born 24/02/1976, passport 357131283, residing at 163 Larkspur Way, Halifax.",
+  "Payments go to IBAN GB37NWBK79857415141641. Send notices to billing32@halcyon-demo.example.org or call +44 20 7965 1766. Copy Elena Haverford (SSN 100-69-9622) on every invoice.",
+  "Hi Marcus, please charge card 5500 5679 0087 4307 for Orchard Lane Partners; my cell is +1-212-555-1319 and my email elindqvist102@corp-demo.example.net. Regards, Yuki R. Abernathy."
+ ],
+ "owner": {
+  "name": "John T. Okonkwo",
+  "meta": {
+   "author": "John T. Okonkwo",
+   "title": "Agreement Quillfeather Labs",
+   "subject": "Contact john.okonkwo69@demo-mail.example.com",
+   "keywords": "+44 20 7965 1766; billing32@halcyon-demo.example.org",
+   "comments": "Prepared for Marcus A. Vandermeer"
+  }
+ },
+ "credentials": [
+  "sk_live_552971Zq10988264Xw",
+  "Rv014!kd7315Pm"
+ ]
+}

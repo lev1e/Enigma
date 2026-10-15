@@ -1,0 +1,3 @@
+# Requests from W3e
+- settings_schema.py / tokens.py owner: new dedicated kinds were NOT added because tests/test_ws_categories.py requires every tokens.KINDS entry to appear in settings_schema.KIND_GROUPS. Meanwhile IMEI, MAC, MRN, Personalausweis, UA passport and labelled pay amounts use kind PII (token Data1); VIN uses VEHICLE_PLATE (Plate1); insurance policies use OMS. If separate labels are wanted (DEVICE_ID, MEDICAL_ID, COMPENSATION), add Kind + KIND_GROUPS entries together, then change the category strings in the W3e block of detectors.py.
+- Policy rule leaves "№" inside the replaced span ("полис № 77…" -> "№ Oms1" hides the sign too); cosmetic, from the shared span trimming.

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<meta name="addin-token" content="__ADDIN_TOKEN__">
+<title>Anonymizer</title>
+<link rel="stylesheet" href="taskpane.css">
+<script src="vendor/office.js"></script>
+</head>
+<body>
+<main class="pane">
+  <header class="head">
+    <h1 class="brand"><img class="mark" src="icon-32.png" alt="" width="22" height="22">Anonymizer</h1>
+    <span class="conn" id="conn" role="status">Проверка связи</span>
+  </header>
+
+  <div class="alerts" id="alerts" hidden>
+    <p class="alert" id="ner-note" role="status" hidden>Модель для имён не установлена в этой копии: работает обычный поиск, переключатель ничего не меняет.</p>
+    <p class="alert warn" id="img-warn" role="status" hidden><strong>Менее безопасный режим.</strong> <span id="img-stored">Он сохранён в ваших настройках и действует на все новые файлы; безопасный режим: «Заменять картинку целиком». </span>Картинка и логотип остаются в файле видимыми, закрашивается только распознанный текст. Лица, подписи, печати, рукописный текст и снимки экрана программа не распознаёт, они уйдут наружу как есть. Проверьте результат глазами до отправки. <button class="link" id="open-settings">Изменить в настройках программы</button></p>
+  </div>
+
+  <section id="offline" class="block" hidden>
+    <p class="lead">Нет связи с программой Anonymizer.</p>
+    <p class="hint">Запустите программу на этом компьютере. Документ не изменён.</p>
+    <div class="row"><button class="btn" id="retry">Проверить снова</button></div>
+  </section>
+
+  <section id="ready" hidden>
+    <div class="state" id="docstate" role="status" aria-live="polite" aria-atomic="true">
+      <p class="state-title" id="st-title">Документ не обезличен</p>
+      <p class="hint" id="st-sub" hidden></p>
+    </div>
+    <p class="lead" id="lead">Документ обезличивается прямо здесь, а потом возвращается к исходным данным.</p>
+    <p class="note" id="pending" hidden>В таблице замен есть правки: они действуют на новые обезличивания. Откройте чат, чтобы пересобрать файлы.</p>
+    <div class="actions" id="actions">
+      <button class="btn main" id="go-anon">Обезличить документ</button>
+      <button class="btn" id="go-rest">Вернуть данные</button>
+      <button class="btn" id="go-rollback" hidden>Откатить к исходному</button>
+      <button class="btn" id="open-chat" hidden>Открыть чат</button>
+    </div>
+    <div class="row links">
+      <button class="link" id="match-link" hidden>Определить по метке</button>
+      <button class="link" id="open-app" hidden>Открыть в приложении</button>
+    </div>
+    <p class="hint" id="rollback-hint" hidden></p>
+    <p class="hint" id="state-hint" hidden>Вернуть документ к виду до возврата данных можно из «Дополнительно», в списке копий.</p>
+    <p class="hint" id="state-note" role="status" aria-live="polite" hidden></p>
+    <details id="table-box" hidden>
+      <summary>Замены в документе</summary>
+      <div class="fold">
+        <ul class="list repl" id="repl" aria-label="Замены, значения скрыты"></ul>
+        <p class="hint" id="repl-more" hidden></p>
+        <div class="row"><button class="btn small" id="open-chat-edit">Открыть чат для правок</button></div>
+      </div>
+    </details>
+    <p class="hint" id="notice" hidden></p>
+  </section>
+
+  <section id="busy" class="block" hidden aria-live="polite" aria-label="Выполняется">
+    <ol class="steps" id="steps"></ol>
+    <div class="bar" id="bar-box" role="progressbar" aria-label="Ход работы" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="bar"></i></div>
+  </section>
+
+  <section id="result" class="block" hidden aria-live="polite" aria-label="Результат"></section>
+
+  <p class="hint" id="plan-line" hidden></p>
+  <details id="more" hidden>
+    <summary>Изменить, что скрывать</summary>
+    <div class="fold">
+      <label class="check"><input type="checkbox" id="opt-auto"><span>Заменять сразу, если нет сомнительных мест<br><span class="hint">Иначе перед заменой показывается список для проверки.</span></span></label>
+      <label class="check"><input type="checkbox" id="opt-countries"><span>Скрывать страны</span></label>
+      <label class="check"><input type="checkbox" id="opt-numbers"><span>Заменять числа в Excel<br><span class="hint">Даты и годы не меняются.</span></span></label>
+      <label class="check"><input type="checkbox" id="opt-strict"><span>Скрывать и сомнительные слова</span></label>
+      <div>
+        <h2 class="sec">Копии документов до замены</h2>
+        <p class="hint">Хранятся зашифрованными на этом компьютере 7 дней. Вернуть можно документ того же типа.</p>
+        <ul class="list" id="backups"></ul>
+      </div>
+      <div class="row"><button class="link" id="open-folder">Обработать целую папку в программе</button></div>
+    </div>
+  </details>
+  <div class="row"><button class="link" id="open-settings-foot">Все настройки в программе</button></div>
+  <p class="foot">Файлы и соответствия не покидают этот компьютер.</p>
+</main>
+<script src="taskpane.js"></script>
+</body>
+</html>

@@ -1,0 +1,332 @@
+?p	?pLabel	?birth	?placeLabel
+<http://www.wikidata.org/entity/Q4864>	"Евгений Касперский"@ru	"1965-10-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новороссийск"@ru
+<http://www.wikidata.org/entity/Q15253>	"Дмитрий Пучков"@ru	"1961-08-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кропивницкий"@ru
+<http://www.wikidata.org/entity/Q18066>	"Эдуард Успенский"@ru	"1937-12-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Егорьевск"@ru
+<http://www.wikidata.org/entity/Q26412>	"Василий Иванович Белов"@ru	"1932-10-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тимониха"@ru
+<http://www.wikidata.org/entity/Q28614>	"Гарри Каспаров"@ru	"1963-04-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Баку"@ru
+<http://www.wikidata.org/entity/Q34474>	"Александр Исаевич Солженицын"@ru	"1918-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кисловодск"@ru
+<http://www.wikidata.org/entity/Q36546>	"Мария Васильевна Семёнова"@ru	"1958-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q36878>	"Расул Гамзатович Гамзатов"@ru	"1923-09-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Цада"@ru
+<http://www.wikidata.org/entity/Q41745>	"Александр Иванович Некрасов"@ru	"1931-07-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Автономная область Коми (Зырян)"@ru
+<http://www.wikidata.org/entity/Q41745>	"Александр Иванович Некрасов"@ru	"1931-07-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кырув"@ru
+<http://www.wikidata.org/entity/Q44940>	"Юрий Сергеевич Рытхэу"@ru	"1930-03-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Уэлен"@ru
+<http://www.wikidata.org/entity/Q46234>	"Лена Ленина"@ru	"1971-10-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новосибирск"@ru
+<http://www.wikidata.org/entity/Q46419>	"Соломония Пылаева"@ru	"1930-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сыктывкар"@ru
+<http://www.wikidata.org/entity/Q46419>	"Соломония Пылаева"@ru	"1930-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Автономная область Коми (Зырян)"@ru
+<http://www.wikidata.org/entity/Q46419>	"Соломония Пылаева"@ru	"1930-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сысольский район"@ru
+<http://www.wikidata.org/entity/Q49281>	"Попович, Марина Лаврентьевна"@ru	"1931-07-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Велижский муниципальный округ"@ru
+<http://www.wikidata.org/entity/Q49606>	"Юрий Петрович Власов"@ru	"1935-12-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Макеевка"@ru
+<http://www.wikidata.org/entity/Q52224>	"Сергей Васильевич Лукьяненко"@ru	"1968-04-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Каратау"@ru
+<http://www.wikidata.org/entity/Q55172>	"Александр Сокуров"@ru	"1951-06-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Подорвиха"@ru
+<http://www.wikidata.org/entity/Q55207>	"Никита Михалков"@ru	"1945-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q59054>	"Борис Натанович Стругацкий"@ru	"1933-04-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q60903>	"Юрий Нестеренко"@ru	"1972-10-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q118449>	"Сухинов, Сергей Стефанович"@ru	"1950-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q122658>	"Василий Иванович Раков"@ru	"1909-02-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q125663>	"Борис Акунин"@ru	"1956-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тбилиси"@ru
+<http://www.wikidata.org/entity/Q125663>	"Борис Акунин"@ru	"1956-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Зестафони"@ru
+<http://www.wikidata.org/entity/Q129133>	"Кара-Мурза, Сергей Георгиевич"@ru	"1939-01-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q131240>	"Анна Степановна Политковская"@ru	"1958-08-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Нью-Йорк"@ru
+<http://www.wikidata.org/entity/Q131674>	"Анатолий Евгеньевич Карпов"@ru	"1951-05-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Златоуст"@ru
+<http://www.wikidata.org/entity/Q135481>	"Лев Гумилёв"@ru	"1912-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Пушкин"@ru
+<http://www.wikidata.org/entity/Q136169>	"Валерий Михайлович Николаевский"@ru	"1939-07-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q152298>	"Герман Степанович Титов"@ru	"1935-09-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Верх-Жилино"@ru
+<http://www.wikidata.org/entity/Q152318>	"Светлана Евгеньевна Савицкая"@ru	"1948-08-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q154269>	"Алексей Архипович Леонов"@ru	"1934-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Листвянка"@ru
+<http://www.wikidata.org/entity/Q158465>	"Анатолий Тимофеевич Фоменко"@ru	"1945-03-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Донецк"@ru
+<http://www.wikidata.org/entity/Q160154>	"Кисин, Евгений Игоревич"@ru	"1971-10-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q161092>	"Владимир Крамник"@ru	"1975-06-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Туапсе"@ru
+<http://www.wikidata.org/entity/Q164309>	"Фазу Гамзатовна Алиева"@ru	"1932-12-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Хунзахский район"@ru
+<http://www.wikidata.org/entity/Q178865>	"Михаил Моисеевич Ботвинник"@ru	"1911-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Репино"@ru
+<http://www.wikidata.org/entity/Q179540>	"Михаил Константинович Щербаков"@ru	"1963-03-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Обнинск"@ru
+<http://www.wikidata.org/entity/Q181573>	"Фазиль Абдулович Искандер"@ru	"1929-03-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сухуми"@ru
+<http://www.wikidata.org/entity/Q183382>	"Людмила Стефановна Петрушевская"@ru	"1938-05-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q183535>	"Смехов, Вениамин Борисович"@ru	"1940-08-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q69720>	"Татьяна Илларионовна Васильчикова"@ru	"1914-12-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q69720>	"Татьяна Илларионовна Васильчикова"@ru	"1915-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q70215>	"Вольфганг Леонгард"@ru	"1921-04-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Вена"@ru
+<http://www.wikidata.org/entity/Q71998>	"Михаил Павлович Шишкин"@ru	"1961-01-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q77037>	"Эдгар Хильзенрат"@ru	"1926-04-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Лейпциг"@ru
+<http://www.wikidata.org/entity/Q86839>	"Юрий Андреевич Трегубов"@ru	"1913-04-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q87015>	"Александр Вальтерович Литвиненко"@ru	"1962-08-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Воронеж"@ru
+<http://www.wikidata.org/entity/Q87015>	"Александр Вальтерович Литвиненко"@ru	"1962-12-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Воронеж"@ru
+<http://www.wikidata.org/entity/Q98897>	"Вальдемар Вениаминович Вебер"@ru	"1944-09-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сарбала"@ru
+<http://www.wikidata.org/entity/Q104148>	"Смыслов, Василий Васильевич"@ru	"1921-03-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q106374>	"Александр Халифман"@ru	"1966-01-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q111982>	"Андрей Солдатов"@ru	"1975-10-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q116789>	"Борис Дмитриевич Парыгин"@ru	"1930-06-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q456123>	"Альфред Кох"@ru	"1961-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Алтай"@ru
+<http://www.wikidata.org/entity/Q456714>	"Владимир Сергеевич Ильюшин"@ru	"1927-03-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q461151>	"Анита Сергеевна Цой"@ru	"1971-02-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q461932>	"Шварц, Елена Андреевна"@ru	"1948-05-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q441226>	"М. Гессен"@ru	"1967-01-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q441351>	"Фролова, Елена Борисовна"@ru	"1969-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Рига"@ru
+<http://www.wikidata.org/entity/Q446808>	"Елена Георгиевна Боннэр"@ru	"1923-02-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Мары"@ru
+<http://www.wikidata.org/entity/Q449538>	"Александр Александрович Зиновьев"@ru	"1922-10-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Пахтино"@ru
+<http://www.wikidata.org/entity/Q449913>	"Виктория Самойловна Токарева"@ru	"1937-11-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q451825>	"Игорь Яковлевич Померанцев"@ru	"1948-01-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Саратов"@ru
+<http://www.wikidata.org/entity/Q452798>	"Трегубова, Елена Викторовна"@ru	"1973-05-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q453423>	"Крючкова, Ольга Евгеньевна"@ru	"1966-08-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q453537>	"Мария Александровна Рыбакова"@ru	"1973-12-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q454630>	"Владимир Николаевич Войнович"@ru	"1932-09-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Душанбе"@ru
+<http://www.wikidata.org/entity/Q303792>	"Гусев, Юрий Павлович"@ru	"1939-01-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Пермская область"@ru
+<http://www.wikidata.org/entity/Q308711>	"Владислав Петрович Крапивин"@ru	"1938-10-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тюмень"@ru
+<http://www.wikidata.org/entity/Q312281>	"Лероев, Михаил Геннадьевич"@ru	"1991-06-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новосибирск"@ru
+<http://www.wikidata.org/entity/Q312474>	"Андриян Григорьевич Николаев"@ru	"1929-09-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Шоршелы"@ru
+<http://www.wikidata.org/entity/Q313399>	"Владимир Александрович Шаталов"@ru	"1927-12-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Петропавловск"@ru
+<http://www.wikidata.org/entity/Q313449>	"Зелимхан Абдулмуслимович Яндарбиев"@ru	"1952-09-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Выдриха"@ru
+<http://www.wikidata.org/entity/Q314921>	"Владимир Васильевич Ковалёнок"@ru	"1942-03-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Белое"@ru
+<http://www.wikidata.org/entity/Q315185>	"Василий Павлович Аксёнов"@ru	"1932-08-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казань"@ru
+<http://www.wikidata.org/entity/Q319839>	"Владимир Георгиевич Сорокин"@ru	"1955-08-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Быково"@ru
+<http://www.wikidata.org/entity/Q326855>	"Снегов, Сергей Александрович"@ru	"1910-08-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Одесса"@ru
+<http://www.wikidata.org/entity/Q326855>	"Снегов, Сергей Александрович"@ru	"1910-08-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Одесса"@ru
+<http://www.wikidata.org/entity/Q330212>	"Виктор Гребенников"@ru	"1927-04-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Симферополь"@ru
+<http://www.wikidata.org/entity/Q332263>	"Гудзь, Борис Игнатьевич"@ru	"1902-08-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Уфа"@ru
+<http://www.wikidata.org/entity/Q333048>	"Александр Моисеевич Володин"@ru	"1919-02-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Минск"@ru
+<http://www.wikidata.org/entity/Q335110>	"Геннадий Николаевич Айги"@ru	"1934-08-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Шаймурзино"@ru
+<http://www.wikidata.org/entity/Q337903>	"Шатров, Михаил Филиппович"@ru	"1932-04-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q338623>	"Святослав Игоревич Бэлза"@ru	"1942-04-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Челябинск"@ru
+<http://www.wikidata.org/entity/Q339581>	"Алексей Владимирович Баталов"@ru	"1928-11-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Владимир"@ru
+<http://www.wikidata.org/entity/Q344854>	"Тимур Бекмамбетов"@ru	"1961-06-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Атырау"@ru
+<http://www.wikidata.org/entity/Q360292>	"Кир Булычёв"@ru	"1934-10-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q360471>	"Владимир Константинович Буковский"@ru	"1942-12-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"городское поселение Белебей"@ru
+<http://www.wikidata.org/entity/Q361707>	"Сутеев, Владимир Григорьевич"@ru	"1903-07-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q362133>	"Василий Ливанов"@ru	"1935-07-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q364451>	"Береговой, Георгий Тимофеевич"@ru	"1921-04-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Фёдоровка"@ru
+<http://www.wikidata.org/entity/Q371516>	"Мельтюхов, Михаил Иванович"@ru	"1966-03-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q373347>	"Огдо Егоровна Аксёнова"@ru	"1936-02-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Таймырский (Долгано-Ненецкий) автономный округ"@ru
+<http://www.wikidata.org/entity/Q373592>	"Маркова, Мария Александровна"@ru	"1982-02-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Чукотский автономный округ"@ru
+<http://www.wikidata.org/entity/Q376679>	"Болтянский, Владимир Григорьевич"@ru	"1925-04-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q378333>	"Ролан Антонович Быков"@ru	"1929-10-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Киев"@ru
+<http://www.wikidata.org/entity/Q380214>	"Андрей Макин"@ru	"1957-09-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Красноярск"@ru
+<http://www.wikidata.org/entity/Q381541>	"Алексей Станиславович Елисеев"@ru	"1934-07-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Жиздра"@ru
+<http://www.wikidata.org/entity/Q381592>	"Владимир Евгеньевич Захаров"@ru	"1939-08-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казань"@ru
+<http://www.wikidata.org/entity/Q381944>	"Эльдар Александрович Рязанов"@ru	"1927-11-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Самара"@ru
+<http://www.wikidata.org/entity/Q382145>	"Владимир Александрович Крючков"@ru	"1924-02-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Волгоград"@ru
+<http://www.wikidata.org/entity/Q386412>	"Сергей Вольфгангович Заграевский"@ru	"1964-08-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q431006>	"Виктор Петрович Савиных"@ru	"1940-03-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Березкины"@ru
+<http://www.wikidata.org/entity/Q432752>	"Валерий Николаевич Кубасов"@ru	"1935-01-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Вязники"@ru
+<http://www.wikidata.org/entity/Q433942>	"Лидия Корнеевна Чуковская"@ru	"1907-03-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q434546>	"Климук, Пётр Ильич"@ru	"1942-07-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Комаровка"@ru
+<http://www.wikidata.org/entity/Q434555>	"Георгий Михайлович Гречко"@ru	"1931-05-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q434926>	"Анатолий Наумович Рыбаков"@ru	"1911-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Держановка"@ru
+<http://www.wikidata.org/entity/Q438839>	"Александр Гельевич Дугин"@ru	"1962-01-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q983516>	"Роберт Иванович Рождественский"@ru	"1932-06-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Косиха"@ru
+<http://www.wikidata.org/entity/Q984644>	"Троепольский, Гавриил Николаевич"@ru	"1905-11-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Борисоглебский уезд"@ru
+<http://www.wikidata.org/entity/Q1029719>	"Татьяна Хашимовна Никитина"@ru	"1945-12-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Душанбе"@ru
+<http://www.wikidata.org/entity/Q1038491>	"Владимир Николаевич Васильев"@ru	"1967-08-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Николаев"@ru
+<http://www.wikidata.org/entity/Q1047794>	"Баширов, Гумер Баширович"@ru	"1901-01-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Янга-Сала"@ru
+<http://www.wikidata.org/entity/Q1048435>	"Ольга Орлова"@ru	"1977-11-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1048828>	"Андрей Олегович Белянин"@ru	"1967-01-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Астрахань"@ru
+<http://www.wikidata.org/entity/Q1071688>	"Григорий Бенционович Остер"@ru	"1947-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Одесса"@ru
+<http://www.wikidata.org/entity/Q1071694>	"Алла Сергеевна Демидова"@ru	"1936-09-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1071789>	"Павлов, Олег Олегович"@ru	"1970-03-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q463328>	"Митрохин, Василий Никитич"@ru	"1922-03-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Юрасово"@ru
+<http://www.wikidata.org/entity/Q463501>	"Валерия Ильинична Новодворская"@ru	"1950-05-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Барановичи"@ru
+<http://www.wikidata.org/entity/Q464818>	"Ларионова, Ольга Николаевна"@ru	"1935-03-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q464830>	"Наталья Владимировна Баранская"@ru	"1908-12-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q465748>	"Алексей Александрович Губарев"@ru	"1931-03-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Гвардейцы"@ru
+<http://www.wikidata.org/entity/Q465876>	"Дембо, Елена Владимировна"@ru	"1983-12-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Пенза"@ru
+<http://www.wikidata.org/entity/Q466139>	"Олег Павлович Табаков"@ru	"1935-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Саратов"@ru
+<http://www.wikidata.org/entity/Q468267>	"Андрей Донатович Синявский"@ru	"1925-10-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q469503>	"Ярошинская, Алла Александровна"@ru	"1953-02-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Житомир"@ru
+<http://www.wikidata.org/entity/Q472356>	"Виктор Владимирович Ерофеев"@ru	"1947-09-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q481345>	"Михаил Фёдорович Ерёмин"@ru	"1936-05-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Владикавказ"@ru
+<http://www.wikidata.org/entity/Q487649>	"Анатолий Андреевич Ким"@ru	"1939-06-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ынтымак"@ru
+<http://www.wikidata.org/entity/Q487754>	"Приставкин, Анатолий Игнатьевич"@ru	"1931-10-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Люберцы"@ru
+<http://www.wikidata.org/entity/Q487760>	"Анатолий Исаевич Кудрявицкий"@ru	"1954-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q487760>	"Анатолий Исаевич Кудрявицкий"@ru	"1954-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Днепр"@ru
+<http://www.wikidata.org/entity/Q488043>	"Анатолий Васильевич Филипченко"@ru	"1928-02-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Давыдовка"@ru
+<http://www.wikidata.org/entity/Q498802>	"Мишши Юхма"@ru	"1936-04-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сугуты"@ru
+<http://www.wikidata.org/entity/Q502041>	"Андрей Георгиевич Битов"@ru	"1937-05-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q502325>	"Андрей Николаевич Малахов"@ru	"1972-01-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Апатиты"@ru
+<http://www.wikidata.org/entity/Q502651>	"Андрей Васильевич Мягков"@ru	"1938-07-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q502669>	"Монастырский, Андрей Викторович"@ru	"1949-10-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Печенга"@ru
+<http://www.wikidata.org/entity/Q502711>	"Андрей Владимирович Аникин"@ru	"1927-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Томск"@ru
+<http://www.wikidata.org/entity/Q503663>	"Михаил Михайлович Рощин"@ru	"1933-02-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казань"@ru
+<http://www.wikidata.org/entity/Q508929>	"Николай Сергеевич Валуев"@ru	"1973-08-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q509174>	"Ивинская, Ольга Всеволодовна"@ru	"1912-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тамбов"@ru
+<http://www.wikidata.org/entity/Q509280>	"Maurice T. Maschino"@en	"1931-10-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Париж"@ru
+<http://www.wikidata.org/entity/Q510170>	"Наталья Владимировна Варлей"@ru	"1947-06-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Констанца"@ru
+<http://www.wikidata.org/entity/Q512046>	"Кипер, Елена Владимировна"@ru	"1975-09-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q515606>	"Эфраим Севела"@ru	"1928-03-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Бобруйск"@ru
+<http://www.wikidata.org/entity/Q516843>	"Рубен Гальего"@ru	"1968-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q519574>	"Алиса Аркадьевна Ганиева"@ru	"1985-09-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q519878>	"Даниил Александрович Гранин"@ru	"1919-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Волынка"@ru
+<http://www.wikidata.org/entity/Q520303>	"Дмитрий Александрович Емец"@ru	"1974-03-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q521209>	"Юрий Петрович Щекочихин"@ru	"1950-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Гянджа"@ru
+<http://www.wikidata.org/entity/Q521687>	"Юнна Петровна Мориц"@ru	"1937-06-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Киев"@ru
+<http://www.wikidata.org/entity/Q521808>	"Галина Сергеевна Шаталова"@ru	"1916-10-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ашхабад"@ru
+<http://www.wikidata.org/entity/Q527281>	"Слободкин, Юрий Максимович"@ru	"1939-11-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Смоленская область"@ru
+<http://www.wikidata.org/entity/Q529309>	"Валентин Григорьевич Распутин"@ru	"1937-03-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Усть-Уда"@ru
+<http://www.wikidata.org/entity/Q529799>	"Марина Иосифовна Гершенович"@ru	"1960-09-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новосибирск"@ru
+<http://www.wikidata.org/entity/Q529869>	"Ольга Борисовна Мартынова"@ru	"1962-02-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Дудинка"@ru
+<http://www.wikidata.org/entity/Q530651>	"Кантор, Максим Карлович"@ru	"1957-12-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q535157>	"Валентин Витальевич Лебедев"@ru	"1942-04-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q536966>	"Широкорад, Александр Борисович"@ru	"1947-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q537003>	"Дмитрий Александрович Пригов"@ru	"1940-11-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q537320>	"Робски, Оксана Викторовна"@ru	"1968-06-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q541213>	"Ирина Муцуовна Хакамада"@ru	"1955-04-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q542101>	"Борис Гребенщиков"@ru	"1953-11-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q544824>	"Кисина, Юлия Дмитриевна"@ru	"1966-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Киев"@ru
+<http://www.wikidata.org/entity/Q548164>	"Владислав Юрьевич Сурков"@ru	"1964-09-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Солнцево"@ru
+<http://www.wikidata.org/entity/Q551097>	"Лисянский, Марк Самойлович"@ru	"1913-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Одесса"@ru
+<http://www.wikidata.org/entity/Q551475>	"Александр Моисеевич Пятигорский"@ru	"1929-01-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q553735>	"Линдерман, Владимир Ильич"@ru	"1958-11-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Рига"@ru
+<http://www.wikidata.org/entity/Q556499>	"Николай Николаевич Добронравов"@ru	"1928-11-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q558518>	"Борис Хазанов"@ru	"1928-01-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q559129>	"Туфан Абдуллович Миннуллин"@ru	"1935-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Большое Мереткозино"@ru
+<http://www.wikidata.org/entity/Q559452>	"Анна Александровна Альчук"@ru	"1955-05-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Бошняково"@ru
+<http://www.wikidata.org/entity/Q562019>	"Померанц, Григорий Соломонович"@ru	"1918-03-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Вильнюс"@ru
+<http://www.wikidata.org/entity/Q563572>	"Anna Dankovtseva"@en	"1961-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q577986>	"Карпов, Владимир Васильевич"@ru	"1922-07-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Оренбург"@ru
+<http://www.wikidata.org/entity/Q590224>	"Маруся Климова"@ru	"1961-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q592504>	"Залыгин, Сергей Павлович"@ru	"1913-12-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Сухаревка"@ru
+<http://www.wikidata.org/entity/Q595709>	"Леонид Иванович Бородин"@ru	"1938-04-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Иркутск"@ru
+<http://www.wikidata.org/entity/Q603761>	"Андрей Геннадьевич Лазарчук"@ru	"1958-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Красноярск"@ru
+<http://www.wikidata.org/entity/Q607825>	"Проханов, Александр Андреевич"@ru	"1938-02-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тбилиси"@ru
+<http://www.wikidata.org/entity/Q618501>	"Шесталов, Юван Николаевич"@ru	"1937-06-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q620935>	"Михаил Петрович Девятаев"@ru	"1917-07-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Торбеево"@ru
+<http://www.wikidata.org/entity/Q621650>	"Ирэна Алексеевна Высоцкая"@ru	"1953-12-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Мукачево"@ru
+<http://www.wikidata.org/entity/Q622245>	"Бисултанов, Апти Дидаевич"@ru	"1959-09-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Гой-Чу"@ru
+<http://www.wikidata.org/entity/Q625810>	"Подрабинек, Александр Пинхосович"@ru	"1953-08-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q626982>	"Лев Иванович Ошанин"@ru	"1912-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Рыбинск"@ru
+<http://www.wikidata.org/entity/Q630760>	"Давыдов, Вадим Александрович"@ru	"1966-12-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Магнитогорск"@ru
+<http://www.wikidata.org/entity/Q2552082>	"Василий Егорович Афонин"@ru	"1939-09-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2559962>	"Кичанова, Вера Алексеевна"@ru	"1991-05-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2581386>	"Саид Афанди Чиркейский"@ru	"1937-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Чиркей"@ru
+<http://www.wikidata.org/entity/Q2587193>	"Q2587193"	"1944-10-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q2595507>	"Оксана Александровна Почепа"@ru	"1984-07-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ростов-на-Дону"@ru
+<http://www.wikidata.org/entity/Q2597507>	"Артур Николаевич Чилингаров"@ru	"1939-09-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q2609052>	"Георгий Владимов"@ru	"1931-02-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Харьков"@ru
+<http://www.wikidata.org/entity/Q2617392>	"Гулрухсор Сафиева"@ru	"1947-12-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Душанбе"@ru
+<http://www.wikidata.org/entity/Q2622252>	"Сергей Юрьевич Юрский"@ru	"1935-03-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q2622432>	"Мухин, Юрий Игнатьевич"@ru	"1949-03-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Днепр"@ru
+<http://www.wikidata.org/entity/Q2622688>	"Михаил Николаевич Задорнов"@ru	"1948-07-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Юрмала"@ru
+<http://www.wikidata.org/entity/Q2623803>	"Владимир Осипович Богомолов"@ru	"1924-07-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кирилловка"@ru
+<http://www.wikidata.org/entity/Q2624931>	"Семён Петрович Бабаевский"@ru	"1909-06-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кунье"@ru
+<http://www.wikidata.org/entity/Q2627391>	"Юлия Леонидовна Латынина"@ru	"1966-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2628989>	"Ион Пантелеевич Друцэ"@ru	"1928-09-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Хородиште"@ru
+<http://www.wikidata.org/entity/Q2631745>	"Игорь Крутой"@ru	"1954-07-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Гайворон"@ru
+<http://www.wikidata.org/entity/Q2634866>	"Олег Андреевич Анофриев"@ru	"1930-07-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Геленджик"@ru
+<http://www.wikidata.org/entity/Q2636560>	"Андрей Пионтковский"@ru	"1940-06-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2640579>	"Роман Львович Трахтенберг"@ru	"1968-09-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q2642326>	"Aleksandr Ikonnikov"@en	"1974-03-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Уржум"@ru
+<http://www.wikidata.org/entity/Q2719262>	"Мустай Карим"@ru	"1919-10-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кляшево"@ru
+<http://www.wikidata.org/entity/Q2733215>	"Милана Бахаева"@ru	"1979-12-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Янди"@ru
+<http://www.wikidata.org/entity/Q2756671>	"Ольга Арефьева"@ru	"1966-09-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Верхняя Салда"@ru
+<http://www.wikidata.org/entity/Q2791923>	"Казанцева, Елена Владимировна"@ru	"1956-12-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Минск"@ru
+<http://www.wikidata.org/entity/Q2832540>	"Александр Николаевич Ефимов"@ru	"1923-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кантемировка"@ru
+<http://www.wikidata.org/entity/Q2833708>	"Александр Матвеевич Гольц"@ru	"1955-10-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2833915>	"Мишарин, Александр Николаевич"@ru	"1939-04-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2834108>	"Александр Васильев"@ru	"1962-05-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2834146>	"Юзыкайн, Александр Михайлович"@ru	"1929-03-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Енактаево"@ru
+<http://www.wikidata.org/entity/Q2845647>	"Черноусов, Анатолий Трофимович"@ru	"1937-03-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новокарасук"@ru
+<http://www.wikidata.org/entity/Q2846811>	"Сергеев, Андрей Яковлевич"@ru	"1933-06-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2846848>	"Андрей Викторович Рубанов"@ru	"1969-07-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Узуново"@ru
+<http://www.wikidata.org/entity/Q2850577>	"Мурадова, Анна Романовна"@ru	"1972-12-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2861548>	"Аркадий Михайлович Арканов"@ru	"1933-06-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Киев"@ru
+<http://www.wikidata.org/entity/Q2910924>	"Борис Андроникашвили"@ru	"1934-10-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2910955>	"Boris Golovin"@en	"1955-05-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Екатеринбург"@ru
+<http://www.wikidata.org/entity/Q2911014>	"Борис Владимирович Останин"@ru	"1946-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Бада"@ru
+<http://www.wikidata.org/entity/Q2914010>	"Попов, Валерий Георгиевич"@ru	"1939-12-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казань"@ru
+<http://www.wikidata.org/entity/Q2957514>	"Казиев, Шапи Магомедович"@ru	"1956-03-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Махачкала"@ru
+<http://www.wikidata.org/entity/Q2993637>	"Борис Юльевич Кагарлицкий"@ru	"1958-08-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q2994442>	"Джуна"@ru	"1949-07-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Урмия"@ru
+<http://www.wikidata.org/entity/Q2995624>	"Николай Викторович Абрамов"@ru	"1961-01-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казыченская"@ru
+<http://www.wikidata.org/entity/Q3000313>	"Михаэль Драу"@ru	"1981-02-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Хабаровск"@ru
+<http://www.wikidata.org/entity/Q3013209>	"Даниил Андреевич Соложев"@ru	"1908-02-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q3050683>	"Elena Arseneva"@en	"1958-06-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q3050726>	"Чижова, Елена Семёновна"@ru	"1957-05-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q3050728>	"Елена Петровна Чудинова"@ru	"1959-09-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q3050728>	"Елена Петровна Чудинова"@ru	"1959-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q3061588>	"Стеблов, Евгений Юрьевич"@ru	"1945-12-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q3116670>	"Дашевский, Григорий Михайлович"@ru	"1964-02-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q3118887>	"Guennadi Golovine"@en	"1940-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"США"@ru
+<http://www.wikidata.org/entity/Q1626575>	"Елена Владимировна Ваенга"@ru	"1977-01-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Североморск"@ru
+<http://www.wikidata.org/entity/Q1635884>	"Вормсбехер, Гуго Густавович"@ru	"1938-06-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Маркс"@ru
+<http://www.wikidata.org/entity/Q1637045>	"Всеволод Анатольевич Чаплин"@ru	"1968-03-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1657847>	"Тимур Касимович Зульфикаров"@ru	"1936-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Душанбе"@ru
+<http://www.wikidata.org/entity/Q1658473>	"Китуп, Илья Владимирович"@ru	"1964-03-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Вильнюс"@ru
+<http://www.wikidata.org/entity/Q1658597>	"Илья Игоревич Лагутенко"@ru	"1968-10-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1660403>	"Валерий Золотухин"@ru	"1941-06-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Быстрый Исток"@ru
+<http://www.wikidata.org/entity/Q1671948>	"Вяткин, Рудольф Всеволодович"@ru	"1910-03-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Базель"@ru
+<http://www.wikidata.org/entity/Q1676064>	"Герасимчук, Иветта Владимировна"@ru	"1979-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1686532>	"Яковлев, Егор Владимирович"@ru	"1930-03-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1688694>	"Евгений Гришковец"@ru	"1967-02-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Кемерово"@ru
+<http://www.wikidata.org/entity/Q1696378>	"Сергей Николаевич Лазарев"@ru	"1952-09-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ейск"@ru
+<http://www.wikidata.org/entity/Q1713894>	"Юрий Александрович Гальперин"@ru	"1947-07-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1713908>	"Юрий Ханон"@ru	"1965-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1754439>	"Григорий Давидович Брускин"@ru	"1945-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1782715>	"Сухарев, Константин Константинович"@ru	"1912-02-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ачинск"@ru
+<http://www.wikidata.org/entity/Q1805456>	"Александр Моисеевич Городницкий"@ru	"1933-03-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1821953>	"Лев Александрович Безыменский"@ru	"1920-12-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Казань"@ru
+<http://www.wikidata.org/entity/Q1888882>	"Александр Яковлевич Аскольдов"@ru	"1932-02-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1888882>	"Александр Яковлевич Аскольдов"@ru	"1932-06-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1895197>	"Маргарита Тупицына"@ru	"1955-03-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1898282>	"Marina Rumjanzewa"@en	"1958-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1900170>	"Дворецкий, Марк Израилевич"@ru	"1947-12-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1900207>	"Марк Лазаревич Галлай"@ru	"1914-04-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1900820>	"Леонид Петрович Романков"@ru	"1937-11-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1906804>	"Мария Рольникайте"@ru	"1927-07-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Клайпеда"@ru
+<http://www.wikidata.org/entity/Q1906825>	"Гаирбекова, Машидат Гаджиевна"@ru	"1927-12-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Карата"@ru
+<http://www.wikidata.org/entity/Q1930292>	"Рыклин, Михаил Кузьмич"@ru	"1948-01-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1943650>	"Андрей Дмитриевич Дементьев"@ru	"1928-07-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Тверь"@ru
+<http://www.wikidata.org/entity/Q1958166>	"Константин Евгеньевич Кинчев"@ru	"1958-12-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1959490>	"Александр Александрович Бушков"@ru	"1956-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Минусинск"@ru
+<http://www.wikidata.org/entity/Q1960014>	"Григорий Горин"@ru	"1940-03-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1960651>	"Леонид Геннадьевич Парфёнов"@ru	"1960-01-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Череповец"@ru
+<http://www.wikidata.org/entity/Q1960905>	"Драгомощенко, Аркадий Трофимович"@ru	"1946-02-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Потсдам"@ru
+<http://www.wikidata.org/entity/Q1961302>	"Альберт Константинович Черненко"@ru	"1935-01-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Новосёлово"@ru
+<http://www.wikidata.org/entity/Q1962463>	"Конюхов, Фёдор Филиппович"@ru	"1951-12-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Чкалово"@ru
+<http://www.wikidata.org/entity/Q1964579>	"Шевцова, Лилия Фёдоровна"@ru	"1951-10-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Львов"@ru
+<http://www.wikidata.org/entity/Q1964825>	"Николай Петрович Бурляев"@ru	"1946-08-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1965002>	"Михаил Михайлович Жванецкий"@ru	"1934-03-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Одесса"@ru
+<http://www.wikidata.org/entity/Q1965416>	"Диана Арбенина"@ru	"1974-07-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Воложин"@ru
+<http://www.wikidata.org/entity/Q1967070>	"Светлана Яковлевна Сурганова"@ru	"1968-11-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1967089>	"Абдурахман Геназович Авторханов"@ru	"1908-10-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Чечня"@ru
+<http://www.wikidata.org/entity/Q1967697>	"Алексей Викторович Иванов"@ru	"1969-11-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Нижний Новгород"@ru
+<http://www.wikidata.org/entity/Q1968235>	"Юрий Витальевич Мамлеев"@ru	"1931-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1969208>	"Святослав Владимирович Логинов"@ru	"1951-10-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Уссурийск"@ru
+<http://www.wikidata.org/entity/Q1969327>	"Георгий Александрович Балл"@ru	"1927-06-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1970444>	"Коренева, Елена Алексеевна"@ru	"1953-10-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1970735>	"Эммануэль Вениаминович Брагинский"@ru	"1921-11-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1973856>	"Богушевская, Ирина Александровна"@ru	"1965-11-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1974529>	"Дубин, Борис Владимирович"@ru	"1946-12-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Москва"@ru
+<http://www.wikidata.org/entity/Q1974797>	"Игорь Николаев"@ru	"1960-01-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Холмск"@ru
+<http://www.wikidata.org/entity/Q1975227>	"Ника Георгиевна Турбина"@ru	"1974-12-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ялта"@ru
+<http://www.wikidata.org/entity/Q1975649>	"Никита Владимирович Богословский"@ru	"1913-05-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1978163>	"Николай Иванович Носков"@ru	"1956-01-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Гагарин"@ru
+<http://www.wikidata.org/entity/Q1978790>	"Невзоров, Александр Глебович"@ru	"1958-08-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Санкт-Петербург"@ru
+<http://www.wikidata.org/entity/Q1981049>	"Ирма Яковлевна Рауш"@ru	"1938-04-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Саратов"@ru
+
+ФИО	Телефон	E-mail	ИНН	Паспорт	СНИЛС	Адрес
+Барсуков Пётр Сергеевич	+7 (978) 645-34-81	p929.3440@mail-demo.example.ru	899432745101	13 28 850272	777-960-064 66	г. Самара, ул. Заводская Набережная, д. 52, кв. 208
+Вересовская Алла Игоревна	8 904 7031503	office50@vektor-demo.example.com	899294880520	9895 766572	023-278-810 41	г. Тверь, ул. Заводская Набережная, д. 84, кв. 247
+Мирошкин Матвей Олегович	+79136211055	a.6236@corp-demo.example.org	899432745101	13 28 850272	023-278-810 41	г. Самара, ул. Колокольная, д. 47, кв. 24
+Савельцева Алла Игоревна	8 (495) 418-76-48	p929.3440@mail-demo.example.ru	899294880520	9895 766572	777-960-064 66	г. Самара, ул. Заводская Набережная, д. 52, кв. 208
+Заявитель: Барсуков Пётр Сергеевич, дата рождения 26.10.1966	Барсуков Пётр Сергеевич, дата рождения 26.10.1966
+Паспорт серия и номер 13 28 850272, СНИЛС 777-960-064 66	Паспорт серия и номер 13 28 850272, СНИЛС 777-960-064 66
+ИНН 899432745101, тел. +7 (978) 645-34-81	ИНН 899432745101, тел. +7 (978) 645-34-81
+E-mail: p929.3440@mail-demo.example.ru	p929.3440@mail-demo.example.ru
+Банковская карта 4276 4255 9941 1432	Банковская карта 4276 4255 9941 1432
+Вересовская А.И. (8 904 7031503)	Вересовская А.И. (8 904 7031503)
+Представитель: Вересовская Алла Игоревна, паспорт 9895 766572, СНИЛС 023-278-810 41	Вересовская Алла Игоревна, паспорт 9895 766572, СНИЛС 023-278-810 41
+ООО «Вектор-Альфа», ИНН 2967101721, КПП 773207001, ОГРН 1163553931364	ООО «Вектор-Альфа», ИНН 2967101721, КПП 773207001, ОГРН 1163553931364
+Юридический адрес: г. Самара, ул. Заводская Набережная, д. 52, кв. 208	г. Самара, ул. Заводская Набережная, д. 52, кв. 208
+Расчётный счёт 40702810285207018564 в банке, БИК 044563521, корр. счёт 30101810163942026968	Расчётный счёт 40702810285207018564 в банке, БИК 044563521, корр. счёт 30101810163942026968
+Директор АО «Кедровый Берег» Мирошкин Матвей Олегович, ИНН 899294880520, моб. +79136211055	Директор АО «Кедровый Берег» Мирошкин Матвей Олегович, ИНН 899294880520, моб. +79136211055
+Контакт: office50@vektor-demo.example.com, офис 8 (495) 418-76-48	office50@vektor-demo.example.com, офис 8 (495) 418-76-48
+Адрес регистрации: г. Тверь, ул. Заводская Набережная, д. 84, кв. 247	г. Тверь, ул. Заводская Набережная, д. 84, кв. 247
+Адрес проживания: г. Самара, ул. Колокольная, д. 47, кв. 24	г. Самара, ул. Колокольная, д. 47, кв. 24
+ПАО «Горизонт Плюс Сервис», ИНН 7232784196, КПП 167901001, ОГРН 1535316725767, БИК 041231776	ПАО «Горизонт Плюс Сервис», ИНН 7232784196, КПП 167901001, ОГРН 1535316725767, БИК 041231776
+Карта второго держателя 5536 2642 8176 7154, счёт физлица 40817810831282465659	Карта второго держателя 5536 2642 8176 7154, счёт физлица 40817810831282465659
+Автомобиль: госномер Н122ОЕ 77	госномер Н122ОЕ 77
+Сервер 10.21.12.179, резервный 192.168.173.191, админ a.6236@corp-demo.example.org	Сервер 10.21.12.179, резервный 192.168.173.191, админ a.6236@corp-demo.example.org
+API key: sk_live_231476Zq76623373Xw	sk_live_231476Zq76623373Xw
+password = Rv875!kd3684Pm	password = Rv875!kd3684Pm
+Подписант Мирошкин М.О., дата рождения 20.08.1957	Подписант Мирошкин М.О., дата рождения 20.08.1957
+Ответственный: Савельцева Алла Игоревна / Савельцева А.И.	Савельцева Алла Игоревна / Савельцева А.И.
+Свидетель Остапчук Артём Игоревич	Свидетель Остапчук Артём Игоревич
+Комментарий	"Настоящий договор заключён между ООО «Вектор-Альфа» (ИНН 2967101721, КПП 773207001), в лице директора Мирошкин Матвей Олегович, и гражданином Барсуков Пётр Сергеевич, 26.10.1966 года рождения, паспорт 13 28 850272, проживающим по адресу: г. Тверь, ул. Заводская Набережная, д. 84, кв. 247.
+Оплата производится на расчётный счёт 40702810285207018564 в банке с БИК 044563521, корреспондентский счёт 30101810163942026968. Уведомления направлять на office50@vektor-demo.example.com или по телефону +7 (978) 645-34-81."

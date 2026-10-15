@@ -1,0 +1,139 @@
+{"id": "v2_person-0000", "group": "person", "text": "Подписал Whitfield J. и J. Whitfield.", "spans": [{"start": 9, "end": 21, "cat": "PERSON", "text": "Whitfield J."}, {"start": 24, "end": 36, "cat": "PERSON", "text": "J. Whitfield"}], "neg": [], "ok": []}
+{"id": "v2_person-0001", "group": "person", "text": "Contact: Smith, John (sales).", "spans": [{"start": 9, "end": 20, "cat": "PERSON", "text": "Smith, John"}], "neg": [], "ok": []}
+{"id": "v2_person-0002", "group": "person", "text": "Отдел кадров: ПЕТРОВ ПЕТР ПЕТРОВИЧ.", "spans": [{"start": 14, "end": 34, "cat": "PERSON", "text": "ПЕТРОВ ПЕТР ПЕТРОВИЧ"}], "neg": [], "ok": []}
+{"id": "v2_person-0003", "group": "person", "text": "Заявитель СИДОРОВА АННА ИВАНОВНА проживает в Твери.", "spans": [{"start": 10, "end": 32, "cat": "PERSON", "text": "СИДОРОВА АННА ИВАНОВНА"}, {"start": 45, "end": 50, "cat": "CITY", "text": "Твери"}], "neg": [], "ok": []}
+{"id": "v2_person-0004", "group": "person", "text": "Dear Mr. Daniel Hargrove, thank you.", "spans": [{"start": 9, "end": 24, "cat": "PERSON", "text": "Daniel Hargrove"}], "neg": [], "ok": []}
+{"id": "v2_person-0005", "group": "person", "text": "Письмо передал Ковалёвой Марии Андреевне.", "spans": [{"start": 15, "end": 40, "cat": "PERSON", "text": "Ковалёвой Марии Андреевне"}], "neg": [], "ok": []}
+{"id": "v2_person-0006", "group": "person", "text": "Встреча с Лебедевым Артёмом назначена.", "spans": [{"start": 10, "end": 27, "cat": "PERSON", "text": "Лебедевым Артёмом"}], "neg": [], "ok": []}
+{"id": "v2_person-0007", "group": "person", "text": "Звонил Витя из бухгалтерии, просил перезвонить.", "spans": [{"start": 7, "end": 11, "cat": "PERSON", "text": "Витя"}], "neg": [], "ok": []}
+{"id": "v2_person-0008", "group": "person", "text": "Попроси Тоню, она знает.", "spans": [{"start": 8, "end": 12, "cat": "PERSON", "text": "Тоню"}], "neg": [], "ok": []}
+{"id": "v2_person-0009", "group": "person", "text": "Автор: Elena Voronova", "spans": [{"start": 7, "end": 21, "cat": "PERSON", "text": "Elena Voronova"}], "neg": [], "ok": []}
+{"id": "v2_person-0010", "group": "person", "text": "Подпись: Е. В. Воронова", "spans": [{"start": 9, "end": 23, "cat": "PERSON", "text": "Е. В. Воронова"}], "neg": [], "ok": []}
+{"id": "v2_person-0011", "group": "person", "text": "Руководитель проекта Орлов А.К. утвердил план.", "spans": [{"start": 21, "end": 31, "cat": "PERSON", "text": "Орлов А.К."}], "neg": [], "ok": []}
+{"id": "v2_person-0012", "group": "person", "text": "Ответственный: Мамедов Эльчин Рашид оглы", "spans": [{"start": 15, "end": 40, "cat": "PERSON", "text": "Мамедов Эльчин Рашид оглы"}], "neg": [], "ok": []}
+{"id": "v2_person-0013", "group": "person", "text": "Доверенное лицо — Нгуен Ван Тханг.", "spans": [{"start": 18, "end": 33, "cat": "PERSON", "text": "Нгуен Ван Тханг"}], "neg": [], "ok": []}
+{"id": "v2_person-0014", "group": "person", "text": "Vom Geschäftsführer Klaus Brenner unterschrieben.", "spans": [{"start": 20, "end": 33, "cat": "PERSON", "text": "Klaus Brenner"}], "neg": [], "ok": []}
+{"id": "v2_person-0015", "group": "person", "text": "Мы поговорили с Дарьей Игоревной Смолиной вчера.", "spans": [{"start": 16, "end": 41, "cat": "PERSON", "text": "Дарьей Игоревной Смолиной"}], "neg": [], "ok": []}
+{"id": "v2_person-0016", "group": "person", "text": "Пациент Рустамов Фарход Абдуллаевич, 1975 г.р.", "spans": [{"start": 8, "end": 35, "cat": "PERSON", "text": "Рустамов Фарход Абдуллаевич"}, {"start": 37, "end": 41, "cat": "BIRTH_DATE", "text": "1975"}], "neg": [], "ok": []}
+{"id": "v2_person-0017", "group": "person", "text": "Царь Иван Грозный правил в XVI веке.", "spans": [], "neg": [], "ok": [{"start": 5, "end": 17, "text": "Иван Грозный"}]}
+{"id": "v2_person-0018", "group": "person", "text": "Пётр Первый основал город.", "spans": [], "neg": [], "ok": [{"start": 0, "end": 11, "text": "Пётр Первый"}]}
+{"id": "v2_person-0019", "group": "person", "text": "Улица Ленина закрыта на ремонт.", "spans": [], "neg": [], "ok": [{"start": 0, "end": 12, "text": "Улица Ленина"}]}
+{"id": "v2_person-0020", "group": "person", "text": "Артикул Иванов-17 и модель Смирнов Pro.", "spans": [], "neg": [{"start": 8, "end": 17, "text": "Иванов-17"}, {"start": 27, "end": 38, "text": "Смирнов Pro"}], "ok": []}
+{"id": "v2_person-0021", "group": "person", "text": "Фонд Андрея Первозванного провёл акцию.", "spans": [], "neg": [], "ok": [{"start": 5, "end": 25, "text": "Андрея Первозванного"}]}
+{"id": "v2_person-0022", "group": "person", "text": "Игра Ведьмак 3 вышла в 2015 году.", "spans": [], "neg": [{"start": 5, "end": 14, "text": "Ведьмак 3"}], "ok": []}
+{"id": "v2_org-0023", "group": "org", "text": "Контракт с ООО «Ромашка-Плюс» подписан.", "spans": [{"start": 11, "end": 29, "cat": "ORG", "text": "ООО «Ромашка-Плюс»"}], "neg": [], "ok": []}
+{"id": "v2_org-0024", "group": "org", "text": "Поставщик: АО «НПО Вектор».", "spans": [{"start": 11, "end": 26, "cat": "ORG", "text": "АО «НПО Вектор»"}], "neg": [], "ok": []}
+{"id": "v2_org-0025", "group": "org", "text": "ИП Сидоров С.С. оказал услуги.", "spans": [{"start": 0, "end": 15, "cat": "ORG", "text": "ИП Сидоров С.С."}], "neg": [], "ok": []}
+{"id": "v2_org-0026", "group": "org", "text": "Платёж получил Nordwind Trading Ltd..", "spans": [{"start": 15, "end": 36, "cat": "ORG", "text": "Nordwind Trading Ltd."}], "neg": [], "ok": []}
+{"id": "v2_org-0027", "group": "org", "text": "Клиент — Acme Logistics LLC.", "spans": [{"start": 9, "end": 27, "cat": "ORG", "text": "Acme Logistics LLC"}], "neg": [], "ok": []}
+{"id": "v2_org-0028", "group": "org", "text": "Партнёр ЗАО Северсталь-Инвест подтвердил.", "spans": [{"start": 8, "end": 29, "cat": "ORG", "text": "ЗАО Северсталь-Инвест"}], "neg": [], "ok": []}
+{"id": "v2_org-0029", "group": "org", "text": "Договор с компанией Техноград расторгнут.", "spans": [{"start": 20, "end": 29, "cat": "ORG", "text": "Техноград"}], "neg": [], "ok": []}
+{"id": "v2_org-0030", "group": "org", "text": "Our vendor Brightline Systems GmbH ships on Monday.", "spans": [{"start": 11, "end": 34, "cat": "ORG", "text": "Brightline Systems GmbH"}], "neg": [], "ok": []}
+{"id": "v2_org-0031", "group": "org", "text": "Организация МУП «Водоканал» выставила счёт.", "spans": [{"start": 17, "end": 26, "cat": "ORG", "text": "Водоканал"}], "neg": [], "ok": []}
+{"id": "v2_org-0032", "group": "org", "text": "Заказчик ПАО «Мосэнерго».", "spans": [{"start": 9, "end": 24, "cat": "ORG", "text": "ПАО «Мосэнерго»"}], "neg": [], "ok": []}
+{"id": "v2_org-0033", "group": "org", "text": "Купите Яндекс Станцию в магазине.", "spans": [], "neg": [], "ok": [{"start": 7, "end": 13, "text": "Яндекс"}]}
+{"id": "v2_org-0034", "group": "org", "text": "Школа № 5 закрыта.", "spans": [], "neg": [{"start": 6, "end": 9, "text": "№ 5"}], "ok": []}
+{"id": "v2_org-0035", "group": "org", "text": "Название ООО нужно писать полностью.", "spans": [], "neg": [], "ok": [{"start": 0, "end": 8, "text": "Название"}]}
+{"id": "v2_org-0036", "group": "org", "text": "Продукция ГОСТ 12345-2018 сертифицирована.", "spans": [], "neg": [{"start": 10, "end": 25, "text": "ГОСТ 12345-2018"}], "ok": []}
+{"id": "v2_city-0037", "group": "city", "text": "Офис находится в Самаре.", "spans": [{"start": 17, "end": 23, "cat": "CITY", "text": "Самаре"}], "neg": [], "ok": []}
+{"id": "v2_city-0038", "group": "city", "text": "Отгрузка из Челябинска в Омск.", "spans": [{"start": 12, "end": 22, "cat": "CITY", "text": "Челябинска"}, {"start": 25, "end": 29, "cat": "CITY", "text": "Омск"}], "neg": [], "ok": []}
+{"id": "v2_city-0039", "group": "city", "text": "Our branch in Frankfurt opened.", "spans": [{"start": 14, "end": 23, "cat": "CITY", "text": "Frankfurt"}], "neg": [], "ok": []}
+{"id": "v2_city-0040", "group": "city", "text": "Проживает: г. Рязань, ул. Мира.", "spans": [{"start": 14, "end": 20, "cat": "CITY", "text": "Рязань"}, {"start": 22, "end": 30, "cat": "ADDRESS", "text": "ул. Мира"}], "neg": [], "ok": []}
+{"id": "v2_city-0041", "group": "city", "text": "Прибыл в Нижний Новгород поездом.", "spans": [{"start": 9, "end": 24, "cat": "CITY", "text": "Нижний Новгород"}], "neg": [], "ok": []}
+{"id": "v2_city-0042", "group": "city", "text": "Склад в Подольске.", "spans": [{"start": 8, "end": 17, "cat": "CITY", "text": "Подольске"}], "neg": [], "ok": []}
+{"id": "v2_city-0043", "group": "city", "text": "Мы работаем в Екатеринбурге с 2010 года.", "spans": [{"start": 14, "end": 27, "cat": "CITY", "text": "Екатеринбурге"}], "neg": [], "ok": []}
+{"id": "v2_city-0044", "group": "city", "text": "Flight to Lisbon was delayed.", "spans": [{"start": 10, "end": 16, "cat": "CITY", "text": "Lisbon"}], "neg": [], "ok": []}
+{"id": "v2_city-0045", "group": "city", "text": "Командировка в Ярославль на три дня.", "spans": [{"start": 15, "end": 24, "cat": "CITY", "text": "Ярославль"}], "neg": [], "ok": []}
+{"id": "v2_city-0046", "group": "city", "text": "Орёл — птица семейства ястребиных.", "spans": [], "neg": [{"start": 0, "end": 4, "text": "Орёл"}], "ok": []}
+{"id": "v2_city-0047", "group": "city", "text": "Фамилия Москвин редкая.", "spans": [], "neg": [{"start": 8, "end": 15, "text": "Москвин"}], "ok": []}
+{"id": "v2_city-0048", "group": "city", "text": "Размер XL и цвет Тверской не подходят.", "spans": [], "neg": [{"start": 7, "end": 9, "text": "XL"}, {"start": 17, "end": 25, "text": "Тверской"}], "ok": []}
+{"id": "v2_region-0049", "group": "region", "text": "Работа в Ленинградской области идёт.", "spans": [{"start": 9, "end": 22, "cat": "REGION", "text": "Ленинградской"}], "neg": [], "ok": []}
+{"id": "v2_region-0050", "group": "region", "text": "Поставки в Краснодарский край выросли.", "spans": [{"start": 11, "end": 24, "cat": "REGION", "text": "Краснодарский"}], "neg": [], "ok": []}
+{"id": "v2_region-0051", "group": "region", "text": "Объект в Республике Татарстан введён.", "spans": [{"start": 20, "end": 29, "cat": "REGION", "text": "Татарстан"}], "neg": [], "ok": []}
+{"id": "v2_country-0052", "group": "country", "text": "Партнёры из Германии приедут.", "spans": [{"start": 12, "end": 20, "cat": "COUNTRY", "text": "Германии"}], "neg": [], "ok": []}
+{"id": "v2_country-0053", "group": "country", "text": "Экспорт в Казахстан вырос.", "spans": [{"start": 10, "end": 19, "cat": "COUNTRY", "text": "Казахстан"}], "neg": [], "ok": []}
+{"id": "v2_country-0054", "group": "country", "text": "Customers in France and Italy pay late.", "spans": [{"start": 13, "end": 19, "cat": "COUNTRY", "text": "France"}, {"start": 24, "end": 29, "cat": "COUNTRY", "text": "Italy"}], "neg": [], "ok": []}
+{"id": "v2_address-0055", "group": "address", "text": "Адрес: г. Москва, ул. Тверская, д. 7, кв. 12.", "spans": [{"start": 7, "end": 44, "cat": "ADDRESS", "text": "г. Москва, ул. Тверская, д. 7, кв. 12"}], "neg": [], "ok": []}
+{"id": "v2_address-0056", "group": "address", "text": "Живёт по адресу Казань, пр. Победы, 15-41.", "spans": [{"start": 16, "end": 41, "cat": "ADDRESS", "text": "Казань, пр. Победы, 15-41"}], "neg": [], "ok": []}
+{"id": "v2_address-0057", "group": "address", "text": "Ship to 742 Evergreen Terrace, Springfield, OR 97477.", "spans": [{"start": 8, "end": 52, "cat": "ADDRESS", "text": "742 Evergreen Terrace, Springfield, OR 97477"}], "neg": [], "ok": []}
+{"id": "v2_address-0058", "group": "address", "text": "Офис: Санкт-Петербург, Невский проспект, 28, оф. 5.", "spans": [{"start": 6, "end": 43, "cat": "ADDRESS", "text": "Санкт-Петербург, Невский проспект, 28"}], "neg": [], "ok": []}
+{"id": "v2_address-0059", "group": "address", "text": "Mail: 10 Downing Street, London SW1A 2AA.", "spans": [{"start": 6, "end": 40, "cat": "ADDRESS", "text": "10 Downing Street, London SW1A 2AA"}], "neg": [], "ok": []}
+{"id": "v2_address-0060", "group": "address", "text": "Почтовый адрес: 123456, г. Тула, ул. Ленина, д. 3.", "spans": [{"start": 16, "end": 49, "cat": "ADDRESS", "text": "123456, г. Тула, ул. Ленина, д. 3"}], "neg": [], "ok": []}
+{"id": "v2_address-0061", "group": "address", "text": "Встреча на Площади Победы в полдень.", "spans": [], "neg": [{"start": 11, "end": 25, "text": "Площади Победы"}], "ok": []}
+{"id": "v2_address-0062", "group": "address", "text": "Статья 7 пункт 3 Правил дорожного движения.", "spans": [], "neg": [{"start": 17, "end": 42, "text": "Правил дорожного движения"}], "ok": []}
+{"id": "v2_email-0063", "group": "email", "text": "Пишите на ivan.petrov@example.com.", "spans": [{"start": 10, "end": 33, "cat": "EMAIL", "text": "ivan.petrov@example.com"}], "neg": [], "ok": []}
+{"id": "v2_email-0064", "group": "email", "text": "Контакт: sales+ru@nordwind-trade.de", "spans": [{"start": 9, "end": 35, "cat": "EMAIL", "text": "sales+ru@nordwind-trade.de"}], "neg": [], "ok": []}
+{"id": "v2_email-0065", "group": "email", "text": "Скопируйте A.B-c_d@sub.domain.co.uk в поле.", "spans": [{"start": 11, "end": 35, "cat": "EMAIL", "text": "A.B-c_d@sub.domain.co.uk"}], "neg": [], "ok": []}
+{"id": "v2_email-0066", "group": "email", "text": "Формат name@domain без зоны не адрес.", "spans": [], "neg": [{"start": 7, "end": 18, "text": "name@domain"}], "ok": []}
+{"id": "v2_phone-0067", "group": "phone", "text": "Тел. +7 (495) 123-45-67 доб. 12.", "spans": [{"start": 5, "end": 23, "cat": "PHONE", "text": "+7 (495) 123-45-67"}], "neg": [], "ok": []}
+{"id": "v2_phone-0068", "group": "phone", "text": "Звоните 8-800-555-35-35.", "spans": [{"start": 8, "end": 23, "cat": "PHONE", "text": "8-800-555-35-35"}], "neg": [], "ok": []}
+{"id": "v2_phone-0069", "group": "phone", "text": "Mobile: +1 (415) 555-0132.", "spans": [{"start": 8, "end": 25, "cat": "PHONE", "text": "+1 (415) 555-0132"}], "neg": [], "ok": []}
+{"id": "v2_phone-0070", "group": "phone", "text": "Мой номер 89161234567.", "spans": [{"start": 10, "end": 21, "cat": "PHONE", "text": "89161234567"}], "neg": [], "ok": []}
+{"id": "v2_phone-0071", "group": "phone", "text": "WhatsApp: +44 20 7946 0958.", "spans": [{"start": 10, "end": 26, "cat": "PHONE", "text": "+44 20 7946 0958"}], "neg": [], "ok": []}
+{"id": "v2_phone-0072", "group": "phone", "text": "Факс (3822) 55-66-77.", "spans": [{"start": 5, "end": 20, "cat": "PHONE", "text": "(3822) 55-66-77"}], "neg": [], "ok": []}
+{"id": "v2_phone-0073", "group": "phone", "text": "Код ТН ВЭД 8517130000 применяется.", "spans": [], "neg": [{"start": 11, "end": 21, "text": "8517130000"}], "ok": []}
+{"id": "v2_phone-0074", "group": "phone", "text": "Сумма 11713348834 рублей.", "spans": [], "neg": [{"start": 6, "end": 17, "text": "11713348834"}], "ok": []}
+{"id": "v2_phone-0075", "group": "phone", "text": "Артикул 4601234567890 штрихкод.", "spans": [], "neg": [{"start": 8, "end": 21, "text": "4601234567890"}], "ok": []}
+{"id": "v2_phone-0076", "group": "phone", "text": "Ряд значений: 1234567, 7654321.", "spans": [], "neg": [{"start": 14, "end": 21, "text": "1234567"}, {"start": 23, "end": 30, "text": "7654321"}], "ok": []}
+{"id": "v2_username-0077", "group": "username", "text": "Профиль: @ivan_petrov88 в Telegram.", "spans": [{"start": 9, "end": 23, "cat": "USERNAME", "text": "@ivan_petrov88"}], "neg": [], "ok": []}
+{"id": "v2_username-0078", "group": "username", "text": "GitHub: octo-cat42", "spans": [{"start": 8, "end": 18, "cat": "USERNAME", "text": "octo-cat42"}], "neg": [], "ok": []}
+{"id": "v2_username-0079", "group": "username", "text": "Логин: i.petrov", "spans": [{"start": 7, "end": 15, "cat": "USERNAME", "text": "i.petrov"}], "neg": [], "ok": []}
+{"id": "v2_username-0080", "group": "username", "text": "Ник dark_wolf_77 в игре.", "spans": [{"start": 4, "end": 16, "cat": "USERNAME", "text": "dark_wolf_77"}], "neg": [], "ok": []}
+{"id": "v2_domain-0081", "group": "domain", "text": "Сайт nordwind-trade.de недоступен.", "spans": [{"start": 5, "end": 22, "cat": "DOMAIN", "text": "nordwind-trade.de"}], "neg": [], "ok": []}
+{"id": "v2_domain-0082", "group": "domain", "text": "Откройте https://portal.romashka-plus.ru/cabinet.", "spans": [{"start": 24, "end": 48, "cat": "DOMAIN", "text": "romashka-plus.ru/cabinet"}], "neg": [], "ok": []}
+{"id": "v2_domain-0083", "group": "domain", "text": "Хост erp.vektor-m.com ответил.", "spans": [{"start": 9, "end": 21, "cat": "DOMAIN", "text": "vektor-m.com"}], "neg": [], "ok": []}
+{"id": "v2_domain-0084", "group": "domain", "text": "Версия v3.1 и билд b2024 готовы.", "spans": [], "neg": [{"start": 7, "end": 11, "text": "v3.1"}, {"start": 19, "end": 24, "text": "b2024"}], "ok": []}
+{"id": "v2_domain-0085", "group": "domain", "text": "Версия v2.4.1 выпущена.", "spans": [], "neg": [{"start": 7, "end": 13, "text": "v2.4.1"}], "ok": []}
+{"id": "v2_contract-0086", "group": "contract", "text": "Договор № 45/2024-Б от 01.03.2024.", "spans": [{"start": 8, "end": 19, "cat": "CONTRACT", "text": "№ 45/2024-Б"}], "neg": [], "ok": []}
+{"id": "v2_contract-0087", "group": "contract", "text": "Контракт №ДП-778 подписан.", "spans": [{"start": 9, "end": 16, "cat": "CONTRACT", "text": "№ДП-778"}], "neg": [], "ok": []}
+{"id": "v2_contract-0088", "group": "contract", "text": "По счёту № 1203-17 оплачено.", "spans": [{"start": 9, "end": 18, "cat": "CONTRACT", "text": "№ 1203-17"}], "neg": [], "ok": []}
+{"id": "v2_contract-0089", "group": "contract", "text": "Пункт 3.4.1 договора действует.", "spans": [], "neg": [{"start": 6, "end": 11, "text": "3.4.1"}], "ok": []}
+{"id": "v2_contract-0090", "group": "contract", "text": "Приложение № 2 к приказу.", "spans": [], "neg": [{"start": 11, "end": 14, "text": "№ 2"}], "ok": []}
+{"id": "v2_passport-0091", "group": "passport", "text": "Паспорт 45 12 345678 выдан ОУФМС.", "spans": [{"start": 8, "end": 20, "cat": "PASSPORT", "text": "45 12 345678"}], "neg": [], "ok": []}
+{"id": "v2_passport-0092", "group": "passport", "text": "Серия и номер: 4512 345678", "spans": [{"start": 15, "end": 26, "cat": "PASSPORT", "text": "4512 345678"}], "neg": [], "ok": []}
+{"id": "v2_passport-0093", "group": "passport", "text": "Passport No. AB1234567 issued in Berlin.", "spans": [{"start": 13, "end": 22, "cat": "PASSPORT", "text": "AB1234567"}, {"start": 33, "end": 39, "cat": "CITY", "text": "Berlin"}], "neg": [], "ok": []}
+{"id": "v2_passport-0094", "group": "passport", "text": "Код подразделения 770-023 указан.", "spans": [], "neg": [{"start": 18, "end": 25, "text": "770-023"}], "ok": []}
+{"id": "v2_passport-0095", "group": "passport", "text": "Номер заказа 4512345678 оформлен.", "spans": [], "neg": [{"start": 13, "end": 23, "text": "4512345678"}], "ok": []}
+{"id": "v2_snils-0096", "group": "snils", "text": "СНИЛС 112-233-445 95 указан.", "spans": [{"start": 6, "end": 20, "cat": "SNILS", "text": "112-233-445 95"}], "neg": [], "ok": []}
+{"id": "v2_snils-0097", "group": "snils", "text": "СНИЛС: 11223344595", "spans": [{"start": 7, "end": 18, "cat": "SNILS", "text": "11223344595"}], "neg": [], "ok": []}
+{"id": "v2_inn-0098", "group": "inn", "text": "ИНН 7707083893 организации.", "spans": [{"start": 4, "end": 14, "cat": "INN", "text": "7707083893"}], "neg": [], "ok": []}
+{"id": "v2_inn-0099", "group": "inn", "text": "ИНН физлица 500100732259.", "spans": [{"start": 12, "end": 24, "cat": "INN", "text": "500100732259"}], "neg": [], "ok": []}
+{"id": "v2_inn-0100", "group": "inn", "text": "Плательщик (ИНН 7728168971) оплатил.", "spans": [{"start": 16, "end": 26, "cat": "INN", "text": "7728168971"}], "neg": [], "ok": []}
+{"id": "v2_inn-0101", "group": "inn", "text": "TIN: 7707083893", "spans": [{"start": 5, "end": 15, "cat": "INN", "text": "7707083893"}], "neg": [], "ok": []}
+{"id": "v2_inn-0102", "group": "inn", "text": "Номер партии 1234567890 принят.", "spans": [], "neg": [{"start": 13, "end": 23, "text": "1234567890"}], "ok": []}
+{"id": "v2_inn-0103", "group": "inn", "text": "Штрихкод 4607177360015.", "spans": [], "neg": [{"start": 9, "end": 22, "text": "4607177360015"}], "ok": []}
+{"id": "v2_inn-0104", "group": "inn", "text": "Сумма 5008001234 в таблице.", "spans": [], "neg": [{"start": 6, "end": 16, "text": "5008001234"}], "ok": []}
+{"id": "v2_ogrn-0105", "group": "ogrn", "text": "ОГРН 1027700132195 внесён.", "spans": [{"start": 5, "end": 18, "cat": "OGRN", "text": "1027700132195"}], "neg": [], "ok": []}
+{"id": "v2_ogrn-0106", "group": "ogrn", "text": "ОГРНИП 304500116000157.", "spans": [{"start": 7, "end": 22, "cat": "OGRN", "text": "304500116000157"}], "neg": [], "ok": []}
+{"id": "v2_kpp-0107", "group": "kpp", "text": "КПП 770701001 организации.", "spans": [{"start": 4, "end": 13, "cat": "KPP", "text": "770701001"}], "neg": [], "ok": []}
+{"id": "v2_bik-0108", "group": "bik", "text": "БИК 044525225 банка.", "spans": [{"start": 4, "end": 13, "cat": "BIK", "text": "044525225"}], "neg": [], "ok": []}
+{"id": "v2_bank-0109", "group": "bank", "text": "Р/с 40702810938000012345 в Сбербанке.", "spans": [{"start": 4, "end": 24, "cat": "BANK_ACCOUNT", "text": "40702810938000012345"}, {"start": 27, "end": 36, "cat": "ORG", "text": "Сбербанке"}], "neg": [], "ok": []}
+{"id": "v2_bank-0110", "group": "bank", "text": "Счёт 40817810099910004312", "spans": [{"start": 5, "end": 25, "cat": "BANK_ACCOUNT", "text": "40817810099910004312"}], "neg": [], "ok": []}
+{"id": "v2_bank-0111", "group": "bank", "text": "IBAN DE89370400440532013000", "spans": [{"start": 5, "end": 27, "cat": "BANK_ACCOUNT", "text": "DE89370400440532013000"}], "neg": [], "ok": []}
+{"id": "v2_bank-0112", "group": "bank", "text": "Корсчёт 30101810400000000225", "spans": [{"start": 8, "end": 28, "cat": "BANK_ACCOUNT", "text": "30101810400000000225"}], "neg": [], "ok": []}
+{"id": "v2_oms-0113", "group": "oms", "text": "Полис ОМС 1234567890123456.", "spans": [{"start": 10, "end": 26, "cat": "OMS", "text": "1234567890123456"}], "neg": [], "ok": []}
+{"id": "v2_license-0114", "group": "license", "text": "Права 77 12 345678 категории B.", "spans": [{"start": 6, "end": 18, "cat": "DRIVER_LICENSE", "text": "77 12 345678"}], "neg": [], "ok": []}
+{"id": "v2_plate-0115", "group": "plate", "text": "Машина А123ВС 77 во дворе.", "spans": [{"start": 7, "end": 16, "cat": "VEHICLE_PLATE", "text": "А123ВС 77"}], "neg": [], "ok": []}
+{"id": "v2_plate-0116", "group": "plate", "text": "Номер авто Х777ХХ199.", "spans": [{"start": 11, "end": 20, "cat": "VEHICLE_PLATE", "text": "Х777ХХ199"}], "neg": [], "ok": []}
+{"id": "v2_plate-0117", "group": "plate", "text": "Plate AB12 CDE seen.", "spans": [{"start": 6, "end": 14, "cat": "VEHICLE_PLATE", "text": "AB12 CDE"}], "neg": [], "ok": []}
+{"id": "v2_card-0118", "group": "card", "text": "Карта 4276 3800 1234 5678 списание.", "spans": [{"start": 6, "end": 25, "cat": "CARD", "text": "4276 3800 1234 5678"}], "neg": [], "ok": []}
+{"id": "v2_card-0119", "group": "card", "text": "Card: 4012888888881881", "spans": [{"start": 6, "end": 22, "cat": "CARD", "text": "4012888888881881"}], "neg": [], "ok": []}
+{"id": "v2_card-0120", "group": "card", "text": "CVV 123 и номер 4111 1111 1111 1111.", "spans": [{"start": 16, "end": 35, "cat": "CARD", "text": "4111 1111 1111 1111"}], "neg": [], "ok": []}
+{"id": "v2_card-0121", "group": "card", "text": "Номер заказа 1234 5678 9012 3456 не карта.", "spans": [], "neg": [{"start": 13, "end": 32, "text": "1234 5678 9012 3456"}], "ok": []}
+{"id": "v2_dob-0122", "group": "dob", "text": "Родился 12.03.1985.", "spans": [{"start": 8, "end": 18, "cat": "BIRTH_DATE", "text": "12.03.1985"}], "neg": [], "ok": []}
+{"id": "v2_dob-0123", "group": "dob", "text": "Дата рождения: 5 мая 1990 г.", "spans": [{"start": 15, "end": 28, "cat": "BIRTH_DATE", "text": "5 мая 1990 г."}], "neg": [], "ok": []}
+{"id": "v2_dob-0124", "group": "dob", "text": "DOB: 1992-07-21", "spans": [{"start": 5, "end": 15, "cat": "BIRTH_DATE", "text": "1992-07-21"}], "neg": [], "ok": []}
+{"id": "v2_dob-0125", "group": "dob", "text": "Отчёт от 12.03.2024 готов.", "spans": [], "neg": [{"start": 9, "end": 19, "text": "12.03.2024"}], "ok": []}
+{"id": "v2_dob-0126", "group": "dob", "text": "Срок до 31.12.2025 продлён.", "spans": [], "neg": [{"start": 8, "end": 18, "text": "31.12.2025"}], "ok": []}
+{"id": "v2_ip-0127", "group": "ip", "text": "Сервер 192.168.10.25 недоступен.", "spans": [{"start": 7, "end": 20, "cat": "IP_ADDRESS", "text": "192.168.10.25"}], "neg": [], "ok": []}
+{"id": "v2_ip-0128", "group": "ip", "text": "IPv6 2001:0db8:85a3:0000:0000:8a2e:0370:7334 ok.", "spans": [{"start": 5, "end": 44, "cat": "IP_ADDRESS", "text": "2001:0db8:85a3:0000:0000:8a2e:0370:7334"}], "neg": [], "ok": []}
+{"id": "v2_ip-0129", "group": "ip", "text": "Версия 10.2.3.4 ПО.", "spans": [], "neg": [{"start": 7, "end": 15, "text": "10.2.3.4"}], "ok": []}
+{"id": "v2_ip-0130", "group": "ip", "text": "Раздел 2.3.4.5 положения.", "spans": [], "neg": [{"start": 7, "end": 14, "text": "2.3.4.5"}], "ok": []}
+{"id": "v2_ip-0131", "group": "ip", "text": "Модель 1.2.3.4.5 серии.", "spans": [], "neg": [{"start": 7, "end": 16, "text": "1.2.3.4.5"}], "ok": []}
+{"id": "v2_secret-0132", "group": "secret", "text": "Пароль: Zq9!x7Lm2#", "spans": [{"start": 8, "end": 18, "cat": "SECRET", "text": "Zq9!x7Lm2#"}], "neg": [], "ok": []}
+{"id": "v2_secret-0133", "group": "secret", "text": "api_key=sk_live_AbCdEfGhIjKl-nOpQrStUvWx", "spans": [{"start": 8, "end": 40, "cat": "SECRET", "text": "sk_live_AbCdEfGhIjKl-nOpQrStUvWx"}], "neg": [], "ok": []}
+{"id": "v2_secret-0134", "group": "secret", "text": "token: ghp_16C7e42F292c6912E7710c838347Ae178B4a", "spans": [{"start": 7, "end": 47, "cat": "SECRET", "text": "ghp_16C7e42F292c6912E7710c838347Ae178B4a"}], "neg": [], "ok": []}
+{"id": "v2_secret-0135", "group": "secret", "text": "password=hunter2xx", "spans": [{"start": 9, "end": 18, "cat": "SECRET", "text": "hunter2xx"}], "neg": [], "ok": []}
+{"id": "v2_project-0136", "group": "project", "text": "Проект «Северный поток-3» стартовал.", "spans": [{"start": 7, "end": 25, "cat": "PROJECT", "text": "«Северный поток-3»"}], "neg": [], "ok": []}
+{"id": "v2_project-0137", "group": "project", "text": "В рамках программы «Эталон-М» выделено.", "spans": [{"start": 19, "end": 29, "cat": "PROJECT", "text": "«Эталон-М»"}], "neg": [], "ok": []}
+{"id": "v2_project-0138", "group": "project", "text": "Платформа WordPress и Битрикс известны.", "spans": [], "neg": [{"start": 10, "end": 19, "text": "WordPress"}, {"start": 22, "end": 29, "text": "Битрикс"}], "ok": []}

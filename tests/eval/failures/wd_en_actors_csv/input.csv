@@ -1,0 +1,323 @@
+p,pLabel,birth,placeLabel
+http://www.wikidata.org/entity/Q392,Bob Dylan,1941-05-24T00:00:00Z,Duluth
+http://www.wikidata.org/entity/Q400,Jenna Jameson,1974-04-09T00:00:00Z,Las Vegas
+http://www.wikidata.org/entity/Q489,Bill Maher,1956-01-20T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q607,Michael Bloomberg,1942-02-14T00:00:00Z,Boston
+http://www.wikidata.org/entity/Q633,Neil Young,1945-11-12T00:00:00Z,Toronto
+http://www.wikidata.org/entity/Q714,Stevie Wonder,1950-05-13T00:00:00Z,Saginaw
+http://www.wikidata.org/entity/Q814,Coco Austin,1979-03-17T00:00:00Z,Tarzana
+http://www.wikidata.org/entity/Q873,Q873,1949-06-22T00:00:00Z,Summit
+http://www.wikidata.org/entity/Q1545,Cyndi Lauper,1953-06-22T00:00:00Z,Queens
+http://www.wikidata.org/entity/Q1744,Madonna,1958-08-16T00:00:00Z,Bay City
+http://www.wikidata.org/entity/Q1779,Louis Armstrong,1901-08-04T00:00:00Z,New Orleans
+http://www.wikidata.org/entity/Q2071,David Lynch,1946-01-20T00:00:00Z,Missoula
+http://www.wikidata.org/entity/Q2263,Tom Hanks,1956-07-09T00:00:00Z,Concord
+http://www.wikidata.org/entity/Q2597,Johanna Braddy,1987-08-30T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q2673,Q2673,1940-03-10T00:00:00Z,Ryan
+http://www.wikidata.org/entity/Q2680,Q2680,1955-03-19T00:00:00Z,Idar-Oberstein
+http://www.wikidata.org/entity/Q2685,Arnold Schwarzenegger,1947-07-30T00:00:00Z,Thal
+http://www.wikidata.org/entity/Q2709,Sasha Grey,1988-03-14T00:00:00Z,North Highlands
+http://www.wikidata.org/entity/Q3195,Geoffrey Arend,1978-02-28T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q3324,Rufus R. Jones,1933-07-04T00:00:00Z,Dillon
+http://www.wikidata.org/entity/Q3772,Quentin Tarantino,1963-03-27T00:00:00Z,Knoxville
+http://www.wikidata.org/entity/Q3925,Grace Kelly,1929-11-12T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q3990,Jeff Garcia,1975-05-03T00:00:00Z,La Puente
+http://www.wikidata.org/entity/Q4028,Paul Simon,1941-10-13T00:00:00Z,Newark
+http://www.wikidata.org/entity/Q4029,Tara Strong,1973-02-12T00:00:00Z,Toronto
+http://www.wikidata.org/entity/Q4036,Richard Steven Horvitz,1966-07-29T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q4038,Tony Barbieri,1963-08-26T00:00:00Z,Framingham
+http://www.wikidata.org/entity/Q4039,Art Garfunkel,1941-11-05T00:00:00Z,Forest Hills
+http://www.wikidata.org/entity/Q4042,CeeLo Green,1975-05-30T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q4058,Kayla Ewell,1985-08-27T00:00:00Z,Long Beach
+http://www.wikidata.org/entity/Q4109,Q4109,1965-02-07T00:00:00Z,Andrews
+http://www.wikidata.org/entity/Q4119,Adam Carolla,1964-05-27T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q4145,Patrice O'Neal,1969-12-07T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q4189,Claire Holt,1988-06-11T00:00:00Z,Brisbane
+http://www.wikidata.org/entity/Q4212,Ned Beatty,1937-07-06T00:00:00Z,Louisville
+http://www.wikidata.org/entity/Q4223,Julian McMahon,1968-07-27T00:00:00Z,Sydney
+http://www.wikidata.org/entity/Q4227,James Coburn,1928-08-31T00:00:00Z,Laurel
+http://www.wikidata.org/entity/Q4235,Miley Cyrus,1992-11-23T00:00:00Z,Franklin
+http://www.wikidata.org/entity/Q4270,Tom DeLonge,1975-12-13T00:00:00Z,Poway
+http://www.wikidata.org/entity/Q4293,Jon Abrahams,1977-10-29T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q4337,Rodger Bumpass,1951-11-20T00:00:00Z,Little Rock
+http://www.wikidata.org/entity/Q4349,Jimmy Bennett,1996-02-09T00:00:00Z,Seal Beach
+http://www.wikidata.org/entity/Q4408,Mr. Lawrence,1969-01-01T00:00:00Z,East Brunswick
+http://www.wikidata.org/entity/Q4461,Troian Bellisario,1985-10-28T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q4473,Jennette McCurdy,1992-06-26T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q4488,Clancy Brown,1959-01-05T00:00:00Z,Urbana
+http://www.wikidata.org/entity/Q4490,Zach Gilford,1982-01-14T00:00:00Z,Evanston
+http://www.wikidata.org/entity/Q4491,Anna Faris,1976-11-29T00:00:00Z,Baltimore
+http://www.wikidata.org/entity/Q4509,Chloë Grace Moretz,1997-02-10T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q4518,Alison Lohman,1979-09-18T00:00:00Z,Palm Springs
+http://www.wikidata.org/entity/Q4538,Jonathan Winters,1925-11-11T00:00:00Z,Dayton
+http://www.wikidata.org/entity/Q4547,Daniel Craig,1968-03-02T00:00:00Z,Chester
+http://www.wikidata.org/entity/Q4612,Marlene Dietrich,1901-12-27T00:00:00Z,Rote Insel
+http://www.wikidata.org/entity/Q4616,Marilyn Monroe,1926-06-01T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q4617,Corbin Bleu,1989-02-21T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q4636,Barbra Streisand,1942-04-24T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q4689,Joan Lorring,1926-04-17T00:00:00Z,British Hong Kong
+http://www.wikidata.org/entity/Q4960,Jason Lee,1970-04-25T00:00:00Z,Orange
+http://www.wikidata.org/entity/Q5104,Miranda Cosgrove,1993-05-14T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q5443,Greta Garbo,1905-09-18T00:00:00Z,Katarina church parish
+http://www.wikidata.org/entity/Q5608,Eminem,1972-10-17T00:00:00Z,St. Joseph
+http://www.wikidata.org/entity/Q6060,Q6060,1975-07-06T00:00:00Z,South Jamaica
+http://www.wikidata.org/entity/Q6078,Dr. Dre,1965-02-18T00:00:00Z,Compton
+http://www.wikidata.org/entity/Q6096,Snoop Dogg,1971-10-20T00:00:00Z,Long Beach
+http://www.wikidata.org/entity/Q6107,Tupac Shakur,1971-06-16T00:00:00Z,East Harlem
+http://www.wikidata.org/entity/Q7516,Jonny Lee Miller,1972-11-15T00:00:00Z,Kingston upon Thames
+http://www.wikidata.org/entity/Q7539,Peyton Manning,1976-03-24T00:00:00Z,New Orleans
+http://www.wikidata.org/entity/Q7542,Prince,1958-06-07T00:00:00Z,Minneapolis
+http://www.wikidata.org/entity/Q8160,Carly Rose Sonenclar,1999-04-20T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q8312,Nicholas Meyer,1945-12-24T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q8704,Walt Disney,1901-12-05T00:00:00Z,Chicago
+http://www.wikidata.org/entity/Q8877,Steven Spielberg,1946-12-18T00:00:00Z,Cincinnati
+http://www.wikidata.org/entity/Q9960,Ronald Reagan,1911-02-06T00:00:00Z,Birthplace of Ronald Reagan
+http://www.wikidata.org/entity/Q10731,Mick Foley,1965-06-07T00:00:00Z,Bloomington
+http://www.wikidata.org/entity/Q10738,Dwayne Johnson,1972-05-02T00:00:00Z,Hayward
+http://www.wikidata.org/entity/Q11459,Serena Williams,1981-09-26T00:00:00Z,Saginaw
+http://www.wikidata.org/entity/Q11617,Aaliyah,1979-01-16T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q11637,Judy Garland,1922-06-10T00:00:00Z,Grand Rapids
+http://www.wikidata.org/entity/Q11930,Kevin Costner,1955-01-18T00:00:00Z,Lynwood
+http://www.wikidata.org/entity/Q11975,Britney Spears,1981-12-02T00:00:00Z,McComb
+http://www.wikidata.org/entity/Q12003,Cher,1946-05-20T00:00:00Z,El Centro
+http://www.wikidata.org/entity/Q13909,Q13909,1975-06-04T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q13909,Q13909,1975-06-04T00:00:00Z,Cedars-Sinai Medical Center
+http://www.wikidata.org/entity/Q13938,Grey DeLisle,1973-08-24T00:00:00Z,Fort Ord
+http://www.wikidata.org/entity/Q14439,Phoebe Cates,1963-07-16T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q14441,Liza Minnelli,1946-03-12T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q14446,Hanna R. Hall,1984-07-09T00:00:00Z,Denver
+http://www.wikidata.org/entity/Q14535,Fred Armisen,1966-12-04T00:00:00Z,Hattiesburg
+http://www.wikidata.org/entity/Q14537,Bill Hader,1978-06-07T00:00:00Z,Tulsa
+http://www.wikidata.org/entity/Q14538,Sharon Van Etten,1981-02-26T00:00:00Z,Belleville
+http://www.wikidata.org/entity/Q14539,Jason Sudeikis,1975-09-18T00:00:00Z,Fairfax
+http://www.wikidata.org/entity/Q14540,Tina Fey,1970-05-18T00:00:00Z,Upper Darby Township
+http://www.wikidata.org/entity/Q14542,Tracy Morgan,1968-11-10T00:00:00Z,The Bronx
+http://www.wikidata.org/entity/Q14972,Bill Raisch,1905-04-05T00:00:00Z,North Bergen
+http://www.wikidata.org/entity/Q15079,Louis C.K.,1967-09-12T00:00:00Z,"Washington, D.C."
+http://www.wikidata.org/entity/Q15615,Q15615,1982-09-27T00:00:00Z,New Orleans
+http://www.wikidata.org/entity/Q16297,William Shatner,1931-03-22T00:00:00Z,Notre-Dame-de-Grâce
+http://www.wikidata.org/entity/Q16345,Leonard Nimoy,1931-03-26T00:00:00Z,West End
+http://www.wikidata.org/entity/Q16349,DeForest Kelley,1920-01-20T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q16397,Bruce Lee,1940-11-27T00:00:00Z,San Francisco Chinese Hospital
+http://www.wikidata.org/entity/Q16472,Robert Mitchum,1917-08-06T00:00:00Z,Bridgeport
+http://www.wikidata.org/entity/Q16473,Steve Martin,1945-08-14T00:00:00Z,Waco
+http://www.wikidata.org/entity/Q16758,Ed O'Neill,1946-04-12T00:00:00Z,Youngstown
+http://www.wikidata.org/entity/Q16759,Kaley Cuoco,1985-11-30T00:00:00Z,Camarillo
+http://www.wikidata.org/entity/Q18227,Forrest J Ackerman,1916-11-24T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q18804,Rebecca Black,1997-06-21T00:00:00Z,Irvine
+http://www.wikidata.org/entity/Q18916,Gregory Smith,1983-07-06T00:00:00Z,Toronto
+http://www.wikidata.org/entity/Q18918,Sam Witwer,1977-10-20T00:00:00Z,Glenview
+http://www.wikidata.org/entity/Q18933,Rhoda Griffis,1965-01-09T00:00:00Z,Raleigh
+http://www.wikidata.org/entity/Q18938,Thomas Jane,1969-02-22T00:00:00Z,Baltimore
+http://www.wikidata.org/entity/Q18953,Peter DeLuise,1966-11-06T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q18989,Ryan Newman,1998-04-24T00:00:00Z,Manhattan Beach
+http://www.wikidata.org/entity/Q18992,Gregory Itzin,1948-04-20T00:00:00Z,"Washington, D.C."
+http://www.wikidata.org/entity/Q18994,Luise Rainer,1910-01-12T00:00:00Z,Düsseldorf
+http://www.wikidata.org/entity/Q19031,Zak Penn,1968-03-23T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q19031,Zak Penn,1968-09-01T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q19155,Henry Fonda,1905-05-16T00:00:00Z,Grand Island
+http://www.wikidata.org/entity/Q19198,Chester Bennington,1976-03-20T00:00:00Z,Phoenix
+http://www.wikidata.org/entity/Q39989,Ronny Cox,1938-07-23T00:00:00Z,Cloudcroft
+http://www.wikidata.org/entity/Q39990,Michael McMillian,1978-10-21T00:00:00Z,Colorado Springs
+http://www.wikidata.org/entity/Q40032,T. R. Knight,1973-03-26T00:00:00Z,Minneapolis
+http://www.wikidata.org/entity/Q40035,Richard Linklater,1960-07-30T00:00:00Z,Houston
+http://www.wikidata.org/entity/Q40046,Jesse Williams,1981-08-05T00:00:00Z,Chicago
+http://www.wikidata.org/entity/Q40057,Jessica Capshaw,1976-08-09T00:00:00Z,Columbia
+http://www.wikidata.org/entity/Q40064,Blythe Danner,1943-02-03T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q40067,Candy Clark,1947-06-20T00:00:00Z,Fort Worth
+http://www.wikidata.org/entity/Q40087,Justin Chambers,1970-07-11T00:00:00Z,Springfield
+http://www.wikidata.org/entity/Q40096,Will Smith,1968-09-25T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q40117,Rutina Wesley,1978-12-21T00:00:00Z,Las Vegas
+http://www.wikidata.org/entity/Q40117,Rutina Wesley,1979-02-01T00:00:00Z,Las Vegas
+http://www.wikidata.org/entity/Q40122,Mike Vogel,1979-07-17T00:00:00Z,Abington Township
+http://www.wikidata.org/entity/Q40124,Sam Trammell,1969-01-29T00:00:00Z,New Orleans
+http://www.wikidata.org/entity/Q40143,Janeane Garofalo,1964-09-28T00:00:00Z,Newton
+http://www.wikidata.org/entity/Q40162,Kate Capshaw,1953-11-03T00:00:00Z,Fort Worth
+http://www.wikidata.org/entity/Q40248,Julie Bowen,1970-03-03T00:00:00Z,Baltimore
+http://www.wikidata.org/entity/Q40299,Nelsan Ellis,1977-11-30T00:00:00Z,Harvey
+http://www.wikidata.org/entity/Q40337,Sandra Oh,1971-07-20T00:00:00Z,Nepean
+http://www.wikidata.org/entity/Q40470,Isaiah Mustafa,1974-02-11T00:00:00Z,Portland
+http://www.wikidata.org/entity/Q40473,Andrea Bowen,1990-03-04T00:00:00Z,Columbus
+http://www.wikidata.org/entity/Q40475,Joan Crawford,1905-03-23T00:00:00Z,San Antonio
+http://www.wikidata.org/entity/Q40475,Joan Crawford,1906-03-23T00:00:00Z,San Antonio
+http://www.wikidata.org/entity/Q40504,Jim Carrey,1962-01-17T00:00:00Z,Newmarket
+http://www.wikidata.org/entity/Q40523,Julia Roberts,1967-10-28T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q40531,John Wayne,1907-05-26T00:00:00Z,Winterset
+http://www.wikidata.org/entity/Q40638,Blake Jenner,1992-08-27T00:00:00Z,Miami
+http://www.wikidata.org/entity/Q40715,Jennifer Lopez,1969-07-24T00:00:00Z,The Bronx
+http://www.wikidata.org/entity/Q40791,Sandra Bullock,1964-07-26T00:00:00Z,Arlington County
+http://www.wikidata.org/entity/Q40912,Frank Sinatra,1915-12-12T00:00:00Z,Hoboken
+http://www.wikidata.org/entity/Q41034,Julie Adams,1926-10-17T00:00:00Z,Waterloo
+http://www.wikidata.org/entity/Q41076,Q41076,1969-03-27T00:00:00Z,Huntington
+http://www.wikidata.org/entity/Q41142,Jane Fonda,1937-12-21T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q41148,Martin Scorsese,1942-11-17T00:00:00Z,Queens
+http://www.wikidata.org/entity/Q41163,Al Pacino,1940-04-25T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q41173,Demi Lovato,1992-08-20T00:00:00Z,Albuquerque
+http://www.wikidata.org/entity/Q41333,Jacqueline Wong,1989-01-23T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q41340,Katherine LaNasa,1966-12-01T00:00:00Z,New Orleans
+http://www.wikidata.org/entity/Q41342,Mary Tyler Moore,1936-12-29T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q41351,Jodie Foster,1962-11-19T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q41396,Josh Brolin,1968-02-12T00:00:00Z,Santa Monica
+http://www.wikidata.org/entity/Q41422,Mark Ruffalo,1967-11-22T00:00:00Z,Kenosha
+http://www.wikidata.org/entity/Q41449,Michael Shannon,1974-08-07T00:00:00Z,Lexington
+http://www.wikidata.org/entity/Q41594,Christina Aguilera,1980-12-18T00:00:00Z,Staten Island
+http://www.wikidata.org/entity/Q41871,Paul Newman,1925-01-26T00:00:00Z,Shaker Heights
+http://www.wikidata.org/entity/Q42025,Q-Tip,1970-04-10T00:00:00Z,Q189074
+http://www.wikidata.org/entity/Q42101,Q42101,1954-12-28T00:00:00Z,Mount Vernon
+http://www.wikidata.org/entity/Q42229,Mel Gibson,1956-01-03T00:00:00Z,Peekskill
+http://www.wikidata.org/entity/Q42493,Katy Perry,1984-10-25T00:00:00Z,Santa Barbara
+http://www.wikidata.org/entity/Q42598,Ted DiBiase Jr.,1982-11-08T00:00:00Z,Baton Rouge
+http://www.wikidata.org/entity/Q42671,Frank Gorshin,1933-04-05T00:00:00Z,Pittsburgh
+http://www.wikidata.org/entity/Q42745,Rita Hayworth,1918-10-17T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q42775,Johnny Cash,1932-02-26T00:00:00Z,Kingsland
+http://www.wikidata.org/entity/Q42869,Nicolas Cage,1964-01-07T00:00:00Z,Long Beach
+http://www.wikidata.org/entity/Q42930,Q42930,1937-08-08T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q43203,Clint Eastwood,1930-05-31T00:00:00Z,San Francisco
+http://www.wikidata.org/entity/Q43322,Jay Kogen,1963-05-03T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q43432,Q43432,1981-01-31T00:00:00Z,Memphis
+http://www.wikidata.org/entity/Q55208,Andrei Konchalovsky,1937-08-20T00:00:00Z,Moscow
+http://www.wikidata.org/entity/Q55449,Tay Zonday,1982-05-21T00:00:00Z,Minneapolis
+http://www.wikidata.org/entity/Q55497,Jamie Lynn Spears,1991-04-04T00:00:00Z,McComb
+http://www.wikidata.org/entity/Q55800,Oprah Winfrey,1954-01-29T00:00:00Z,Kosciusko
+http://www.wikidata.org/entity/Q55994,Mike Farrell,1939-02-06T00:00:00Z,Saint Paul
+http://www.wikidata.org/entity/Q56008,Tim Burton,1958-08-25T00:00:00Z,Burbank
+http://www.wikidata.org/entity/Q56016,Katharine Hepburn,1907-05-12T00:00:00Z,Hartford
+http://www.wikidata.org/entity/Q56093,Blake Edwards,1922-07-26T00:00:00Z,Tulsa
+http://www.wikidata.org/entity/Q56094,Francis Ford Coppola,1939-04-07T00:00:00Z,Detroit
+http://www.wikidata.org/entity/Q26625,Marc Anthony,1968-09-16T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q26636,David Giuntoli,1980-06-18T00:00:00Z,Milwaukee
+http://www.wikidata.org/entity/Q26806,Danny DeVito,1944-11-17T00:00:00Z,Neptune Township
+http://www.wikidata.org/entity/Q26848,Leon Allen White,1955-05-14T00:00:00Z,Lynwood
+http://www.wikidata.org/entity/Q27214,Jerry Springer,1944-02-13T00:00:00Z,Highgate tube station
+http://www.wikidata.org/entity/Q27277,Louis Mustillo,1958-05-28T00:00:00Z,Buffalo
+http://www.wikidata.org/entity/Q27322,Jason Lewis,1971-06-25T00:00:00Z,Newport Beach
+http://www.wikidata.org/entity/Q27326,Caroline Sunshine,1995-09-05T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q28151,John Shea,1949-04-14T00:00:00Z,North Conway
+http://www.wikidata.org/entity/Q28170,Max Brooks,1972-05-22T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q28170,Max Brooks,1972-05-22T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q28211,Mireille Enos,1975-09-22T00:00:00Z,Kansas City
+http://www.wikidata.org/entity/Q28262,Joel Kinnaman,1979-11-25T00:00:00Z,Stockholm
+http://www.wikidata.org/entity/Q28498,Brendan Sexton III,1980-02-21T00:00:00Z,Staten Island
+http://www.wikidata.org/entity/Q28717,Mel Rodriguez,1973-06-12T00:00:00Z,Miami
+http://www.wikidata.org/entity/Q28732,Beth Broderick,1959-02-24T00:00:00Z,Falmouth
+http://www.wikidata.org/entity/Q28755,Matthew Broderick,1962-03-21T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q28783,Michael Buffer,1944-11-02T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q29086,Matthew Lillard,1970-01-24T00:00:00Z,Lansing
+http://www.wikidata.org/entity/Q29250,Bill Murray,1950-09-21T00:00:00Z,Wilmette
+http://www.wikidata.org/entity/Q29328,Brie Larson,1989-10-01T00:00:00Z,Sacramento
+http://www.wikidata.org/entity/Q30585,Bailey Jay,1988-11-05T00:00:00Z,Richmond
+http://www.wikidata.org/entity/Q30628,Tera Patrick,1976-07-25T00:00:00Z,Great Falls
+http://www.wikidata.org/entity/Q30893,Kevin S. Bright,1954-11-15T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q30896,Lalaine Vergara-Paras,1987-06-03T00:00:00Z,Burbank
+http://www.wikidata.org/entity/Q31013,Patti LaBelle,1944-05-24T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q31221,Evelyn Brent,1901-10-20T00:00:00Z,Q49255
+http://www.wikidata.org/entity/Q31293,Vondie Curtis-Hall,1956-09-30T00:00:00Z,Detroit
+http://www.wikidata.org/entity/Q31317,Shawn Michaels,1965-07-22T00:00:00Z,Chandler
+http://www.wikidata.org/entity/Q31409,Jason Antoon,1971-11-09T00:00:00Z,Santa Monica
+http://www.wikidata.org/entity/Q31549,Brent Corrigan,1986-10-31T00:00:00Z,Lewiston
+http://www.wikidata.org/entity/Q31741,Barry Watson,1974-04-23T00:00:00Z,Traverse City
+http://www.wikidata.org/entity/Q31970,Brenda Strong,1960-03-25T00:00:00Z,Portland
+http://www.wikidata.org/entity/Q32335,Nia Vardalos,1962-09-24T00:00:00Z,Winnipeg
+http://www.wikidata.org/entity/Q32337,Lita Grey,1908-04-15T00:00:00Z,Hollywood
+http://www.wikidata.org/entity/Q32481,Sendhil Ramamurthy,1974-05-17T00:00:00Z,Chicago
+http://www.wikidata.org/entity/Q32522,Jennifer Aniston,1969-02-11T00:00:00Z,Sherman Oaks
+http://www.wikidata.org/entity/Q32709,Fran Lebowitz,1950-10-27T00:00:00Z,Morristown
+http://www.wikidata.org/entity/Q32754,Atticus Shaffer,1998-06-19T00:00:00Z,Santa Clara
+http://www.wikidata.org/entity/Q32788,Stella Adler,1901-02-10T00:00:00Z,Manhattan
+http://www.wikidata.org/entity/Q19794,Josh Duhamel,1972-11-14T00:00:00Z,Minot
+http://www.wikidata.org/entity/Q20178,Joe Pesci,1943-02-09T00:00:00Z,Newark
+http://www.wikidata.org/entity/Q22686,Donald Trump,1946-06-14T00:00:00Z,Jamaica Hospital Medical Center
+http://www.wikidata.org/entity/Q23359,Taylor Lautner,1992-02-11T00:00:00Z,Grand Rapids
+http://www.wikidata.org/entity/Q23365,Q23365,1971-01-07T00:00:00Z,Modesto
+http://www.wikidata.org/entity/Q23403,Josh Sussman,1983-12-30T00:00:00Z,Teaneck
+http://www.wikidata.org/entity/Q23454,Ryan Higa,1990-06-06T00:00:00Z,Hilo
+http://www.wikidata.org/entity/Q23466,Chris Pine,1980-08-26T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q23543,Q23543,1971-04-16T00:00:00Z,Lake Jackson
+http://www.wikidata.org/entity/Q23547,Bryan Cranston,1956-03-07T00:00:00Z,Hollywood
+http://www.wikidata.org/entity/Q23728,Larry David,1947-07-02T00:00:00Z,Sheepshead Bay
+http://www.wikidata.org/entity/Q23844,George Clooney,1961-05-06T00:00:00Z,Lexington
+http://www.wikidata.org/entity/Q23858,John Belushi,1949-01-24T00:00:00Z,Humboldt Park
+http://www.wikidata.org/entity/Q23880,Lila Downs,1968-09-09T00:00:00Z,Oaxaca
+http://www.wikidata.org/entity/Q23884,Lou Costello,1906-03-06T00:00:00Z,Paterson
+http://www.wikidata.org/entity/Q23891,Andrew Garfield,1983-08-20T00:00:00Z,Cedars-Sinai Medical Center
+http://www.wikidata.org/entity/Q23997,Tara Conner,1985-12-18T00:00:00Z,Dallas
+http://www.wikidata.org/entity/Q24015,Steve Bullock,1966-04-11T00:00:00Z,Missoula
+http://www.wikidata.org/entity/Q24051,Gloria Dickson,1917-08-13T00:00:00Z,Pocatello
+http://www.wikidata.org/entity/Q24057,Dallas Robert,1970-05-10T00:00:00Z,Houston
+http://www.wikidata.org/entity/Q24155,Pamela Des Barres,1948-09-09T00:00:00Z,Reseda
+http://www.wikidata.org/entity/Q24304,Eden Sher,1991-12-26T00:00:00Z,Los Angeles
+http://www.wikidata.org/entity/Q24632,John Barrowman,1967-03-11T00:00:00Z,Glasgow
+http://www.wikidata.org/entity/Q24829,Orson Welles,1915-05-06T00:00:00Z,Kenosha
+http://www.wikidata.org/entity/Q25078,Terry Gilliam,1940-11-22T00:00:00Z,Minneapolis
+http://www.wikidata.org/entity/Q25089,Woody Allen,1935-11-30T00:00:00Z,The Bronx
+http://www.wikidata.org/entity/Q25144,Kevin Spacey,1959-07-26T00:00:00Z,South Orange
+http://www.wikidata.org/entity/Q25278,Q25278,1985-12-08T00:00:00Z,Atlanta
+http://www.wikidata.org/entity/Q25529,Eric Stuart,1967-10-18T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q25529,Eric Stuart,1968-10-18T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q25722,Ice La Fox,1983-02-28T00:00:00Z,Miami
+http://www.wikidata.org/entity/Q25890,Stephen Kramer Glickman,1979-03-17T00:00:00Z,London
+http://www.wikidata.org/entity/Q26048,Mara Corday,1930-01-03T00:00:00Z,Santa Monica
+http://www.wikidata.org/entity/Q26053,Carlos PenaVega,1989-08-15T00:00:00Z,Columbia
+http://www.wikidata.org/entity/Q26058,James Maslow,1990-07-16T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q26091,Kevin Schmidt,1988-08-16T00:00:00Z,Andover
+http://www.wikidata.org/entity/Q26173,Pablo Schreiber,1978-04-26T00:00:00Z,Regional District of Central Kootenay
+http://www.wikidata.org/entity/Q26231,Corey Stoll,1976-03-14T00:00:00Z,Upper West Side
+http://www.wikidata.org/entity/Q26274,Nina Mercedez,1979-11-10T00:00:00Z,Corpus Christi
+http://www.wikidata.org/entity/Q26294,Logan Henderson,1989-09-14T00:00:00Z,North Richland Hills
+http://www.wikidata.org/entity/Q26378,Ariel Winter,1998-01-28T00:00:00Z,Fairfax
+http://www.wikidata.org/entity/Q26424,Calista Flockhart,1964-11-11T00:00:00Z,Freeport
+http://www.wikidata.org/entity/Q26539,Lisa Zane,1961-04-05T00:00:00Z,Chicago
+http://www.wikidata.org/entity/Q62558,Cyd Charisse,1922-03-08T00:00:00Z,Amarillo
+http://www.wikidata.org/entity/Q62766,Q62766,1969-12-04T00:00:00Z,Brooklyn
+http://www.wikidata.org/entity/Q62975,Sharon Stone,1958-03-10T00:00:00Z,Meadville
+http://www.wikidata.org/entity/Q63189,Dana Wynter,1931-06-08T00:00:00Z,Berlin
+http://www.wikidata.org/entity/Q63304,Kathleen Wilhoite,1964-06-29T00:00:00Z,Santa Barbara
+http://www.wikidata.org/entity/Q63308,Bess Armstrong,1953-12-11T00:00:00Z,Baltimore
+http://www.wikidata.org/entity/Q63452,Harry Earles,1902-04-03T00:00:00Z,Stolpen
+http://www.wikidata.org/entity/Q64260,Uta Hagen,1919-06-12T00:00:00Z,Göttingen
+http://www.wikidata.org/entity/Q64327,Molly Ephraim,1986-05-22T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q64505,Micah Sloat,1981-05-08T00:00:00Z,Westport
+http://www.wikidata.org/entity/Q64560,David Denman,1973-07-25T00:00:00Z,Newport Beach
+http://www.wikidata.org/entity/Q45275,Georg Kreisler,1922-07-18T00:00:00Z,Vienna
+http://www.wikidata.org/entity/Q45362,Bijou Phillips,1980-04-01T00:00:00Z,Greenwich
+http://www.wikidata.org/entity/Q45553,Robert J. Wilke,1914-05-18T00:00:00Z,Cincinnati
+http://www.wikidata.org/entity/Q45561,Lucille Lund,1912-06-03T00:00:00Z,Buckley
+http://www.wikidata.org/entity/Q45561,Lucille Lund,1913-01-01T00:00:00Z,Buckley
+http://www.wikidata.org/entity/Q45561,Lucille Lund,1913-06-03T00:00:00Z,Buckley
+http://www.wikidata.org/entity/Q45563,James Roday Rodriguez,1976-04-04T00:00:00Z,San Antonio
+http://www.wikidata.org/entity/Q45772,Christian Bale,1974-01-30T00:00:00Z,Haverfordwest
+http://www.wikidata.org/entity/Q45966,Erin Way,1987-09-13T00:00:00Z,Portland
+http://www.wikidata.org/entity/Q46677,Melissa Benoist,1988-10-04T00:00:00Z,Houston
+http://www.wikidata.org/entity/Q47100,Ben Stiller,1965-11-30T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q47159,Q47159,1969-08-19T00:00:00Z,Long Beach
+http://www.wikidata.org/entity/Q47284,Robert Rodriguez,1968-06-20T00:00:00Z,San Antonio
+http://www.wikidata.org/entity/Q47899,Paris Hilton,1981-02-17T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q48337,Morgan Freeman,1937-06-01T00:00:00Z,Memphis
+http://www.wikidata.org/entity/Q48410,Richard Gere,1949-08-31T00:00:00Z,Philadelphia
+http://www.wikidata.org/entity/Q48987,Jonathan Demme,1944-02-22T00:00:00Z,Baldwin
+http://www.wikidata.org/entity/Q49001,Whoopi Goldberg,1955-11-13T00:00:00Z,New York City
+http://www.wikidata.org/entity/Q49004,Patrick Swayze,1952-08-18T00:00:00Z,Houston
+http://www.wikidata.org/entity/Q49016,Robert Rodat,1953-01-01T00:00:00Z,Keene
+http://www.wikidata.org/entity/Q49034,Hedy Lamarr,1914-11-09T00:00:00Z,Vienna
+
+Name,Phone,Email,SSN,Passport,Address
+Marcus M. Okonkwo,+44 20 7432 1839,marcus.okonkwo12@demo-mail.example.com,227-78-8916,855401461,"3669 Brambleton Road, Leeds"
+Elena N. Abernathy,(415) 555-5599,billing35@northwind-demo.example.org,209-92-9489,F76808794,"438 Fenwick Street, Leeds"
+John K. Underhill,+1-212-555-3459,junderhill481@corp-demo.example.net,227-78-8916,855401461,"1634 Fenwick Street, Leeds"
+"Applicant: Marcus M. Okonkwo, date of birth 07/08/1977","Marcus M. Okonkwo, date of birth 07/08/1977"
+Phone: +44 20 7432 1839  Email: marcus.okonkwo12@demo-mail.example.com,marcus.okonkwo12@demo-mail.example.com
+"Card 5500 0839 5263 3116, passport no. 855401461","Card 5500 0839 5263 3116, passport no. 855401461"
+"SSN 227-78-8916; alt. contact Abernathy, Elena","SSN 227-78-8916; alt. contact Abernathy, Elena"
+"Orchard Lane Partners, 3669 Brambleton Road, Leeds","Orchard Lane Partners, 3669 Brambleton Road, Leeds"
+"Wire to IBAN GB98NWBK42427225766259, attn John K. Underhill","Wire to IBAN GB98NWBK42427225766259, attn John K. Underhill"
+Customer: John Delacroix <billing35@northwind-demo.example.org> tel (415) 555-5599,John Delacroix <billing35@northwind-demo.example.org> tel (415) 555-5599
+"Billing address: 438 Fenwick Street, Leeds","438 Fenwick Street, Leeds"
+"Ship to 1634 Fenwick Street, Leeds, contact Elena C. Haverford +1-212-555-3459","Ship to 1634 Fenwick Street, Leeds, contact Elena C. Haverford +1-212-555-3459"
+"Witness: Elena Abernathy, passport F76808794, born July 2, 1975","Elena Abernathy, passport F76808794, born July 2, 1975"
+"Server 10.4.152.43 (fallback 172.16.53.114), admin junderhill481@corp-demo.example.net","Server 10.4.152.43 (fallback 172.16.53.114), admin junderhill481@corp-demo.example.net"
+token = sk_live_188852Zq79095861Xw,token = sk_live_188852Zq79095861Xw
+password: Rv752!kd4989Pm,Rv752!kd4989Pm
+"Quillfeather Labs and Northwind Holdings signed by John C. Delacroix, SSN 209-92-9489","Quillfeather Labs and Northwind Holdings signed by John C. Delacroix, SSN 209-92-9489"
+"Card on file 4111 2558 1791 2981, phone +49 30 732048","Card on file 4111 2558 1791 2981, phone +49 30 732048"
+Comment,"This agreement is made between Orchard Lane Partners (3669 Brambleton Road, Leeds) represented by John K. Underhill and Marcus M. Okonkwo, born 07/08/1977, passport 855401461, residing at 438 Fenwick Street, Leeds.
+Payments go to IBAN GB98NWBK42427225766259. Send notices to billing35@northwind-demo.example.org or call +44 20 7432 1839. Copy John Delacroix (SSN 209-92-9489) on every invoice."

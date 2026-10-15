@@ -1,0 +1,91 @@
+name: Windows build
+on:
+  workflow_dispatch:
+  push:
+    tags: ["v*"]
+
+jobs:
+  build:
+    runs-on: windows-latest
+    permissions:
+      contents: write
+    env:
+      # The runner console is cp1252: Russian output would crash Python with UnicodeEncodeError.
+      PYTHONUTF8: "1"
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - name: Read the version (single source - anonymizer.__version__)
+        shell: bash
+        run: |
+          ver=$(python -c "import anonymizer; print(anonymizer.__version__)")
+          if [ -z "$ver" ]; then echo "::error::Could not read anonymizer.__version__"; exit 1; fi
+          echo "APP_VERSION=$ver" >> "$GITHUB_ENV"
+          echo "Version: $ver"
+          if [[ "${GITHUB_REF}" == refs/tags/v* ]] && [ "${GITHUB_REF_NAME}" != "v${ver}" ]; then
+            echo "::error::Tag ${GITHUB_REF_NAME} does not match anonymizer.__version__ (expected v${ver}). Bump __version__ or re-tag."
+            exit 1
+          fi
+      - run: python tools/gen_version_info.py
+      - run: python -m pip install -r requirements-build.txt
+      - run: python tools/fetch_office_js.py
+      - run: python run_tests.py
+      - run: pyinstaller --noconfirm --clean Anonymizer.spec
+      - name: Self-check of the built program
+        shell: powershell
+        run: |
+          $report = Join-Path $env:RUNNER_TEMP "selfcheck.json"
+          $check = Start-Process -FilePath ".\dist\Anonymizer.exe" -ArgumentList "--selfcheck", "`"$report`"" -Wait -PassThru
+          if (Test-Path $report) { Get-Content $report -Raw | Write-Host }
+          if ($check.ExitCode -ne 0) { throw "Self-check failed with code $($check.ExitCode)" }
+      - name: Fetch the WebView2 bootstrapper for the installer
+        shell: powershell
+        run: Invoke-WebRequest -Uri "https://go.microsoft.com/fwlink/p/?LinkId=2124703" -OutFile packaging\MicrosoftEdgeWebview2Setup.exe
+      - name: Build installer
+        shell: powershell
+        run: |
+          $iscc = "${env:ProgramFiles(x86)}\Inno Setup 6\ISCC.exe"
+          if (-not (Test-Path $iscc)) { choco install innosetup --no-progress -y }
+          & $iscc "/DMyAppVersion=$env:APP_VERSION" packaging\Anonymizer.iss
+          if ($LASTEXITCODE -ne 0) { throw "Inno Setup failed" }
+          if (-not (Test-Path "dist\Anonymizer-Setup-$env:APP_VERSION.exe")) { throw "Installer dist\Anonymizer-Setup-$env:APP_VERSION.exe was not produced" }
+      - name: Checksums
+        shell: powershell
+        run: |
+          $files = @("dist\Anonymizer.exe", "dist\Anonymizer-Setup-$env:APP_VERSION.exe")
+          $lines = foreach ($f in $files) {
+            $hash = (Get-FileHash -Algorithm SHA256 -LiteralPath $f).Hash.ToLower()
+            "$hash *$(Split-Path $f -Leaf)"
+          }
+          [System.IO.File]::WriteAllText((Join-Path $PWD "dist\SHA256SUMS.txt"), (($lines -join "`n") + "`n"), (New-Object System.Text.UTF8Encoding($false)))
+          Get-Content dist\SHA256SUMS.txt | Write-Host
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Anonymizer-Windows
+          path: |
+            dist/Anonymizer.exe
+            dist/Anonymizer-Setup-${{ env.APP_VERSION }}.exe
+            dist/SHA256SUMS.txt
+          if-no-files-found: error
+      - name: Publish GitHub Release
+        if: startsWith(github.ref, 'refs/tags/v')
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cat > release-notes.md <<EOF
+          Windows 10/11 x64 builds. Python is not needed.
+
+          - Anonymizer.exe runs without installation.
+          - Anonymizer-Setup-${APP_VERSION}.exe installs the program with a shortcut. The installer offers a checkbox to connect Word, Excel and PowerPoint (the Anonymizer add-in).
+          - SHA256SUMS.txt holds SHA-256 checksums of both files (format: hash, space, asterisk, file name). Compare with: Get-FileHash <file> -Algorithm SHA256
+
+          SmartScreen: the files are not code-signed, so Windows may show "Windows protected your PC". Click "More info", then "Run anyway".
+          EOF
+          gh release create "${GITHUB_REF_NAME}" dist/Anonymizer.exe "dist/Anonymizer-Setup-${APP_VERSION}.exe" dist/SHA256SUMS.txt \
+            --title "Anonymizer ${GITHUB_REF_NAME}" \
+            --notes-file release-notes.md

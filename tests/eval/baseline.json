@@ -1,0 +1,60 @@
+{
+ "text_v1": {
+  "gold": 679,
+  "full": 678,
+  "partial": 0,
+  "miss": 1,
+  "wrongcat": 9,
+  "leak": 1,
+  "fp": 2,
+  "failing_kinds": []
+ },
+ "text_v2": {
+  "gold": 111,
+  "full": 111,
+  "partial": 0,
+  "miss": 0,
+  "wrongcat": 1,
+  "leak": 0,
+  "fp": 0,
+  "failing_kinds": []
+ },
+ "text_en": {
+  "gold": 800,
+  "full": 798,
+  "partial": 0,
+  "miss": 2,
+  "wrongcat": 62,
+  "leak": 2,
+  "fp": 1,
+  "failing_kinds": []
+ },
+ "noise": {
+  "files": 14,
+  "replaced": 0,
+  "files_hit": 0
+ },
+ "images": {
+  "cases": 16,
+  "leaked_values": 0,
+  "blocked": 0,
+  "restore_exact": 16
+ },
+ "real": {
+  "cases": 16,
+  "missing": [],
+  "gold": 626,
+  "leaked": 0,
+  "leaking_cases": [],
+  "refused": 0,
+  "crashed": 0,
+  "fp_strings": 3163,
+  "restore_content_equal": 16
+ },
+ "triage": {
+  "hits": 408,
+  "tp": 300,
+  "tp_maybe": 80,
+  "fp": 28
+ }
+}

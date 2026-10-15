@@ -1,0 +1,2531 @@
+[
+ {
+  "id": "prose_txt_0.txt",
+  "fmt": "txt",
+  "kind": "prose",
+  "gold": 26,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "CITY": [
+    11,
+    0
+   ],
+   "PERSON": [
+    1,
+    0
+   ],
+   "IP_ADDRESS": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    2,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "ORG": [
+    5,
+    0
+   ],
+   "CARD": [
+    2,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 25
+ },
+ {
+  "id": "prose_csv_0.csv",
+  "fmt": "csv",
+  "kind": "prose",
+  "gold": 27,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "CARD": [
+    2,
+    0
+   ],
+   "CITY": [
+    2,
+    0
+   ],
+   "PERSON": [
+    14,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 28
+ },
+ {
+  "id": "prose_xlsx_0.xlsx",
+  "fmt": "xlsx",
+  "kind": "prose",
+  "gold": 24,
+  "status": "attention",
+  "restore_equal": true,
+  "cats": {
+   "SECRET": [
+    3,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "SSN": [
+    2,
+    0
+   ],
+   "PERSON": [
+    7,
+    0
+   ],
+   "PHONE": [
+    3,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    2,
+    0
+   ],
+   "CITY": [
+    2,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 24
+ },
+ {
+  "id": "prose_docx_0.docx",
+  "fmt": "docx",
+  "kind": "prose",
+  "gold": 25,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "ORG": [
+    5,
+    0
+   ],
+   "PERSON": [
+    8,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 24
+ },
+ {
+  "id": "prose_pptx_0.pptx",
+  "fmt": "pptx",
+  "kind": "prose",
+  "gold": 30,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "ORG": [
+    4,
+    0
+   ],
+   "ADDRESS": [
+    4,
+    0
+   ],
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    3,
+    0
+   ],
+   "CITY": [
+    7,
+    0
+   ],
+   "NI": [
+    3,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "PHONE": [
+    2,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 32
+ },
+ {
+  "id": "prose_html_0.html",
+  "fmt": "html",
+  "kind": "prose",
+  "gold": 31,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    12,
+    0
+   ],
+   "ORG": [
+    3,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    3,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 31
+ },
+ {
+  "id": "prose_md_0.md",
+  "fmt": "md",
+  "kind": "prose",
+  "gold": 32,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    14,
+    0
+   ],
+   "BIRTH_DATE": [
+    4,
+    0
+   ],
+   "CITY": [
+    3,
+    0
+   ],
+   "ORG": [
+    2,
+    0
+   ],
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "PHONE": [
+    2,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 33
+ },
+ {
+  "id": "prose_pdf_0.pdf",
+  "fmt": "pdf",
+  "kind": "prose",
+  "gold": 27,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    9,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "SECRET": [
+    2,
+    0
+   ],
+   "CITY": [
+    9,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 27
+ },
+ {
+  "id": "table_csv_0.csv",
+  "fmt": "csv",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    1
+   ],
+   "NI": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "ADDRESS": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "23th of January 1957"
+   ]
+  ],
+  "natural": 32
+ },
+ {
+  "id": "table_xlsx_0.xlsx",
+  "fmt": "xlsx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    2
+   ],
+   "NI": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "ADDRESS": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "25th of May 1999"
+   ],
+   [
+    "BIRTH_DATE",
+    "5th of March 1987"
+   ]
+  ],
+  "natural": 29
+ },
+ {
+  "id": "table_docx_0.docx",
+  "fmt": "docx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "IBAN": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_pptx_0.pptx",
+  "fmt": "pptx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    2
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "8th of March 1960"
+   ],
+   [
+    "BIRTH_DATE",
+    "21th of August 1961"
+   ]
+  ],
+  "natural": 28
+ },
+ {
+  "id": "table_html_0.html",
+  "fmt": "html",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "CITY": [
+    6,
+    6
+   ],
+   "CARD": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "PASSPORT",
+    "H9296973"
+   ],
+   [
+    "BIRTH_DATE",
+    "3/16/71"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "PASSPORT",
+    "G5243932"
+   ],
+   [
+    "BIRTH_DATE",
+    "7 September 1988"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "PASSPORT",
+    "F4503036"
+   ],
+   [
+    "BIRTH_DATE",
+    "19.09.2000"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "PASSPORT",
+    "E4057923"
+   ],
+   [
+    "BIRTH_DATE",
+    "Apr 22, 1970"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PASSPORT",
+    "Y7271308"
+   ],
+   [
+    "BIRTH_DATE",
+    "06/12/1998"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "PASSPORT",
+    "Z5154853"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 17, 1960"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ]
+  ],
+  "natural": 12
+ },
+ {
+  "id": "table_md_0.md",
+  "fmt": "md",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "IBAN": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 27
+ },
+ {
+  "id": "table_pdf_0.pdf",
+  "fmt": "pdf",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "CITY": [
+    6,
+    6
+   ],
+   "CARD": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "PASSPORT",
+    "G3017578"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/26/1952"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PASSPORT",
+    "X3226336"
+   ],
+   [
+    "BIRTH_DATE",
+    "September 8, 1977"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "PASSPORT",
+    "077796270"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 20, 1964"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PASSPORT",
+    "E2369838"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/11/1952"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PASSPORT",
+    "X1643917"
+   ],
+   [
+    "BIRTH_DATE",
+    "09/24/1980"
+   ],
+   [
+    "CITY",
+    "Halifax"
+   ],
+   [
+    "PASSPORT",
+    "F1163195"
+   ],
+   [
+    "BIRTH_DATE",
+    "November 2, 1988"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ]
+  ],
+  "natural": 12
+ },
+ {
+  "id": "table_txt_0.txt",
+  "fmt": "txt",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "NI": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    6
+   ],
+   "ADDRESS": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "07.01.1960"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "BIRTH_DATE",
+    "Feb 7, 1997"
+   ],
+   [
+    "CITY",
+    "Bristol"
+   ],
+   [
+    "BIRTH_DATE",
+    "December 21, 1961"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "BIRTH_DATE",
+    "28 November 1997"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "BIRTH_DATE",
+    "November 11, 1998"
+   ],
+   [
+    "CITY",
+    "Pittsburgh"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/18/1966"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ]
+  ],
+  "natural": 20
+ },
+ {
+  "id": "prose_txt_1.txt",
+  "fmt": "txt",
+  "kind": "prose",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    4,
+    0
+   ],
+   "ORG": [
+    4,
+    0
+   ],
+   "SSN": [
+    2,
+    0
+   ],
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "SECRET": [
+    2,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "prose_csv_1.csv",
+  "fmt": "csv",
+  "kind": "prose",
+  "gold": 25,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "CITY": [
+    7,
+    0
+   ],
+   "ORG": [
+    2,
+    0
+   ],
+   "SECRET": [
+    2,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "PERSON": [
+    10,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 25
+ },
+ {
+  "id": "prose_xlsx_1.xlsx",
+  "fmt": "xlsx",
+  "kind": "prose",
+  "gold": 29,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    11,
+    0
+   ],
+   "PHONE": [
+    7,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ],
+   "CITY": [
+    3,
+    0
+   ],
+   "EMAIL": [
+    3,
+    0
+   ],
+   "ORG": [
+    2,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 29
+ },
+ {
+  "id": "prose_docx_1.docx",
+  "fmt": "docx",
+  "kind": "prose",
+  "gold": 28,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    11,
+    0
+   ],
+   "CITY": [
+    8,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "BIRTH_DATE": [
+    2,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "ORG": [
+    2,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 27
+ },
+ {
+  "id": "prose_pptx_1.pptx",
+  "fmt": "pptx",
+  "kind": "prose",
+  "gold": 28,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    9,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "SSN": [
+    2,
+    0
+   ],
+   "CITY": [
+    5,
+    0
+   ],
+   "BIRTH_DATE": [
+    4,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "IP_ADDRESS": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "ORG": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 29
+ },
+ {
+  "id": "prose_html_1.html",
+  "fmt": "html",
+  "kind": "prose",
+  "gold": 27,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    2,
+    0
+   ],
+   "CITY": [
+    8,
+    0
+   ],
+   "SECRET": [
+    4,
+    0
+   ],
+   "ORG": [
+    4,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 27
+ },
+ {
+  "id": "prose_md_1.md",
+  "fmt": "md",
+  "kind": "prose",
+  "gold": 28,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "IBAN": [
+    1,
+    0
+   ],
+   "PERSON": [
+    12,
+    0
+   ],
+   "ORG": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    4,
+    0
+   ],
+   "BIRTH_DATE": [
+    2,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ],
+   "CITY": [
+    2,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "SSN": [
+    2,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 31
+ },
+ {
+  "id": "prose_pdf_1.pdf",
+  "fmt": "pdf",
+  "kind": "prose",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    12,
+    0
+   ],
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "CITY": [
+    3,
+    1
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    3,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "ORG": [
+    1,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "PHONE": [
+    2,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "CITY",
+    "SACRAMENTO"
+   ]
+  ],
+  "natural": 32
+ },
+ {
+  "id": "table_csv_1.csv",
+  "fmt": "csv",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "NI": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "ADDRESS": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 32
+ },
+ {
+  "id": "table_xlsx_1.xlsx",
+  "fmt": "xlsx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_docx_1.docx",
+  "fmt": "docx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_pptx_1.pptx",
+  "fmt": "pptx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    1
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "11th of September 1999"
+   ]
+  ],
+  "natural": 29
+ },
+ {
+  "id": "table_html_1.html",
+  "fmt": "html",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    5
+   ],
+   "IBAN": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "04/08/1957"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/10/1964"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "BIRTH_DATE",
+    "May 15, 1994"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "BIRTH_DATE",
+    "24th of January 1987"
+   ],
+   [
+    "BIRTH_DATE",
+    "June 26, 1957"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "BIRTH_DATE",
+    "27.02.1981"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ]
+  ],
+  "natural": 19
+ },
+ {
+  "id": "table_md_1.md",
+  "fmt": "md",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "NI": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "ADDRESS": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 32
+ },
+ {
+  "id": "table_pdf_1.pdf",
+  "fmt": "pdf",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    5
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "CITY": [
+    6,
+    5
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "1997-06-13"
+   ],
+   [
+    "PASSPORT",
+    "232936292"
+   ],
+   [
+    "BIRTH_DATE",
+    "18 June 1983"
+   ],
+   [
+    "PASSPORT",
+    "784009419"
+   ],
+   [
+    "CITY",
+    "Tulsa"
+   ],
+   [
+    "PASSPORT",
+    "Y6127750"
+   ],
+   [
+    "CITY",
+    "Glasgow"
+   ],
+   [
+    "BIRTH_DATE",
+    "10/1/02"
+   ],
+   [
+    "PASSPORT",
+    "C7354313"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ],
+   [
+    "BIRTH_DATE",
+    "Sep 24, 1981"
+   ],
+   [
+    "PASSPORT",
+    "C67331766"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "BIRTH_DATE",
+    "5th of August 1994"
+   ],
+   [
+    "PASSPORT",
+    "D46200911"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ]
+  ],
+  "natural": 14
+ },
+ {
+  "id": "table_txt_1.txt",
+  "fmt": "txt",
+  "kind": "table",
+  "gold": 30,
+  "status": "attention",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    5
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "CITY": [
+    6,
+    5
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "September 14, 1991"
+   ],
+   [
+    "PASSPORT",
+    "C59925185"
+   ],
+   [
+    "CITY",
+    "Cincinnati"
+   ],
+   [
+    "BIRTH_DATE",
+    "October 26, 1991"
+   ],
+   [
+    "PASSPORT",
+    "E94746491"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PASSPORT",
+    "D4614856"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 12, 1990"
+   ],
+   [
+    "PASSPORT",
+    "B8773282"
+   ],
+   [
+    "BIRTH_DATE",
+    "2/4/96"
+   ],
+   [
+    "PASSPORT",
+    "H8914654"
+   ],
+   [
+    "CITY",
+    "Dunedin"
+   ],
+   [
+    "BIRTH_DATE",
+    "7/13/86"
+   ],
+   [
+    "PASSPORT",
+    "A96114717"
+   ],
+   [
+    "CITY",
+    "Austin"
+   ]
+  ],
+  "natural": 14
+ },
+ {
+  "id": "prose_txt_2.txt",
+  "fmt": "txt",
+  "kind": "prose",
+  "gold": 25,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "CITY": [
+    8,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "PHONE": [
+    2,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ],
+   "ORG": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 26
+ },
+ {
+  "id": "prose_csv_2.csv",
+  "fmt": "csv",
+  "kind": "prose",
+  "gold": 27,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    14,
+    0
+   ],
+   "PASSPORT": [
+    3,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "CITY": [
+    3,
+    0
+   ],
+   "ADDRESS": [
+    2,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "SECRET": [
+    1,
+    0
+   ],
+   "PHONE": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 28
+ },
+ {
+  "id": "prose_xlsx_2.xlsx",
+  "fmt": "xlsx",
+  "kind": "prose",
+  "gold": 28,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PHONE": [
+    5,
+    0
+   ],
+   "BIRTH_DATE": [
+    3,
+    0
+   ],
+   "NI": [
+    2,
+    0
+   ],
+   "CITY": [
+    4,
+    0
+   ],
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "PERSON": [
+    6,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ],
+   "ORG": [
+    1,
+    0
+   ],
+   "EMAIL": [
+    2,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "prose_docx_2.docx",
+  "fmt": "docx",
+  "kind": "prose",
+  "gold": 30,
+  "status": "attention",
+  "restore_equal": true,
+  "cats": {
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "PERSON": [
+    7,
+    0
+   ],
+   "CITY": [
+    9,
+    0
+   ],
+   "ORG": [
+    3,
+    0
+   ],
+   "PHONE": [
+    3,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "CARD": [
+    2,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "prose_pptx_2.pptx",
+  "fmt": "pptx",
+  "kind": "prose",
+  "gold": 26,
+  "status": "attention",
+  "restore_equal": false,
+  "cats": {
+   "PERSON": [
+    11,
+    1
+   ],
+   "ADDRESS": [
+    3,
+    0
+   ],
+   "CITY": [
+    3,
+    0
+   ],
+   "PASSPORT": [
+    1,
+    0
+   ],
+   "PHONE": [
+    3,
+    0
+   ],
+   "ORG": [
+    2,
+    0
+   ],
+   "EMAIL": [
+    1,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    1,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "PERSON",
+    "Jean-Paul Underhill-O'Connell"
+   ]
+  ],
+  "natural": 27
+ },
+ {
+  "id": "prose_html_2.html",
+  "fmt": "html",
+  "kind": "prose",
+  "gold": 27,
+  "status": "ok",
+  "restore_equal": false,
+  "cats": {
+   "PHONE": [
+    2,
+    0
+   ],
+   "EMAIL": [
+    2,
+    0
+   ],
+   "CITY": [
+    1,
+    0
+   ],
+   "PERSON": [
+    9,
+    0
+   ],
+   "CARD": [
+    1,
+    0
+   ],
+   "BIRTH_DATE": [
+    3,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "SECRET": [
+    2,
+    0
+   ],
+   "ORG": [
+    4,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "IP_ADDRESS": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 26
+ },
+ {
+  "id": "prose_md_2.md",
+  "fmt": "md",
+  "kind": "prose",
+  "gold": 28,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "NI": [
+    1,
+    0
+   ],
+   "PERSON": [
+    11,
+    0
+   ],
+   "EMAIL": [
+    4,
+    0
+   ],
+   "CITY": [
+    3,
+    0
+   ],
+   "ORG": [
+    3,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "CARD": [
+    2,
+    0
+   ],
+   "PHONE": [
+    3,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 28
+ },
+ {
+  "id": "prose_pdf_2.pdf",
+  "fmt": "pdf",
+  "kind": "prose",
+  "gold": 27,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    9,
+    0
+   ],
+   "ORG": [
+    5,
+    0
+   ],
+   "PASSPORT": [
+    4,
+    0
+   ],
+   "CITY": [
+    5,
+    0
+   ],
+   "NI": [
+    1,
+    0
+   ],
+   "ADDRESS": [
+    1,
+    0
+   ],
+   "SSN": [
+    1,
+    0
+   ],
+   "IBAN": [
+    1,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 27
+ },
+ {
+  "id": "table_csv_2.csv",
+  "fmt": "csv",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_xlsx_2.xlsx",
+  "fmt": "xlsx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_docx_2.docx",
+  "fmt": "docx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    1
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "PHONE": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "13th of February 2003"
+   ]
+  ],
+  "natural": 29
+ },
+ {
+  "id": "table_pptx_2.pptx",
+  "fmt": "pptx",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    1
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "CARD": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "21th of May 1994"
+   ]
+  ],
+  "natural": 29
+ },
+ {
+  "id": "table_html_2.html",
+  "fmt": "html",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "CITY": [
+    6,
+    5
+   ],
+   "CARD": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "PASSPORT",
+    "C1273004"
+   ],
+   [
+    "BIRTH_DATE",
+    "24 September 1977"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ],
+   [
+    "PASSPORT",
+    "008991661"
+   ],
+   [
+    "BIRTH_DATE",
+    "Jul 14, 1994"
+   ],
+   [
+    "CITY",
+    "Leeds"
+   ],
+   [
+    "PASSPORT",
+    "D38818757"
+   ],
+   [
+    "BIRTH_DATE",
+    "1973-10-15"
+   ],
+   [
+    "CITY",
+    "Sacramento"
+   ],
+   [
+    "PASSPORT",
+    "043789111"
+   ],
+   [
+    "BIRTH_DATE",
+    "12 April 1951"
+   ],
+   [
+    "PASSPORT",
+    "D0722390"
+   ],
+   [
+    "BIRTH_DATE",
+    "March 21, 2000"
+   ],
+   [
+    "CITY",
+    "Sheffield"
+   ],
+   [
+    "PASSPORT",
+    "H4441800"
+   ],
+   [
+    "BIRTH_DATE",
+    "Oct 25, 1955"
+   ],
+   [
+    "CITY",
+    "Manchester"
+   ]
+  ],
+  "natural": 13
+ },
+ {
+  "id": "table_md_2.md",
+  "fmt": "md",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "PASSPORT": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    0
+   ],
+   "CITY": [
+    6,
+    0
+   ],
+   "CARD": [
+    6,
+    0
+   ]
+  },
+  "leaks": [],
+  "natural": 30
+ },
+ {
+  "id": "table_pdf_2.pdf",
+  "fmt": "pdf",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    5
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "June 26, 1957"
+   ],
+   [
+    "PASSPORT",
+    "C7762054"
+   ],
+   [
+    "BIRTH_DATE",
+    "11/17/81"
+   ],
+   [
+    "PASSPORT",
+    "C0475943"
+   ],
+   [
+    "BIRTH_DATE",
+    "28th of April 1982"
+   ],
+   [
+    "PASSPORT",
+    "Y7308467"
+   ],
+   [
+    "PASSPORT",
+    "418066823"
+   ],
+   [
+    "BIRTH_DATE",
+    "12/22/02"
+   ],
+   [
+    "PASSPORT",
+    "524131912"
+   ],
+   [
+    "BIRTH_DATE",
+    "1952-04-14"
+   ],
+   [
+    "PASSPORT",
+    "Y3612608"
+   ]
+  ],
+  "natural": 19
+ },
+ {
+  "id": "table_txt_2.txt",
+  "fmt": "txt",
+  "kind": "table",
+  "gold": 30,
+  "status": "ok",
+  "restore_equal": true,
+  "cats": {
+   "PERSON": [
+    6,
+    0
+   ],
+   "BIRTH_DATE": [
+    6,
+    6
+   ],
+   "PASSPORT": [
+    6,
+    6
+   ],
+   "SSN": [
+    6,
+    0
+   ],
+   "EMAIL": [
+    6,
+    0
+   ]
+  },
+  "leaks": [
+   [
+    "BIRTH_DATE",
+    "06/12/1995"
+   ],
+   [
+    "PASSPORT",
+    "X9734265"
+   ],
+   [
+    "BIRTH_DATE",
+    "3/26/00"
+   ],
+   [
+    "PASSPORT",
+    "Y5334146"
+   ],
+   [
+    "BIRTH_DATE",
+    "1974-02-25"
+   ],
+   [
+    "PASSPORT",
+    "419146975"
+   ],
+   [
+    "BIRTH_DATE",
+    "24/09/1953"
+   ],
+   [
+    "PASSPORT",
+    "Y9017622"
+   ],
+   [
+    "BIRTH_DATE",
+    "January 15, 1987"
+   ],
+   [
+    "PASSPORT",
+    "D7429219"
+   ],
+   [
+    "BIRTH_DATE",
+    "2001-04-20"
+   ],
+   [
+    "PASSPORT",
+    "Z9674617"
+   ]
+  ],
+  "natural": 18
+ }
+]

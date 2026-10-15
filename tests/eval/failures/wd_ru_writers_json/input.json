@@ -1,0 +1,6389 @@
+{
+ "results": {
+  "head": {
+   "vars": [
+    "p",
+    "pLabel",
+    "birth",
+    "placeLabel"
+   ]
+  },
+  "results": {
+   "bindings": [
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q469503"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-02-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ярошинская, Алла Александровна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Житомир"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q472356"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-09-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Владимирович Ерофеев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q481345"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-05-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Фёдорович Ерёмин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владикавказ"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q487649"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-06-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Андреевич Ким"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ынтымак"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q487754"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-10-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Приставкин, Анатолий Игнатьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Люберцы"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q487760"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-08-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Исаевич Кудрявицкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q487760"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-08-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Исаевич Кудрявицкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Днепр"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q488043"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-02-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Васильевич Филипченко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Давыдовка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q498802"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-04-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мишши Юхма"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сугуты"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q502041"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-05-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Георгиевич Битов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q502325"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1972-01-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Николаевич Малахов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Апатиты"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q502651"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-07-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Васильевич Мягков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q502669"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-10-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Монастырский, Андрей Викторович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Печенга"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q502711"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-09-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Владимирович Аникин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Томск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q503663"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-02-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Михайлович Рощин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q508929"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1973-08-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Николай Сергеевич Валуев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q509174"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-06-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ивинская, Ольга Всеволодовна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тамбов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q509280"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-10-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Maurice T. Maschino"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Париж"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q510170"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-06-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Наталья Владимировна Варлей"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Констанца"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q512046"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1975-09-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кипер, Елена Владимировна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q515606"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-03-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эфраим Севела"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Бобруйск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q516843"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-09-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Рубен Гальего"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q519574"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1985-09-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алиса Аркадьевна Ганиева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q519878"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1919-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Даниил Александрович Гранин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Волынка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q520303"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1974-03-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дмитрий Александрович Емец"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q521209"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-06-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Петрович Щекочихин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гянджа"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q521687"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-06-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юнна Петровна Мориц"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Киев"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q521808"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1916-10-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Галина Сергеевна Шаталова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ашхабад"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q527281"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-11-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Слободкин, Юрий Максимович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Смоленская область"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q529309"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-03-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валентин Григорьевич Распутин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Усть-Уда"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q529799"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-09-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Марина Иосифовна Гершенович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосибирск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q529869"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-02-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ольга Борисовна Мартынова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дудинка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q530651"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-12-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кантор, Максим Карлович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q535157"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-04-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валентин Витальевич Лебедев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q536966"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Широкорад, Александр Борисович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q537003"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-11-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дмитрий Александрович Пригов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q537320"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-06-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Робски, Оксана Викторовна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q541213"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-04-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ирина Муцуовна Хакамада"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q542101"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-11-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Гребенщиков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q544824"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1966-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кисина, Юлия Дмитриевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Киев"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q548164"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-09-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владислав Юрьевич Сурков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Солнцево"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q551097"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-01-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лисянский, Марк Самойлович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Одесса"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q551475"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-01-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Моисеевич Пятигорский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q553735"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-11-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Линдерман, Владимир Ильич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Рига"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q556499"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-11-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Николай Николаевич Добронравов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q558518"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-01-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Хазанов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q559129"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-08-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Туфан Абдуллович Миннуллин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Большое Мереткозино"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q559452"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-05-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анна Александровна Альчук"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Бошняково"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q562019"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-03-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Померанц, Григорий Соломонович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Вильнюс"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q563572"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Anna Dankovtseva"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q577986"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-07-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Карпов, Владимир Васильевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Оренбург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q590224"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-01-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Маруся Климова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q592504"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-12-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Залыгин, Сергей Павлович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сухаревка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q595709"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-04-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Леонид Иванович Бородин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Иркутск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q189172"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-02-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Витальевич Коротаев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q196159"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-06-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дарья Донцова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q206448"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1972-09-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ольга Владимировна Златогорская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Смоленск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q208116"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-03-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михалков, Сергей Владимирович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q228584"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Светлана Иосифовна Аллилуева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q236233"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-06-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александра Маринина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Львов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q236619"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-05-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Вознесенский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q237081"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1978-09-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ани Лорак"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кицмань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q237533"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Наталья Хусаиновна Эстемирова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Камышлов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q239652"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-05-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Булат Окуджава"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q246722"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-11-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Пелевин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q247846"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-02-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Татьяна Анатольевна Догилева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q249647"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-11-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Аркадий Иосифович Ваксберг"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосибирск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q251089"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-09-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лариса Рубальская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q253395"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-04-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Белла Ахатовна Ахмадулина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q266661"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-02-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Улицкая, Людмила Евгеньевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Давлеканово"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q268482"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Давидович Бренер"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алма-Ата"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q269117"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-10-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Хейдиз, Лена Алексеевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кемерово"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q271071"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1980-12-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Орлова, Марина Владимировна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Арзамас"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q274090"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-10-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Славникова, Ольга Александровна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Екатеринбург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q274306"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1970-05-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анжелика Агурбаш"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Минск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q274312"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-06-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Жанна Бичевская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q274342"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-05-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Татьяна Толстая"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q274899"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1903-08-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Наталия Ильинична Сац"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Иркутск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q275190"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1981-10-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Денежкина, Ирина Викторовна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Екатеринбург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q275285"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-06-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Полина Дашкова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q275285"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-07-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Полина Дашкова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q275935"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-08-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Нина Николаевна Берберова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q279648"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-02-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Панкин, Борис Дмитриевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Бишкек"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q279674"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-01-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Евгений Анатольевич Попов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Красноярск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q283408"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1979-06-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дмитрий Алексеевич Глуховский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q283859"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-09-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эдвард Станиславович Радзинский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q285078"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-01-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фёдор Михайлович Бурлацкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Киев"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q287099"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1981-11-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ксения Анатольевна Собчак"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q293156"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-07-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Людмила Михайловна Алексеева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Евпатория"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q295537"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-02-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эдуард Вениаминович Лимонов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дзержинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q297736"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-07-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Евгений Александрович Евтушенко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Зима"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q302484"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-04-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валерия"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Аткарск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q303792"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-01-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гусев, Юрий Павлович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пермская область"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q308711"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-10-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владислав Петрович Крапивин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тюмень"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q312281"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-06-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лероев, Михаил Геннадьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосибирск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q312474"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-09-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андриян Григорьевич Николаев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шоршелы"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q313399"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-12-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Александрович Шаталов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Петропавловск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q313449"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-09-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Зелимхан Абдулмуслимович Яндарбиев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Выдриха"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q314921"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-03-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Васильевич Ковалёнок"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Белое"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q315185"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-08-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Василий Павлович Аксёнов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q319839"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-08-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Георгиевич Сорокин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Быково"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q326855"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1910-08-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Снегов, Сергей Александрович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Одесса"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q326855"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1910-08-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Снегов, Сергей Александрович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Одесса"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q330212"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-04-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Гребенников"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Симферополь"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q332263"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1902-08-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гудзь, Борис Игнатьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Уфа"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q333048"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1919-02-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Моисеевич Володин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Минск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q335110"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-08-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Геннадий Николаевич Айги"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шаймурзино"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q337903"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-04-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шатров, Михаил Филиппович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q338623"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-04-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Святослав Игоревич Бэлза"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Челябинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q339581"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-11-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Владимирович Баталов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q344854"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-06-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тимур Бекмамбетов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Атырау"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q360292"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-10-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кир Булычёв"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q360471"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-12-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Константинович Буковский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "городское поселение Белебей"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q361707"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1903-07-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сутеев, Владимир Григорьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q362133"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-07-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Василий Ливанов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q364451"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-04-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Береговой, Георгий Тимофеевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фёдоровка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q371516"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1966-03-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мельтюхов, Михаил Иванович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q373347"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-02-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Огдо Егоровна Аксёнова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Таймырский (Долгано-Ненецкий) автономный округ"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q373592"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1982-02-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Маркова, Мария Александровна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Чукотский автономный округ"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q376679"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-04-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Болтянский, Владимир Григорьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q378333"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-10-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ролан Антонович Быков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Киев"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q380214"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-09-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Макин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Красноярск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q381541"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-07-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Станиславович Елисеев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Жиздра"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q381592"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-08-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Евгеньевич Захаров"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q381944"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-11-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эльдар Александрович Рязанов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Самара"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q382145"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-02-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Александрович Крючков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Волгоград"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q386412"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-08-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сергей Вольфгангович Заграевский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q431006"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-03-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Петрович Савиных"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Березкины"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4864"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1965-10-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Евгений Касперский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новороссийск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q15253"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-08-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дмитрий Пучков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кропивницкий"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q18066"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-12-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эдуард Успенский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Егорьевск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q26412"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-10-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Василий Иванович Белов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тимониха"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q28614"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1963-04-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гарри Каспаров"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Баку"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q158465"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-03-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Тимофеевич Фоменко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Донецк"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q160154"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1971-10-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кисин, Евгений Игоревич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q161092"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1975-06-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Крамник"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Туапсе"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q164309"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-12-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фазу Гамзатовна Алиева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Хунзахский район"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q178865"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1911-08-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Моисеевич Ботвинник"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Репино"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q179540"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1963-03-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Константинович Щербаков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Обнинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q181573"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-03-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фазиль Абдулович Искандер"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сухуми"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q183382"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-05-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Людмила Стефановна Петрушевская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q183535"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-08-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Смехов, Вениамин Борисович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q69720"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-12-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Татьяна Илларионовна Васильчикова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q69720"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1915-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Татьяна Илларионовна Васильчикова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q70215"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-04-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Вольфганг Леонгард"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Вена"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q71998"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-01-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Павлович Шишкин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q77037"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-04-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эдгар Хильзенрат"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лейпциг"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q86839"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-04-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Андреевич Трегубов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q87015"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-08-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Вальтерович Литвиненко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Воронеж"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q87015"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-12-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Вальтерович Литвиненко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Воронеж"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q98897"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-09-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Вальдемар Вениаминович Вебер"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сарбала"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q104148"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-03-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Смыслов, Василий Васильевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q106374"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1966-01-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Халифман"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q111982"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1975-10-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Солдатов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q116789"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-06-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Дмитриевич Парыгин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q432752"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-01-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валерий Николаевич Кубасов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Вязники"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q433942"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1907-03-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лидия Корнеевна Чуковская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q434546"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-07-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Климук, Пётр Ильич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Комаровка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q434555"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-05-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Георгий Михайлович Гречко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q434926"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1911-01-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Наумович Рыбаков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Держановка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q438839"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-01-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Гельевич Дугин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q34474"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-12-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Исаевич Солженицын"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кисловодск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q36546"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-11-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мария Васильевна Семёнова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q36878"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-09-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Расул Гамзатович Гамзатов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Цада"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q41745"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-07-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Иванович Некрасов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Автономная область Коми (Зырян)"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q41745"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-07-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Иванович Некрасов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кырув"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q44940"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-03-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Сергеевич Рытхэу"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Уэлен"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46234"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1971-10-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лена Ленина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосибирск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46419"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Соломония Пылаева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сыктывкар"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46419"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Соломония Пылаева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Автономная область Коми (Зырян)"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q46419"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Соломония Пылаева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сысольский район"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q49281"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-07-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Попович, Марина Лаврентьевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Велижский муниципальный округ"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q49606"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-12-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Петрович Власов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Макеевка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q52224"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-04-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сергей Васильевич Лукьяненко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Каратау"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q55172"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-06-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Сокуров"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Подорвиха"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q55207"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-10-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Никита Михалков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q59054"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-04-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Натанович Стругацкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q60903"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1972-10-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Нестеренко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q118449"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-01-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сухинов, Сергей Стефанович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q122658"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-02-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Василий Иванович Раков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q125663"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1956-05-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Акунин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тбилиси"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q125663"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1956-05-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Акунин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Зестафони"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q129133"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-01-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кара-Мурза, Сергей Георгиевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q131240"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-08-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анна Степановна Политковская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Нью-Йорк"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q131674"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-05-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анатолий Евгеньевич Карпов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Златоуст"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q135481"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-10-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лев Гумилёв"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пушкин"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q136169"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-07-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валерий Михайлович Николаевский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q152298"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-09-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Герман Степанович Титов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Верх-Жилино"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q152318"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-08-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Светлана Евгеньевна Савицкая"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q154269"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-05-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Архипович Леонов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Листвянка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q441226"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1967-01-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "М. Гессен"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q441351"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-10-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фролова, Елена Борисовна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Рига"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q446808"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-02-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Елена Георгиевна Боннэр"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мары"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q750943"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-12-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юлий Черсанович Ким"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q782176"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-12-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Леонид Алексеевич Филатов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q782914"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-07-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дудинцев, Владимир Дмитриевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Купянск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q782914"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-07-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дудинцев, Владимир Дмитриевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Купянск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q784509"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-04-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Васильевич Яковлев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q796798"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1978-03-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пехов, Алексей Юрьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q449538"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-10-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Александрович Зиновьев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пахтино"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q449913"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-11-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктория Самойловна Токарева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q451825"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Игорь Яковлевич Померанцев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Саратов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q452798"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1973-05-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Трегубова, Елена Викторовна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q453423"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1966-08-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Крючкова, Ольга Евгеньевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q453537"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1973-12-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мария Александровна Рыбакова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q454630"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-09-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Николаевич Войнович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Душанбе"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q456123"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-02-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Альфред Кох"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алтай"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q456714"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-03-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Сергеевич Ильюшин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q461151"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1971-02-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Анита Сергеевна Цой"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q461932"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-05-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шварц, Елена Андреевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q463328"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-03-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Митрохин, Василий Никитич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрасово"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q463501"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-05-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Валерия Ильинична Новодворская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Барановичи"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q464818"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-03-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ларионова, Ольга Николаевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q464830"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1908-12-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Наталья Владимировна Баранская"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q465748"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-03-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Александрович Губарев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гвардейцы"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q465876"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1983-12-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дембо, Елена Владимировна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пенза"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q466139"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-08-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Олег Павлович Табаков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Саратов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q468267"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-10-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Донатович Синявский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1087945"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-06-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дмитрий Евгеньевич Галковский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1094540"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-04-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Хусаинов, Гайса Батыргареевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кармаскалинский район"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1096163"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-12-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Константин Яковлевич Ваншенкин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1102223"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-08-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Васильевич Буйда"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Знаменск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1106497"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-04-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Михайлович Кублановский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Рыбинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1122136"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-09-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Илья Валерьевич Кормильцев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Екатеринбург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1135511"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1941-06-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ласков, Иван Антонович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гомель"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1155439"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-04-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Маркович Нагибин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1165316"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-12-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Данциг Сергеевич Балдаев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Улан-Удэ"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1192357"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-07-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Медведева, Наталья Георгиевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1238538"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-09-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Владимирович Заходер"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Кагул"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1263957"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1906-09-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казанцев, Александр Петрович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Астана"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1272536"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-12-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sami Feder"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Заверце"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1287921"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-09-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эдуард Аркадьевич Асадов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мары"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1324408"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-10-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Павлович Шипенко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Севастополь"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q834967"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-05-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борис Львович Васильев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Смоленск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q842449"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-10-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новелла Николаевна Матвеева"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Пушкин"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q844501"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-12-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шефнер, Вадим Сергеевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q844501"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1915-01-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шефнер, Вадим Сергеевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q881747"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1902-05-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Линденберг"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q887050"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-10-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Садур, Нина Николаевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосибирск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q890184"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-12-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Жутовский, Борис Иосифович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q893799"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-12-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Фальков, Борис Викторович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q930485"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сергей Олегович Прокофьев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q930903"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-07-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Павел Семёнович Лунгин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q941532"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-06-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сергей Владимирович Бодров"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Хабаровск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q944215"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-03-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Толубеев, Андрей Юрьевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q952032"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-09-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Евгений Ваганович Петросян"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Баку"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q952906"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-10-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Панарин, Игорь Николаевич"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q956847"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-03-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Маканин, Владимир Семёнович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Орск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q960691"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1917-04-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гуревич, Георгий Иосифович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q968184"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-05-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Петрович Астафьев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Овсянка"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q971447"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-10-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Еремей Иудович Парнов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Харьков"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q972840"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1997-08-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Екатерина Дмитриевна Рябова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Щёлково"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q982093"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-08-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Виктор Сергеевич Розов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ярославль"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q983516"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-06-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Роберт Иванович Рождественский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Косиха"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q984644"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1905-11-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Троепольский, Гавриил Николаевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Борисоглебский уезд"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1029719"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-12-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Татьяна Хашимовна Никитина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Душанбе"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1038491"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1967-08-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Владимир Николаевич Васильев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Николаев"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1047794"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-01-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Баширов, Гумер Баширович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Янга-Сала"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1048435"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1977-11-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ольга Орлова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1048828"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1967-01-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Олегович Белянин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Астрахань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1071688"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-11-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Григорий Бенционович Остер"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Одесса"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1071694"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-09-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алла Сергеевна Демидова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1071789"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1970-03-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Павлов, Олег Олегович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1782715"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-02-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Сухарев, Константин Константинович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ачинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1805456"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-03-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Моисеевич Городницкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1821953"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-12-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Лев Александрович Безыменский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Казань"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1888882"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-02-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Яковлевич Аскольдов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1888882"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-06-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Яковлевич Аскольдов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1895197"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-03-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Маргарита Тупицына"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1898282"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Marina Rumjanzewa"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1900170"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-12-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дворецкий, Марк Израилевич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1900207"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-04-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Марк Лазаревич Галлай"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1900820"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-11-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Леонид Петрович Романков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1906804"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-07-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Мария Рольникайте"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Клайпеда"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1906825"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-12-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Гаирбекова, Машидат Гаджиевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Карата"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1930292"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Рыклин, Михаил Кузьмич"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1943650"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-07-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Андрей Дмитриевич Дементьев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Тверь"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1958166"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-12-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Константин Евгеньевич Кинчев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1959490"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1956-04-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Александр Александрович Бушков"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Минусинск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1960014"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-03-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Григорий Горин"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1960651"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-01-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Леонид Геннадьевич Парфёнов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Череповец"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1960905"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-02-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Драгомощенко, Аркадий Трофимович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Потсдам"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1961302"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-01-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Альберт Константинович Черненко"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Новосёлово"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1962463"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-12-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Конюхов, Фёдор Филиппович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Чкалово"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1964579"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-10-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Шевцова, Лилия Фёдоровна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Львов"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1964825"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-08-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Николай Петрович Бурляев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1965002"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-03-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Михаил Михайлович Жванецкий"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Одесса"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1965416"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1974-07-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Диана Арбенина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Воложин"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1967070"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-11-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Светлана Яковлевна Сурганова"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Санкт-Петербург"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1967089"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1908-10-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Абдурахман Геназович Авторханов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Чечня"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1967697"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-11-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Алексей Викторович Иванов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Нижний Новгород"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1968235"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-12-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Юрий Витальевич Мамлеев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1969208"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-10-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Святослав Владимирович Логинов"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Уссурийск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1969327"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-06-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Георгий Александрович Балл"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1970444"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-10-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Коренева, Елена Алексеевна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1970735"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-11-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Эммануэль Вениаминович Брагинский"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1973856"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1965-11-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Богушевская, Ирина Александровна"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1974529"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-12-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Дубин, Борис Владимирович"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Москва"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1974797"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-01-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Игорь Николаев"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Холмск"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1975227"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1974-12-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ника Георгиевна Турбина"
+     },
+     "placeLabel": {
+      "xml:lang": "ru",
+      "type": "literal",
+      "value": "Ялта"
+     }
+    }
+   ]
+  }
+ },
+ "contacts": [
+  {
+   "ФИО": "Барсуков Артём Игоревич",
+   "Телефон": "+7 (946) 298-51-28",
+   "E-mail": "p894.6368@mail-demo.example.ru",
+   "ИНН": "158871810000",
+   "Паспорт": "82 90 305689",
+   "СНИЛС": "590-127-098 86",
+   "Адрес": "г. Самара, ул. Колокольная, д. 75, кв. 219"
+  },
+  {
+   "ФИО": "Ржевская Ксения Олеговна",
+   "Телефон": "8 954 4958275",
+   "E-mail": "office95@vektor-demo.example.com",
+   "ИНН": "866217484710",
+   "Паспорт": "4990 360766",
+   "СНИЛС": "743-502-303 65",
+   "Адрес": "г. Нижний Новгород, ул. Заводская Набережная, д. 43, кв. 172"
+  },
+  {
+   "ФИО": "Дроздецкий Матвей Олегович",
+   "Телефон": "+79898601437",
+   "E-mail": "a.2737@corp-demo.example.org",
+   "ИНН": "158871810000",
+   "Паспорт": "82 90 305689",
+   "СНИЛС": "743-502-303 65",
+   "Адрес": "г. Екатеринбург, ул. Колокольная, д. 43, кв. 100"
+  },
+  {
+   "ФИО": "Шелепина Дарья Сергеевна",
+   "Телефон": "8 (495) 790-64-56",
+   "E-mail": "p894.6368@mail-demo.example.ru",
+   "ИНН": "866217484710",
+   "Паспорт": "4990 360766",
+   "СНИЛС": "590-127-098 86",
+   "Адрес": "г. Самара, ул. Колокольная, д. 75, кв. 219"
+  }
+ ],
+ "notes": [
+  "Заявитель: Барсуков Артём Игоревич, дата рождения 21.10.1989",
+  "Паспорт серия и номер 82 90 305689, СНИЛС 590-127-098 86",
+  "ИНН 158871810000, тел. +7 (946) 298-51-28",
+  "E-mail: p894.6368@mail-demo.example.ru",
+  "Банковская карта 4276 5973 5360 2348",
+  "Ржевская К.О. (8 954 4958275)",
+  "Представитель: Ржевская Ксения Олеговна, паспорт 4990 360766, СНИЛС 743-502-303 65",
+  "ООО «Эпсилон-Групп», ИНН 2261323585, КПП 777706001, ОГРН 1160105343452",
+  "Юридический адрес: г. Самара, ул. Колокольная, д. 75, кв. 219",
+  "Расчётный счёт 40702810849435269690 в банке, БИК 043947468, корр. счёт 30101810723970523032",
+  "Директор АО «Кедровый Берег» Дроздецкий Матвей Олегович, ИНН 866217484710, моб. +79898601437",
+  "Контакт: office95@vektor-demo.example.com, офис 8 (495) 790-64-56",
+  "Адрес регистрации: г. Нижний Новгород, ул. Заводская Набережная, д. 43, кв. 172",
+  "Адрес проживания: г. Екатеринбург, ул. Колокольная, д. 43, кв. 100",
+  "ПАО «Альтаир Логистик Юг», ИНН 2106406798, КПП 162301001, ОГРН 1034074494233, БИК 042910540",
+  "Карта второго держателя 5536 7530 1202 5409, счёт физлица 40817810640428387265",
+  "Автомобиль: госномер О540МВ 50",
+  "Сервер 10.201.154.58, резервный 192.168.231.54, админ a.2737@corp-demo.example.org",
+  "API key: sk_live_237604Zq77033225Xw",
+  "password = Rv044!kd7377Pm",
+  "Подписант Дроздецкий М.О., дата рождения 13.07.1987",
+  "Ответственный: Шелепина Дарья Сергеевна / Шелепина Д.С.",
+  "Свидетель Гайдамаков Артём Игоревич"
+ ],
+ "paragraphs": [
+  "Настоящий договор заключён между ООО «Эпсилон-Групп» (ИНН 2261323585, КПП 777706001), в лице директора Дроздецкий Матвей Олегович, и гражданином Барсуков Артём Игоревич, 21.10.1989 года рождения, паспорт 82 90 305689, проживающим по адресу: г. Нижний Новгород, ул. Заводская Набережная, д. 43, кв. 172.",
+  "Оплата производится на расчётный счёт 40702810849435269690 в банке с БИК 043947468, корреспондентский счёт 30101810723970523032. Уведомления направлять на office95@vektor-demo.example.com или по телефону +7 (946) 298-51-28.",
+  "Копию паспорта Ржевская Ксения Олеговна (4990 360766), СНИЛС 743-502-303 65 и ИНН 866217484710 приложить к заявлению. С Барсуков А.И. связаться по 8 954 4958275.",
+  "Переписка: «Добрый день, Дарья Сергеевна! Направляю реквизиты ПАО «Альтаир Логистик Юг»: ОГРН 1034074494233, ИНН 2106406798. Карта для возврата 4276 5973 5360 2348»."
+ ],
+ "owner": {
+  "name": "Барсуков Артём Игоревич",
+  "meta": {
+   "author": "Барсуков Артём Игоревич",
+   "title": "Договор Эпсилон-Групп",
+   "subject": "ИНН 2261323585",
+   "keywords": "p894.6368@mail-demo.example.ru; +7 (946) 298-51-28",
+   "comments": "Контакт Ржевская Ксения Олеговна +79898601437"
+  }
+ },
+ "credentials": [
+  "sk_live_237604Zq77033225Xw",
+  "Rv044!kd7377Pm"
+ ]
+}

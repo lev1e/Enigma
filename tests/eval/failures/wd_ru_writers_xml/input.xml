@@ -1,0 +1,4199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='p'/>
+		<variable name='pLabel'/>
+		<variable name='birth'/>
+		<variable name='placeLabel'/>
+	</head>
+	<results>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q189172</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1961-02-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Витальевич Коротаев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q196159</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-06-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дарья Донцова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q206448</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1972-09-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ольга Владимировна Златогорская</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Смоленск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q208116</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-03-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михалков, Сергей Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q228584</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-02-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Светлана Иосифовна Аллилуева</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q236233</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александра Маринина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Львов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q236619</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-05-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Вознесенский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q237081</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1978-09-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ани Лорак</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кицмань</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q237533</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-02-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Наталья Хусаиновна Эстемирова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Камышлов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q239652</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-05-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Булат Окуджава</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q246722</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-11-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Виктор Пелевин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q247846</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-02-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Татьяна Анатольевна Догилева</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q249647</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-11-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Аркадий Иосифович Ваксберг</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новосибирск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q251089</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-09-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лариса Рубальская</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q253395</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-04-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Белла Ахатовна Ахмадулина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q266661</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-02-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Улицкая, Людмила Евгеньевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Давлеканово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q268482</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Давидович Бренер</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Алма-Ата</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q269117</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-10-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Хейдиз, Лена Алексеевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кемерово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q271071</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1980-12-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Орлова, Марина Владимировна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Арзамас</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q274090</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-10-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Славникова, Ольга Александровна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Екатеринбург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q274306</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1970-05-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анжелика Агурбаш</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Минск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q274312</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-06-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Жанна Бичевская</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q274342</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-05-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Татьяна Толстая</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q274899</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1903-08-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Наталия Ильинична Сац</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Иркутск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q275190</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1981-10-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Денежкина, Ирина Викторовна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Екатеринбург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q275285</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-06-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Полина Дашкова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q275285</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-07-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Полина Дашкова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q275935</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-08-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Нина Николаевна Берберова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q279648</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-02-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Панкин, Борис Дмитриевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Бишкек</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q279674</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-01-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Евгений Анатольевич Попов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Красноярск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q283408</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1979-06-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дмитрий Алексеевич Глуховский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q283859</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-09-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Эдвард Станиславович Радзинский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q285078</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-01-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Фёдор Михайлович Бурлацкий</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Киев</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q287099</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1981-11-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ксения Анатольевна Собчак</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q293156</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-07-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Людмила Михайловна Алексеева</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Евпатория</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q295537</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-02-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Эдуард Вениаминович Лимонов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Дзержинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q297736</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-07-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Евгений Александрович Евтушенко</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Зима</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q302484</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-04-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валерия</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Аткарск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q303792</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-01-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Гусев, Юрий Павлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Пермская область</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q308711</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-10-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владислав Петрович Крапивин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тюмень</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q312281</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1991-06-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лероев, Михаил Геннадьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новосибирск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q312474</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-09-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андриян Григорьевич Николаев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Шоршелы</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q313399</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-12-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Александрович Шаталов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Петропавловск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q313449</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-09-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Зелимхан Абдулмуслимович Яндарбиев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Выдриха</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q314921</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-03-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Васильевич Ковалёнок</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Белое</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q315185</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-08-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Василий Павлович Аксёнов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Казань</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q319839</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-08-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Георгиевич Сорокин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Быково</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q326855</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-08-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Снегов, Сергей Александрович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Одесса</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q326855</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-08-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Снегов, Сергей Александрович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Одесса</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q330212</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-04-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Виктор Гребенников</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Симферополь</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q332263</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1902-08-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Гудзь, Борис Игнатьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Уфа</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q333048</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1919-02-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Моисеевич Володин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Минск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q335110</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-08-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Геннадий Николаевич Айги</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Шаймурзино</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q337903</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-04-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шатров, Михаил Филиппович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q338623</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-04-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Святослав Игоревич Бэлза</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Челябинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q339581</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-11-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Алексей Владимирович Баталов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Владимир</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q344854</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1961-06-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Тимур Бекмамбетов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Атырау</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q360292</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-10-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Кир Булычёв</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q360471</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-12-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Константинович Буковский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>городское поселение Белебей</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q361707</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1903-07-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Сутеев, Владимир Григорьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q362133</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-07-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Василий Ливанов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q364451</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-04-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Береговой, Георгий Тимофеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Фёдоровка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q371516</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Мельтюхов, Михаил Иванович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q373347</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-02-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Огдо Егоровна Аксёнова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Таймырский (Долгано-Ненецкий) автономный округ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q373592</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1982-02-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Маркова, Мария Александровна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Чукотский автономный округ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q463328</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1922-03-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Митрохин, Василий Никитич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Юрасово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q463501</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-05-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валерия Ильинична Новодворская</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Барановичи</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q464818</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-03-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ларионова, Ольга Николаевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q464830</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1908-12-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Наталья Владимировна Баранская</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q465748</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-03-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Алексей Александрович Губарев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Гвардейцы</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q465876</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1983-12-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дембо, Елена Владимировна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Пенза</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q466139</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-08-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Олег Павлович Табаков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Саратов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q468267</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-10-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Донатович Синявский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q469503</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-02-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ярошинская, Алла Александровна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Житомир</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q472356</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-09-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Виктор Владимирович Ерофеев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q481345</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-05-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михаил Фёдорович Ерёмин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Владикавказ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q487649</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-06-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анатолий Андреевич Ким</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ынтымак</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q487754</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-10-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Приставкин, Анатолий Игнатьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Люберцы</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q487760</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-08-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анатолий Исаевич Кудрявицкий</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q487760</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-08-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анатолий Исаевич Кудрявицкий</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Днепр</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q488043</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-02-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анатолий Васильевич Филипченко</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Давыдовка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q498802</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-04-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Мишши Юхма</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Сугуты</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q502041</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-05-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Георгиевич Битов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q502325</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1972-01-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Николаевич Малахов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Апатиты</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q502651</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-07-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Васильевич Мягков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q502669</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-10-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Монастырский, Андрей Викторович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Печенга</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q502711</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-09-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Владимирович Аникин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Томск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q503663</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-02-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михаил Михайлович Рощин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Казань</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q508929</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1973-08-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Николай Сергеевич Валуев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q509174</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ивинская, Ольга Всеволодовна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тамбов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q509280</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-10-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Maurice T. Maschino</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Париж</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q510170</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-06-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Наталья Владимировна Варлей</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Констанца</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q512046</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1975-09-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Кипер, Елена Владимировна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q515606</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-03-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Эфраим Севела</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Бобруйск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q516843</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-09-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Рубен Гальего</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q519574</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1985-09-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Алиса Аркадьевна Ганиева</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q519878</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1919-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Даниил Александрович Гранин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Волынка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q520303</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-03-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дмитрий Александрович Емец</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q521209</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-06-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Петрович Щекочихин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Гянджа</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q521687</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-06-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юнна Петровна Мориц</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Киев</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q521808</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1916-10-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Галина Сергеевна Шаталова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ашхабад</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q527281</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-11-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Слободкин, Юрий Максимович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Смоленская область</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q529309</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-03-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валентин Григорьевич Распутин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Усть-Уда</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q529799</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-09-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Марина Иосифовна Гершенович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новосибирск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q529869</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-02-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ольга Борисовна Мартынова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Дудинка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q530651</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-12-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Кантор, Максим Карлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q535157</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-04-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валентин Витальевич Лебедев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q536966</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Широкорад, Александр Борисович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q537003</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-11-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дмитрий Александрович Пригов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q537320</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-06-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Робски, Оксана Викторовна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q541213</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-04-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ирина Муцуовна Хакамада</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q542101</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-11-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Борис Гребенщиков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q544824</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Кисина, Юлия Дмитриевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Киев</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q548164</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-09-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владислав Юрьевич Сурков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Солнцево</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q551097</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-01-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лисянский, Марк Самойлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Одесса</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q551475</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-01-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Моисеевич Пятигорский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q553735</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-11-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Линдерман, Владимир Ильич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Рига</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q556499</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-11-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Николай Николаевич Добронравов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q558518</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-01-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Борис Хазанов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q559129</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-08-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Туфан Абдуллович Миннуллин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Большое Мереткозино</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q559452</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-05-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Анна Александровна Альчук</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Бошняково</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q562019</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-03-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Померанц, Григорий Соломонович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Вильнюс</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q563572</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1961-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Anna Dankovtseva</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q577986</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1922-07-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Карпов, Владимир Васильевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Оренбург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q590224</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1961-01-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Маруся Климова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q592504</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-12-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Залыгин, Сергей Павлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Сухаревка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q595709</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-04-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Леонид Иванович Бородин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Иркутск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q603761</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-02-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Геннадьевич Лазарчук</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Красноярск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q607825</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-02-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Проханов, Александр Андреевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тбилиси</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q618501</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-06-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шесталов, Юван Николаевич</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q620935</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1917-07-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михаил Петрович Девятаев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Торбеево</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q621650</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-12-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ирэна Алексеевна Высоцкая</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Мукачево</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q622245</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-09-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Бисултанов, Апти Дидаевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Гой-Чу</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q625810</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-08-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Подрабинек, Александр Пинхосович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q626982</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-05-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лев Иванович Ошанин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Рыбинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q630760</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-12-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Давыдов, Вадим Александрович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Магнитогорск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3050683</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-06-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Elena Arseneva</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3050726</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-05-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Чижова, Елена Семёновна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3050728</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-09-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Елена Петровна Чудинова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3050728</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-09-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Елена Петровна Чудинова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3061588</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-12-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Стеблов, Евгений Юрьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3116670</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-02-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дашевский, Григорий Михайлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3118887</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Guennadi Golovine</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>США</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3148652</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-10-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Крупник, Илья Наумович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ростов-на-Дону</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3148652</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-10-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Крупник, Илья Наумович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ростов-на-Дону</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3154160</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1973-08-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юлия Александровна Высоцкая</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новочеркасск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3192744</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-07-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ибрагимов, Канта Хамзатович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Грозный</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3194128</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-04-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Яровая, Екатерина Владимировна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Екатеринбург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3195885</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-10-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Новиков, Александр Васильевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Итуруп</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3229779</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-08-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ивашов, Леонид Григорьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кызыл-Аскерский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3294136</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-08-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Харитонов, Марк Сергеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Житомир</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3320764</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1985-04-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ольга Серябкина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3326118</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-03-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ольмезов, Мурадин Муссаевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Талдыкорган</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3334835</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-01-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Птушкина, Надежда Михайловна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3336359</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Natalia Jouravliova</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Киров</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3336368</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1981-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ключарёва, Наталья Львовна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Пермь</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3339592</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1917-05-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Джульетта Артуровна Кючарианц</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3340117</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-07-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Николай Константинович Боков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3341930</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-11-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Нина Викторовна Горланова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Чернушинский муниципальный округ</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3350281</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-11-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Григорьев, Олег Евгеньевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3350281</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-12-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Григорьев, Олег Евгеньевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3350284</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-09-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лягачев, Олег Александрович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3350458</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-12-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ольга Александровна Седакова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3372933</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Павел Шинский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3372965</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-05-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Павел Пепперштейн</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3403622</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-07-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Курляндский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3440897</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-10-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Сеф, Роман Семёнович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3482274</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-04-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Татьяна Устинова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кратово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3484412</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юшков, Геннадий Анатольевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Сыктывдинский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3484526</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-01-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Попов, Серафим Алексеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Жешарт</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3484594</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-08-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Торопов, Иван Григорьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Усть-Сысольский уезд</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3484594</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-08-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Торопов, Иван Григорьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Койгородок</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3502402</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-11-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Вячеслав Алексеевич Пьецух</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3504722</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-11-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Леви, Владимир Львович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3511999</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-02-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Антонов-Овсеенко, Антон Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3541577</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-02-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Иван Моисеевич Третьяк</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Малая Поповка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3553159</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Месяц, Вадим Геннадиевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Томск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3554209</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-02-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Нарбикова, Валерия Спартаковна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3554968</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-12-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Голованов, Василий Ярославович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3557406</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-07-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лапицкий, Виктор Евгеньевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3557586</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-04-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Виктор Александрович Соснора</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Алупка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3563721</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-05-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Всеволод Владимирович Кукушкин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Бийск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3607413</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-08-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Альбина Юрату</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Норваш-Шигали</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3609495</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-02-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Алексеевич Галкин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Аликовский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3609552</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Петрова, Александра Геннадиевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3609552</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-04-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Петрова, Александра Геннадиевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3611795</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-02-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Морозов, Алим Яковлевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Богучарский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3624024</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-01-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Маргарита Анатольевна Пушкина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тбилиси</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3630569</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1963-06-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Алексей Николаевич Варламов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3652531</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-09-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ахвледиани, Эрлом Сергеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тбилиси</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3652531</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-11-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ахвледиани, Эрлом Сергеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тбилиси</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3656851</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-02-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Эдуард Яковлевич Володарский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Харьков</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3735137</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-07-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лисина, Ева Николаевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Батыревский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3739075</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-02-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Палей, Марина Анатольевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3741004</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-09-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Бунич, Игорь Львович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Днепр</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3742671</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-04-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Нина Аркадьевна Шацкая</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Рыбинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3742731</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-07-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Кукин, Юрий Алексеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Сясьстрой</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3744248</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1965-03-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Nina Obrezkova</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кослан</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3744764</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-08-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Альбертина Петровна Иванова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Марийская АССР</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q3785090</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-01-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андреев, Михаил Васильевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Чаинский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1527800</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-05-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ирина Салтыкова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>городской округ Донской</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1528007</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-10-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Игорь Михайлович Бондаренко</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Таганрог</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1530559</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1975-07-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Захар Прилепин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ильинка</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1552348</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-09-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валерий Павлович Афанасьев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1554208</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-03-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Яков Александрович Сегель</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ростов-на-Дону</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1567643</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Olga Kaminer</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Оха</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1601636</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-01-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Рустам Ибрагимбеков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Баку</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1601636</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-02-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Рустам Ибрагимбеков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Баку</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1626575</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1977-01-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Елена Владимировна Ваенга</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Североморск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1635884</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-06-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Вормсбехер, Гуго Густавович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Маркс</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1637045</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-03-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Всеволод Анатольевич Чаплин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1657847</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-08-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Тимур Касимович Зульфикаров</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Душанбе</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1658473</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-03-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Китуп, Илья Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Вильнюс</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1658597</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-10-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Илья Игоревич Лагутенко</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1660403</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-06-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Валерий Золотухин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Быстрый Исток</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1671948</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-03-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Вяткин, Рудольф Всеволодович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Базель</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1676064</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1979-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Герасимчук, Иветта Владимировна</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1686532</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Яковлев, Егор Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1688694</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1967-02-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Евгений Гришковец</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кемерово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1696378</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-09-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Сергей Николаевич Лазарев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ейск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1713894</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-07-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Александрович Гальперин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1713908</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1965-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Ханон</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1754439</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-10-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Григорий Давидович Брускин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1782715</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-02-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Сухарев, Константин Константинович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ачинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1805456</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-03-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Моисеевич Городницкий</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1821953</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-12-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лев Александрович Безыменский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Казань</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1888882</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-02-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Яковлевич Аскольдов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1888882</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-06-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Яковлевич Аскольдов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1895197</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-03-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Маргарита Тупицына</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1898282</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Marina Rumjanzewa</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1900170</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-12-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дворецкий, Марк Израилевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1900207</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-04-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Марк Лазаревич Галлай</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1900820</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-11-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Леонид Петрович Романков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1906804</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-07-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Мария Рольникайте</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Клайпеда</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1906825</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-12-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Гаирбекова, Машидат Гаджиевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Карата</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1930292</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-01-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Рыклин, Михаил Кузьмич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1943650</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-07-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Дмитриевич Дементьев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тверь</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1958166</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-12-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Константин Евгеньевич Кинчев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1959490</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1956-04-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Александр Александрович Бушков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Минусинск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1960014</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-03-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Григорий Горин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1960651</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Леонид Геннадьевич Парфёнов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Череповец</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1960905</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-02-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Драгомощенко, Аркадий Трофимович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Потсдам</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1961302</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-01-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Альберт Константинович Черненко</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новосёлово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1962463</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-12-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Конюхов, Фёдор Филиппович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Чкалово</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1964579</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-10-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шевцова, Лилия Фёдоровна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Львов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1964825</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-08-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Николай Петрович Бурляев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1965002</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-03-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михаил Михайлович Жванецкий</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Одесса</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1965416</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-07-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Диана Арбенина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Воложин</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1967070</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-11-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Светлана Яковлевна Сурганова</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1967089</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1908-10-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Абдурахман Геназович Авторханов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Чечня</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1967697</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-11-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Алексей Викторович Иванов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Нижний Новгород</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1968235</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-12-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Витальевич Мамлеев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1969208</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-10-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Святослав Владимирович Логинов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Уссурийск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1969327</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-06-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Георгий Александрович Балл</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1970444</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-10-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Коренева, Елена Алексеевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1970735</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-11-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Эммануэль Вениаминович Брагинский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1973856</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1965-11-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Богушевская, Ирина Александровна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1974529</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-12-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дубин, Борис Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1974797</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Игорь Николаев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Холмск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1975227</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-12-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ника Георгиевна Турбина</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ялта</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1975649</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-05-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Никита Владимирович Богословский</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1978163</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1956-01-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Николай Иванович Носков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Гагарин</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1978790</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-08-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Невзоров, Александр Глебович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1981049</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-04-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Ирма Яковлевна Рауш</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Саратов</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q689930</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-08-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шойфет, Михаил Семёнович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Вена</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q700555</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-03-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Бондарев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Орск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q704623</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-11-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Арсений Васильевич Ворожейкин</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Городецкий уезд</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q704805</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-01-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Щеглов, Иван Владимирович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Париж</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q705245</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1907-05-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Георгий Филиппович Байдуков</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Остановочная Платформа Тарышта</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q705515</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1963-01-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Михаил Александрович Евстафьев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q706829</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-04-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лев Зиновьевич Копелев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Киев</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q709534</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-11-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Саша Соколов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Оттава</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q712412</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1906-11-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дмитрий Сергеевич Лихачёв</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q716367</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лев Захарович Манович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>США</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q716367</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Лев Захарович Манович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q720655</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-05-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дежнев, Николай Борисович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q720933</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-08-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Громов, Александр Николаевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q720943</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-10-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Андрей Валерьевич Геласимов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Иркутск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q721979</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-01-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Железняков, Александр Борисович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q724323</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-10-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юлиан Семёнов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q725933</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-01-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Аркадий Александрович Вайнер</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q729983</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-11-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Рой Александрович Медведев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Тбилиси</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q732244</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-07-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Аскольд Алексеевич Бажанов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кольский район</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q734874</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-07-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Николаевич Мегре</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Кузничи</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q737626</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-10-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Генрих Саулович Альтшуллер</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Ташкент</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q737922</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-11-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Поляков, Юрий Михайлович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q742786</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1971-02-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Белковский, Станислав Александрович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q750943</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-12-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юлий Черсанович Ким</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q782176</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-12-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Леонид Алексеевич Филатов</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Казань</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q782914</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-07-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дудинцев, Владимир Дмитриевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Купянск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q782914</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-07-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Дудинцев, Владимир Дмитриевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Купянск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q784509</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-04-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Юрий Васильевич Яковлев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q796798</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1978-03-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Пехов, Алексей Юрьевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q834967</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-05-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Борис Львович Васильев</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Смоленск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q842449</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-10-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Новелла Николаевна Матвеева</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Пушкин</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q844501</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-12-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шефнер, Вадим Сергеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q844501</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1915-01-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Шефнер, Вадим Сергеевич</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Санкт-Петербург</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q881747</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1902-05-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Владимир Линденберг</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q887050</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-10-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Садур, Нина Николаевна</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Новосибирск</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q890184</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-12-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='ru'>Жутовский, Борис Иосифович</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='ru'>Москва</literal>
+			</binding>
+		</result>
+	</results>
+<!-- Заявитель: Ушаков-Бельский Матвей Олегович, дата рождения 20.11.1957 --><contacts><person f0="Ушаков-Бельский Матвей Олегович" f1="+7 (959) 852-88-59" f2="p647.8426@mail-demo.example.ru" f3="568409884066" f4="56 91 604441" f5="352-426-570 67" f6="г. Казань, ул. Лермонтовско-Загорская, д. 36, кв. 95"><name>Ушаков-Бельский Матвей Олегович</name></person><person f0="Бирюкова Ксения Олеговна" f1="8 954 2725391" f2="office53@rubezh-demo.example.com" f3="343149002562" f4="2023 272950" f5="265-602-779 88" f6="г. Казань, ул. Колокольная, д. 12, кв. 52"><name>Бирюкова Ксения Олеговна</name></person><person f0="Вересовский Пётр Сергеевич" f1="+79290555415" f2="a.4633@corp-demo.example.org" f3="568409884066" f4="56 91 604441" f5="265-602-779 88" f6="г. Нижний Новгород, ул. Прибрежная Слобода, д. 79, кв. 50"><name>Вересовский Пётр Сергеевич</name></person><person f0="Барсукова Алла Игоревна" f1="8 (495) 111-37-96" f2="p647.8426@mail-demo.example.ru" f3="343149002562" f4="2023 272950" f5="352-426-570 67" f6="г. Казань, ул. Лермонтовско-Загорская, д. 36, кв. 95"><name>Барсукова Алла Игоревна</name></person></contacts><note>Заявитель: Ушаков-Бельский Матвей Олегович, дата рождения 20.11.1957</note><note>Паспорт серия и номер 56 91 604441, СНИЛС 352-426-570 67</note><note>ИНН 568409884066, тел. +7 (959) 852-88-59</note><note>E-mail: p647.8426@mail-demo.example.ru</note><note>Банковская карта 4276 8283 5251 0861</note><note>Бирюкова К.О. (8 954 2725391)</note><note>Представитель: Бирюкова Ксения Олеговна, паспорт 2023 272950, СНИЛС 265-602-779 88</note><note>ООО «Вектор-Альфа», ИНН 9784340570, КПП 774503001, ОГРН 1502945361335</note><note>Юридический адрес: г. Казань, ул. Лермонтовско-Загорская, д. 36, кв. 95</note><note>Расчётный счёт 40702810968510319184 в банке, БИК 040859112, корр. счёт 30101810609148369968</note><note>Директор АО «Техносфера-М» Вересовский Пётр Сергеевич, ИНН 343149002562, моб. +79290555415</note><note>Контакт: office53@rubezh-demo.example.com, офис 8 (495) 111-37-96</note><note>Адрес регистрации: г. Казань, ул. Колокольная, д. 12, кв. 52</note><note>Адрес проживания: г. Нижний Новгород, ул. Прибрежная Слобода, д. 79, кв. 50</note><note>ПАО «Альтаир Логистик Холдинг», ИНН 3199480585, КПП 168402001, ОГРН 1443075735300, БИК 043911332</note><note>Карта второго держателя 5536 8666 1154 9658, счёт физлица 40817810046964172089</note><note>Автомобиль: госномер Х803ТС 77</note><note>Сервер 10.203.195.42, резервный 192.168.196.215, админ a.4633@corp-demo.example.org</note><note>API key: sk_live_914046Zq37277696Xw</note><note>password = Rv773!kd6943Pm</note><note>Подписант Вересовский П.С., дата рождения 21.06.1974</note><note>Ответственный: Барсукова Алла Игоревна / Барсукова А.И.</note><note>Свидетель Остапчук Константин Павлович</note><raw><![CDATA[Настоящий договор заключён между ООО «Вектор-Альфа» (ИНН 9784340570, КПП 774503001), в лице директора Вересовский Пётр Сергеевич, и гражданином Ушаков-Бельский Матвей Олегович, 20.11.1957 года рождения, паспорт 56 91 604441, проживающим по адресу: г. Казань, ул. Колокольная, д. 12, кв. 52. | Оплата производится на расчётный счёт 40702810968510319184 в банке с БИК 040859112, корреспондентский счёт 30101810609148369968. Уведомления направлять на office53@rubezh-demo.example.com или по телефону +7 (959) 852-88-59. | Копию паспорта Бирюкова Ксения Олеговна (2023 272950), СНИЛС 265-602-779 88 и ИНН 343149002562 приложить к заявлению. С Ушаков-Бельский М.О. связаться по 8 954 2725391. | Переписка: «Добрый день, Алла Игоревна! Направляю реквизиты ПАО «Альтаир Логистик Холдинг»: ОГРН 1443075735300, ИНН 3199480585. Карта для возврата 4276 8283 5251 0861».]]></raw></sparql>

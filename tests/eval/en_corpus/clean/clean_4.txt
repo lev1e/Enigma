@@ -1,0 +1,3 @@
+Release Notes 2.4
+
+New: Dark Mode, Faster Search, Export to PDF. Fixed: Login Page crash on Safari. Known issues: the Dashboard may be slow on Windows. Thanks to all Contributors. See the Changelog for details, and the Roadmap for what comes Next.

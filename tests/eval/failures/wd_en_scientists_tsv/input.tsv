@@ -1,0 +1,323 @@
+?p	?pLabel	?birth	?placeLabel
+<http://www.wikidata.org/entity/Q723263>	"Bernard Lown"@en	"1921-06-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Utena"@en
+<http://www.wikidata.org/entity/Q729661>	"Jerome Wiesner"@en	"1915-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Detroit"@en
+<http://www.wikidata.org/entity/Q827502>	"Bert Vogelstein"@en	"1949-06-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Baltimore"@en
+<http://www.wikidata.org/entity/Q828523>	"Charles Pence Slichter"@en	"1924-01-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ithaca"@en
+<http://www.wikidata.org/entity/Q891710>	"Stephen Friend"@en	"1953-12-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Stamford"@en
+<http://www.wikidata.org/entity/Q899453>	"John D. Clark"@en	"1907-08-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Fairbanks"@en
+<http://www.wikidata.org/entity/Q903471>	"Martin Karplus"@en	"1930-03-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vienna"@en
+<http://www.wikidata.org/entity/Q920841>	"Robert Dilts"@en	"1955-03-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"United States"@en
+<http://www.wikidata.org/entity/Q930425>	"Clay Shirky"@en	"1964-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Columbia"@en
+<http://www.wikidata.org/entity/Q948447>	"Leon Kass"@en	"1939-02-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q948447>	"Leon Kass"@en	"1939-02-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q954243>	"Eric J. Heller"@en	"1946-01-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Washington, D.C."@en
+<http://www.wikidata.org/entity/Q981045>	"Jonah Lehrer"@en	"1981-06-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Los Angeles"@en
+<http://www.wikidata.org/entity/Q983450>	"Siddhartha Mukherjee"@en	"1970-07-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New Delhi"@en
+<http://www.wikidata.org/entity/Q984089>	"Mitchell Joachim"@en	"1972-02-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New Jersey"@en
+<http://www.wikidata.org/entity/Q986622>	"Brian O'Leary"@en	"1940-01-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Boston"@en
+<http://www.wikidata.org/entity/Q1027328>	"Callista Roy"@en	"1939-10-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Los Angeles"@en
+<http://www.wikidata.org/entity/Q1101405>	"Ferenc A. Jolesz"@en	"1946-04-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Budapest"@en
+<http://www.wikidata.org/entity/Q1140555>	"Paul Mockapetris"@en	"1948-11-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Boston"@en
+<http://www.wikidata.org/entity/Q1174286>	"David E. Kuhl"@en	"1929-10-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"St. Louis"@en
+<http://www.wikidata.org/entity/Q1189220>	"Dennis J. Selkoe"@en	"1943-09-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1202177>	"Owen Gingerich"@en	"1930-03-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Washington"@en
+<http://www.wikidata.org/entity/Q1248240>	"Thomas E. Starzl"@en	"1926-03-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Le Mars"@en
+<http://www.wikidata.org/entity/Q1283735>	"Neil L. Rudenstine"@en	"1935-01-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Danbury"@en
+<http://www.wikidata.org/entity/Q1307585>	"Paul-Émile Victor"@en	"1907-06-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Geneva"@en
+<http://www.wikidata.org/entity/Q1307585>	"Paul-Émile Victor"@en	"1907-06-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Lons-le-Saunier"@en
+<http://www.wikidata.org/entity/Q1310291>	"Q1310291"	"1920-02-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Akron"@en
+<http://www.wikidata.org/entity/Q1314693>	"Martha Woodmansee"@en	"1944-12-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1322956>	"James F. Kasting"@en	"1953-01-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Schenectady"@en
+<http://www.wikidata.org/entity/Q1339014>	"Emmy Werner"@en	"1929-05-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Eltville am Rhein"@en
+<http://www.wikidata.org/entity/Q1367762>	"Thomas O. Paine"@en	"1921-11-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Berkeley"@en
+<http://www.wikidata.org/entity/Q1368901>	"Thomas Mancuso"@en	"1912-02-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1389687>	"Kenneth H. Cooper"@en	"1931-03-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Oklahoma City"@en
+<http://www.wikidata.org/entity/Q1390215>	"Robert Ledley"@en	"1926-06-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Flushing"@en
+<http://www.wikidata.org/entity/Q1391370>	"Heinz Pagels"@en	"1939-02-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1398876>	"Joseph Frederick Engelberger"@en	"1925-07-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1416952>	"Georg Luck"@en	"1926-02-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Bern"@en
+<http://www.wikidata.org/entity/Q1427817>	"Tingye Li"@en	"1931-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Nanjing"@en
+<http://www.wikidata.org/entity/Q1440708>	"Fran Ulmer"@en	"1947-02-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Madison"@en
+<http://www.wikidata.org/entity/Q1443483>	"Frank J. Dixon"@en	"1920-03-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Saint Paul"@en
+<http://www.wikidata.org/entity/Q1507321>	"George F. Cahill, Jr."@en	"1927-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1509875>	"Gerald G. Jampolsky"@en	"1925-02-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Long Beach"@en
+<http://www.wikidata.org/entity/Q1525437>	"Ludwik Gross"@en	"1904-09-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Poland"@en
+<http://www.wikidata.org/entity/Q1525437>	"Ludwik Gross"@en	"1904-09-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Kraków"@en
+<http://www.wikidata.org/entity/Q1561795>	"Peter Krapp"@en	"1970-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q1574525>	"Naomi Feil"@en	"1932-07-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Munich"@en
+<http://www.wikidata.org/entity/Q1631740>	"Howard Charles Goodman"@en	"1920-07-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Rochester"@en
+<http://www.wikidata.org/entity/Q1661230>	"Richard C. Hoagland"@en	"1945-04-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Morristown"@en
+<http://www.wikidata.org/entity/Q1667755>	"Alfred Sommer"@en	"1942-10-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1700314>	"John Jackson"@en	"1932-04-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Kansas City"@en
+<http://www.wikidata.org/entity/Q1701279>	"John O'Keefe"@en	"1939-11-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q1701476>	"John C. Priscu"@en	"1952-09-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Las Vegas"@en
+<http://www.wikidata.org/entity/Q1722163>	"Marjorie Senechal"@en	"1939-07-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"St. Louis"@en
+<http://www.wikidata.org/entity/Q1744292>	"Michael Peskin"@en	"1951-10-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Philadelphia"@en
+<http://www.wikidata.org/entity/Q1788548>	"Robert F. Christy"@en	"1916-05-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vancouver"@en
+<http://www.wikidata.org/entity/Q1820381>	"Leroy Hood"@en	"1938-10-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Missoula"@en
+<http://www.wikidata.org/entity/Q2038512>	"Otto Donner"@en	"1902-04-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Berlin"@en
+<http://www.wikidata.org/entity/Q2040005>	"Francis Everitt"@en	"1934-03-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Sevenoaks"@en
+<http://www.wikidata.org/entity/Q2058948>	"Paul Bohannan"@en	"1920-03-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Lincoln"@en
+<http://www.wikidata.org/entity/Q2059366>	"Paul E. Meehl"@en	"1920-01-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Minneapolis"@en
+<http://www.wikidata.org/entity/Q2145325>	"Robert John Soreng"@en	"1952-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Evanston"@en
+<http://www.wikidata.org/entity/Q2149560>	"Richard Garwin"@en	"1928-04-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Cleveland"@en
+<http://www.wikidata.org/entity/Q2156727>	"Robert Cade"@en	"1927-09-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Antonio"@en
+<http://www.wikidata.org/entity/Q2157943>	"Robert L. Folk"@en	"1925-09-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Cleveland"@en
+<http://www.wikidata.org/entity/Q334760>	"Shing-Tung Yau"@en	"1949-04-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Shantou"@en
+<http://www.wikidata.org/entity/Q338083>	"Mete Sözen"@en	"1930-05-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Turkey"@en
+<http://www.wikidata.org/entity/Q338083>	"Mete Sözen"@en	"1930-05-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Istanbul"@en
+<http://www.wikidata.org/entity/Q350468>	"J. Allen Hynek"@en	"1910-05-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q356638>	"Fred Irvin Diamond"@en	"1964-11-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q360445>	"Nick Holonyak"@en	"1928-11-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Zeigler"@en
+<http://www.wikidata.org/entity/Q365578>	"Nathan Myhrvold"@en	"1959-08-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Seattle"@en
+<http://www.wikidata.org/entity/Q372215>	"Walter Cunningham"@en	"1932-03-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Creston"@en
+<http://www.wikidata.org/entity/Q432929>	"Andrew Grove"@en	"1936-09-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"United States"@en
+<http://www.wikidata.org/entity/Q432929>	"Andrew Grove"@en	"1936-09-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Budapest"@en
+<http://www.wikidata.org/entity/Q435001>	"Xiangzhong Yang"@en	"1959-07-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"People's Republic of China"@en
+<http://www.wikidata.org/entity/Q435188>	"Dorothea Orem"@en	"1914-07-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Baltimore"@en
+<http://www.wikidata.org/entity/Q437599>	"Todd Stern"@en	"1951-05-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q445338>	"Stephen Kuffler"@en	"1913-08-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Austria–Hungary"@en
+<http://www.wikidata.org/entity/Q450317>	"Chien-Shiung Wu"@en	"1912-05-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Taicang"@en
+<http://www.wikidata.org/entity/Q454146>	"Amanda Simpson"@en	"1961-03-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q459171>	"Judith Reisman"@en	"1935-04-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Newark"@en
+<http://www.wikidata.org/entity/Q459333>	"Michael Newton"@en	"1931-12-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Hollywood"@en
+<http://www.wikidata.org/entity/Q464166>	"Kathryn D. Sullivan"@en	"1951-10-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Paterson"@en
+<http://www.wikidata.org/entity/Q469231>	"Dorothy Hansine Andersen"@en	"1901-05-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Asheville"@en
+<http://www.wikidata.org/entity/Q469371>	"Henry Heimlich"@en	"1920-02-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Wilmington"@en
+<http://www.wikidata.org/entity/Q469551>	"Riane Eisler"@en	"1931-07-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vienna"@en
+<http://www.wikidata.org/entity/Q493956>	"Andrea M. Ghez"@en	"1965-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q504677>	"Robert Zubrin"@en	"1952-04-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q504677>	"Robert Zubrin"@en	"1952-04-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q504677>	"Robert Zubrin"@en	"1952-04-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Lakewood"@en
+<http://www.wikidata.org/entity/Q504677>	"Robert Zubrin"@en	"1952-04-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Lakewood"@en
+<http://www.wikidata.org/entity/Q513559>	"Richard A. Muller"@en	"1944-01-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Francisco"@en
+<http://www.wikidata.org/entity/Q516774>	"Stuart Hameroff"@en	"1947-07-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Buffalo"@en
+<http://www.wikidata.org/entity/Q526247>	"Jeff Cheeger"@en	"1943-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q526247>	"Jeff Cheeger"@en	"1943-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Brooklyn"@en
+<http://www.wikidata.org/entity/Q534027>	"Tamara Braun"@en	"1971-04-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Evanston"@en
+<http://www.wikidata.org/entity/Q535664>	"Janet Biehl"@en	"1953-09-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q539791>	"William Perry"@en	"1927-10-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vandergrift"@en
+<http://www.wikidata.org/entity/Q548185>	"Moshe Arens"@en	"1925-12-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Kaunas"@en
+<http://www.wikidata.org/entity/Q552938>	"Telford Taylor"@en	"1908-02-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Schenectady"@en
+<http://www.wikidata.org/entity/Q560847>	"Jim Simons"@en	"1938-04-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Newton"@en
+<http://www.wikidata.org/entity/Q561458>	"Henry Louis Gates, Jr."@en	"1950-09-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Keyser"@en
+<http://www.wikidata.org/entity/Q568161>	"David Kay"@en	"1940-06-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Houston"@en
+<http://www.wikidata.org/entity/Q578036>	"Ron Rivest"@en	"1947-05-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Schenectady"@en
+<http://www.wikidata.org/entity/Q596590>	"Louis Nirenberg"@en	"1925-02-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Hamilton"@en
+<http://www.wikidata.org/entity/Q611121>	"Morton Deutsch"@en	"1920-02-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q623624>	"T. Keith Glennan"@en	"1905-09-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Enderlin"@en
+<http://www.wikidata.org/entity/Q649387>	"John Gamble Kirkwood"@en	"1907-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Oklahoma"@en
+<http://www.wikidata.org/entity/Q672122>	"Arkadi Nemirovski"@en	"1947-03-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Moscow"@en
+<http://www.wikidata.org/entity/Q677597>	"Charles A. Becker"@en	"1925-02-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Florida"@en
+<http://www.wikidata.org/entity/Q7468>	"Catherine Coleman"@en	"1960-12-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Charleston"@en
+<http://www.wikidata.org/entity/Q11757>	"Janet Kolodner"@en	"1954-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q16389>	"Charles K. Kao"@en	"1933-11-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Shanghai"@en
+<http://www.wikidata.org/entity/Q27507>	"Frank Malina"@en	"1912-10-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Brenham"@en
+<http://www.wikidata.org/entity/Q45305>	"Barys Kit"@en	"1910-04-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Saint Petersburg"@en
+<http://www.wikidata.org/entity/Q49618>	"James Rhyne Killian"@en	"1904-07-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Blacksburg"@en
+<http://www.wikidata.org/entity/Q55175>	"Sheila Widnall"@en	"1938-07-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Tacoma"@en
+<http://www.wikidata.org/entity/Q55220>	"Donna Nelson"@en	"1954-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Eufaula"@en
+<http://www.wikidata.org/entity/Q56181>	"Rebecca W. Keller"@en	"1901-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q57100>	"Maria Göppert Mayer"@en	"1906-06-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Katowice"@en
+<http://www.wikidata.org/entity/Q73058>	"Willard Boyle"@en	"1924-08-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Amherst"@en
+<http://www.wikidata.org/entity/Q76373>	"George E. Smith"@en	"1930-05-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"White Plains"@en
+<http://www.wikidata.org/entity/Q78608>	"Carl Djerassi"@en	"1923-10-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vienna"@en
+<http://www.wikidata.org/entity/Q80553>	"Norman Johnson"@en	"1930-11-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q83333>	"James Watson"@en	"1928-04-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q92646>	"John Henry Holland"@en	"1929-02-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Fort Wayne"@en
+<http://www.wikidata.org/entity/Q92778>	"J. C. R. Licklider"@en	"1915-03-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"St. Louis"@en
+<http://www.wikidata.org/entity/Q92826>	"Terry Winograd"@en	"1946-02-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Takoma Park"@en
+<http://www.wikidata.org/entity/Q95663>	"Walter Haeussermann"@en	"1914-03-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Künzelsau"@en
+<http://www.wikidata.org/entity/Q101728>	"Michael Rossmann"@en	"1930-07-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Frankfurt"@en
+<http://www.wikidata.org/entity/Q101740>	"Benoit Mandelbrot"@en	"1924-11-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Warsaw"@en
+<http://www.wikidata.org/entity/Q104592>	"Bruce Beutler"@en	"1957-12-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q106746>	"Richard Smalley"@en	"1943-06-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Akron"@en
+<http://www.wikidata.org/entity/Q107420>	"Sheldon Glashow"@en	"1932-12-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q108886>	"Harrison Schmitt"@en	"1935-07-03T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Santa Rita"@en
+<http://www.wikidata.org/entity/Q110106>	"Julius Axelrod"@en	"1912-05-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q117217>	"Hans R. Camenzind"@en	"1934-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Zurich"@en
+<http://www.wikidata.org/entity/Q132537>	"Q132537"	"1904-04-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Manhattan"@en
+<http://www.wikidata.org/entity/Q139890>	"Zack Snyder"@en	"1966-03-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Green Bay"@en
+<http://www.wikidata.org/entity/Q155794>	"Hans Bethe"@en	"1906-07-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Strasbourg"@en
+<http://www.wikidata.org/entity/Q157245>	"Michael Spence"@en	"1943-11-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Montclair"@en
+<http://www.wikidata.org/entity/Q162209>	"Bernice Johnson Reagon"@en	"1942-10-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Dougherty County"@en
+<http://www.wikidata.org/entity/Q168041>	"Zbigniew Brzezinski"@en	"1928-03-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Warsaw"@en
+<http://www.wikidata.org/entity/Q168963>	"Zdeněk Bažant"@en	"1937-12-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Prague"@en
+<http://www.wikidata.org/entity/Q182522>	"George H. Heilmeier"@en	"1936-05-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Philadelphia"@en
+<http://www.wikidata.org/entity/Q185007>	"Rita Levi-Montalcini"@en	"1909-04-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Turin"@en
+<http://www.wikidata.org/entity/Q186042>	"John Kenneth Galbraith"@en	"1908-10-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Iona Station"@en
+<http://www.wikidata.org/entity/Q192688>	"Ivar Giæver"@en	"1929-04-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Bergen"@en
+<http://www.wikidata.org/entity/Q203243>	"Leonard Susskind"@en	"1940-05-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q206679>	"Joseph Epes Brown"@en	"1920-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ridgefield"@en
+<http://www.wikidata.org/entity/Q213553>	"Raul Hilberg"@en	"1926-06-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vienna"@en
+<http://www.wikidata.org/entity/Q214475>	"Ayaan Hirsi Ali"@en	"1969-11-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Mogadishu"@en
+<http://www.wikidata.org/entity/Q216080>	"Emile Zuckerkandl"@en	"1922-07-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Vienna"@en
+<http://www.wikidata.org/entity/Q222122>	"Dean Baker"@en	"1958-07-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"United States"@en
+<http://www.wikidata.org/entity/Q233957>	"Severo Ochoa"@en	"1905-09-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ḷḷuarca"@en
+<http://www.wikidata.org/entity/Q234357>	"Stanisław Ulam"@en	"1909-04-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Lviv"@en
+<http://www.wikidata.org/entity/Q234888>	"Vera Rubin"@en	"1928-07-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Philadelphia"@en
+<http://www.wikidata.org/entity/Q239419>	"Saskia Sassen"@en	"1947-01-05T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"The Hague"@en
+<http://www.wikidata.org/entity/Q249115>	"Benedict Gross"@en	"1950-06-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"South Orange"@en
+<http://www.wikidata.org/entity/Q269002>	"Tatiana Proskouriakoff"@en	"1909-01-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Tomsk"@en
+<http://www.wikidata.org/entity/Q272492>	"Diana Gabaldon"@en	"1952-01-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Scottsdale"@en
+<http://www.wikidata.org/entity/Q272492>	"Diana Gabaldon"@en	"1952-01-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Williams"@en
+<http://www.wikidata.org/entity/Q298341>	"Raymond Kurzweil"@en	"1948-02-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Queens"@en
+<http://www.wikidata.org/entity/Q317953>	"Lawrence Summers"@en	"1954-11-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New Haven"@en
+<http://www.wikidata.org/entity/Q319383>	"Martin Cooper"@en	"1928-12-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q329004>	"Gary Hamel"@en	"1954-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q334361>	"Gregory Goodwin Pincus"@en	"1903-04-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Woodbine"@en
+<http://www.wikidata.org/entity/Q3177422>	"Jerome Pearson"@en	"1938-04-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Texarkana"@en
+<http://www.wikidata.org/entity/Q3182175>	"John Niederhauser"@en	"1916-09-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Seattle"@en
+<http://www.wikidata.org/entity/Q3182750>	"John W. Daly"@en	"1933-06-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Portland"@en
+<http://www.wikidata.org/entity/Q3188007>	"Judith Rodin"@en	"1944-09-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Philadelphia"@en
+<http://www.wikidata.org/entity/Q3244789>	"Jim B. Tucker"@en	"1960-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"North Carolina"@en
+<http://www.wikidata.org/entity/Q3246321>	"Bruce Greyson"@en	"1946-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3298995>	"George M. Church"@en	"1954-08-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"MacDill Air Force Base"@en
+<http://www.wikidata.org/entity/Q3319412>	"Virginia E. Johnson"@en	"1925-02-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Springfield"@en
+<http://www.wikidata.org/entity/Q3327412>	"Peiter Zatko"@en	"1970-12-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Boston"@en
+<http://www.wikidata.org/entity/Q3656636>	"Carol Rosin"@en	"1944-03-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Wilmington"@en
+<http://www.wikidata.org/entity/Q3666619>	"C. Wilfred Griggs"@en	"1942-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q3710467>	"Irving Adler"@en	"1913-04-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Q189074"
+<http://www.wikidata.org/entity/Q3898003>	"Paul Anastas"@en	"1962-05-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Quincy"@en
+<http://www.wikidata.org/entity/Q4072104>	"Samuel DeCoster Atkins"@en	"1910-10-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Madison"@en
+<http://www.wikidata.org/entity/Q4118502>	"Mahmoud Saeed"@en	"1939-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Mosul"@en
+<http://www.wikidata.org/entity/Q4119494>	"Floyd E. Bloom"@en	"1936-10-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Minneapolis"@en
+<http://www.wikidata.org/entity/Q4132683>	"Eugene V. Gallagher"@en	"1950-06-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Connecticut"@en
+<http://www.wikidata.org/entity/Q4275960>	"Jane Dammen McAuliffe"@en	"1944-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4289173>	"Joseph Meites"@en	"1913-12-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chișinău"@en
+<http://www.wikidata.org/entity/Q4315552>	"Arkady Nebolsin"@en	"1932-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Montreux"@en
+<http://www.wikidata.org/entity/Q4340904>	"Joseph T. O'Connell"@en	"1940-06-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Boston"@en
+<http://www.wikidata.org/entity/Q4346994>	"Randy Gardner"@en	"1946-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Diego"@en
+<http://www.wikidata.org/entity/Q4394988>	"Jeffrey T. Richelson"@en	"1949-12-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q4405239>	"Dimitri Simes"@en	"1947-10-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Moscow"@en
+<http://www.wikidata.org/entity/Q4405759>	"Rudolf Salganik"@en	"1923-06-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Kyiv"@en
+<http://www.wikidata.org/entity/Q4143891>	"Geoffrey Gordon"@en	"1924-05-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"England"@en
+<http://www.wikidata.org/entity/Q4155286>	"Joseph Jackson Downing"@en	"1924-03-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Norman"@en
+<http://www.wikidata.org/entity/Q4156921>	"Genrikh Deych"@en	"1913-11-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Dokshytsy"@en
+<http://www.wikidata.org/entity/Q4160526>	"Jay Stillson Judah"@en	"1911-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Leavenworth"@en
+<http://www.wikidata.org/entity/Q4161743>	"Edward Cameron Dimock"@en	"1929-03-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4163158>	"Robley Cook Williams"@en	"1908-10-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Santa Rosa"@en
+<http://www.wikidata.org/entity/Q4192488>	"Boris Zlotin"@en	"1946-12-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Saint Petersburg"@en
+<http://www.wikidata.org/entity/Q4211656>	"George Baker Cummins"@en	"1904-08-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Nebraska"@en
+<http://www.wikidata.org/entity/Q4215550>	"Gerald Carney"@en	"1944-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Brooklyn"@en
+<http://www.wikidata.org/entity/Q4219444>	"Karl Walton Kenyon"@en	"1918-02-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"La Jolla"@en
+<http://www.wikidata.org/entity/Q4224613>	"Anatole Klyosov"@en	"1946-11-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chernyakhovsk"@en
+<http://www.wikidata.org/entity/Q4234456>	"Alexander Korchak"@en	"1922-04-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q4241434>	"Kenneth R. Valpey"@en	"1950-12-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q5195702>	"Curtis Carlson"@en	"1945-05-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Providence"@en
+<http://www.wikidata.org/entity/Q5200054>	"Cynthia E. Rosenzweig"@en	"1958-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5203734>	"D. Mark Hegsted"@en	"1914-03-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Rexburg"@en
+<http://www.wikidata.org/entity/Q5212898>	"Damon Wilson"@en	"1973-05-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Charleston"@en
+<http://www.wikidata.org/entity/Q5214706>	"Dana D. Nelson"@en	"1962-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"United States"@en
+<http://www.wikidata.org/entity/Q5216328>	"Daniel A Farber"@en	"1950-07-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q5216556>	"Daniel Bernardi"@en	"1964-06-16T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Juan"@en
+<http://www.wikidata.org/entity/Q5217489>	"Daniel Hillel"@en	"1930-09-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Los Angeles"@en
+<http://www.wikidata.org/entity/Q5217762>	"Daniel Kammen"@en	"1962-02-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5219136>	"Daniel Yankelovich"@en	"1924-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Boston"@en
+<http://www.wikidata.org/entity/Q5225445>	"Darryl S. Inaba"@en	"1946-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Denver"@en
+<http://www.wikidata.org/entity/Q5230919>	"David August"@en	"1970-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Troy"@en
+<http://www.wikidata.org/entity/Q5231010>	"David B. Williams"@en	"1949-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5231757>	"David Britz"@en	"1980-11-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5231992>	"David C. Baldus"@en	"1935-06-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Wheeling"@en
+<http://www.wikidata.org/entity/Q5232807>	"David Dalrymple"@en	"1991-07-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5232829>	"David Dausey"@en	"1975-06-13T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Pittsburgh"@en
+<http://www.wikidata.org/entity/Q5233215>	"David E. Sweet"@en	"1933-07-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Holyoke"@en
+<http://www.wikidata.org/entity/Q5233509>	"Q5233509"	"1968-08-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"King County"@en
+<http://www.wikidata.org/entity/Q5233944>	"David G. Rand"@en	"1982-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Berkeley"@en
+<http://www.wikidata.org/entity/Q5235117>	"David Holt"@en	"1946-10-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Gatesville"@en
+<http://www.wikidata.org/entity/Q5236219>	"David L. Kirp"@en	"1944-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5236898>	"David M. Brienza"@en	"1964-10-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New Rochelle"@en
+<http://www.wikidata.org/entity/Q5237524>	"David Merritt"@en	"1955-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5239430>	"David Salsburg"@en	"1931-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5240610>	"David Vanderbilt"@en	"1954-08-20T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Huntington"@en
+<http://www.wikidata.org/entity/Q5246441>	"Dean Roden Chapman"@en	"1922-03-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5248148>	"Debora Shuger"@en	"1953-12-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Manhattan"@en
+<http://www.wikidata.org/entity/Q5248148>	"Debora Shuger"@en	"1953-12-15T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Stuyvesant Town—Peter Cooper Village"@en
+<http://www.wikidata.org/entity/Q5248393>	"Deborah Temkin"@en	"1985-08-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Tucson"@en
+<http://www.wikidata.org/entity/Q5250520>	"Deepak Pandya"@en	"1932-12-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5253541>	"Delbert Philpott"@en	"1923-09-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Omro"@en
+<http://www.wikidata.org/entity/Q5258702>	"Dennis McCarthy"@en	"1942-09-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5259058>	"Dennis Weatherby"@en	"1959-12-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Brighton"@en
+<http://www.wikidata.org/entity/Q5275089>	"Dieter Grau"@en	"1913-04-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Berlin"@en
+<http://www.wikidata.org/entity/Q5294310>	"Donald Engelman"@en	"1941-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5296399>	"Donna M. Hughes"@en	"1954-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Pennsylvania"@en
+<http://www.wikidata.org/entity/Q5298034>	"Dork Sahagian"@en	"1954-01-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Pennsylvania"@en
+<http://www.wikidata.org/entity/Q5316855>	"Dusan Krajcinovic"@en	"1935-03-28T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Zagreb"@en
+<http://www.wikidata.org/entity/Q5321808>	"E. Converse Peirce 2nd"@en	"1917-10-09T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5335389>	"Ed Seykota"@en	"1946-08-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5337184>	"Edgar M. Cortright"@en	"1923-07-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Hastings"@en
+<http://www.wikidata.org/entity/Q5343595>	"Edward Imwinkelried"@en	"1945-09-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Francisco"@en
+<http://www.wikidata.org/entity/Q5344028>	"Edward L. Schneider"@en	"1940-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5345944>	"Edward Wilson Merrill"@en	"1923-08-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New Bedford"@en
+<http://www.wikidata.org/entity/Q5346592>	"Edwin L. Moore"@en	"1916-05-26T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Winter Haven"@en
+<http://www.wikidata.org/entity/Q5354222>	"Eleanor Blum"@en	"1909-03-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5360194>	"Eli Coleman"@en	"1948-08-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Buffalo"@en
+<http://www.wikidata.org/entity/Q5363183>	"Elizabeth May McClintock"@en	"1912-07-07T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Los Angeles"@en
+<http://www.wikidata.org/entity/Q5372851>	"Emma Hwang"@en	"1970-07-21T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Taiwan"@en
+<http://www.wikidata.org/entity/Q5387687>	"Eric W. Kaler"@en	"1956-09-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Rancho Mirage"@en
+<http://www.wikidata.org/entity/Q5392003>	"Morris Goodman"@en	"1925-01-12T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Milwaukee"@en
+<http://www.wikidata.org/entity/Q5407190>	"Eugene E. Covert"@en	"1926-02-06T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Rapid City"@en
+<http://www.wikidata.org/entity/Q5407905>	"Eugenia Kalnay"@en	"1942-10-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Buenos Aires"@en
+<http://www.wikidata.org/entity/Q5416351>	"Evelyn J. Fields"@en	"1949-01-29T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Norfolk"@en
+<http://www.wikidata.org/entity/Q5423934>	"F. James Rutherford"@en	"1924-07-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Stockton"@en
+<http://www.wikidata.org/entity/Q5434429>	"Q5434429"	"1924-10-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5441680>	"Felice Frankel"@en	"1945-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Brooklyn"@en
+<http://www.wikidata.org/entity/Q5486423>	"Frank Edward Young"@en	"1931-09-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Mineola"@en
+<http://www.wikidata.org/entity/Q5491671>	"Franklin M. Loew"@en	"1939-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Syracuse"@en
+<http://www.wikidata.org/entity/Q5498040>	"Frederick Hitz"@en	"1939-10-14T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5498084>	"Frederick I. Ordway III"@en	"1927-04-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"New York City"@en
+<http://www.wikidata.org/entity/Q5508264>	"Fuller W. Bazer"@en	"1938-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5523720>	"Garo H. Armen"@en	"1953-01-31T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Istanbul"@en
+<http://www.wikidata.org/entity/Q5525406>	"Gary L. Gregg"@en	"1967-10-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q5535951>	"George A. Economou"@en	"1923-06-24T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Manchester"@en
+<http://www.wikidata.org/entity/Q5538327>	"George D. Schwab"@en	"1931-11-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Latvia"@en
+<http://www.wikidata.org/entity/Q5538888>	"George Edward Pendray"@en	"1901-05-19T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Omaha"@en
+<http://www.wikidata.org/entity/Q5539146>	"George F. Stewart"@en	"1908-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Mesa"@en
+<http://www.wikidata.org/entity/Q5540000>	"George H. Burgess"@en	"1949-01-23T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Oklahoma City"@en
+<http://www.wikidata.org/entity/Q5540028>	"George H. Goble"@en	"1952-12-11T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Centerville"@en
+<http://www.wikidata.org/entity/Q5541963>	"George M. Martin"@en	"1927-06-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6793405>	"Q6793405"	"1918-02-10T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Saskatchewan"@en
+<http://www.wikidata.org/entity/Q6824096>	"Q6824096"	"1970-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6829625>	"Michael D. Cohen"@en	"1945-03-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Sheridan"@en
+<http://www.wikidata.org/entity/Q6830399>	"Michael Francis Gibson"@en	"1929-07-18T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6831066>	"Michael Heller"@en	"1962-07-30T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6832487>	"Michael Manga"@en	"1968-07-22T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Hamilton"@en
+<http://www.wikidata.org/entity/Q6832653>	"Michael Earl McCullough"@en	"1969-07-27T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6832669>	"Michael McElroy"@en	"1939-05-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6834165>	"Michael Scharf"@en	"1963-04-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Shaker Heights"@en
+<http://www.wikidata.org/entity/Q6844772>	"Miguel Rodríguez"@en	"1952-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Santurce"@en
+<http://www.wikidata.org/entity/Q6844776>	"Miguel Roman"@en	"1981-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Juan"@en
+<http://www.wikidata.org/entity/Q6861424>	"Milton Rosen"@en	"1915-07-25T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Philadelphia"@en
+<http://www.wikidata.org/entity/Q6873408>	"Miriam Rodon Naveira"@en	"1963-04-02T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Juan"@en
+<http://www.wikidata.org/entity/Q6913770>	"Morris Kleiner"@en	"1948-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q6982858>	"Nawal M. Nour"@en	"1966-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Khartoum"@en
+<http://www.wikidata.org/entity/Q7000292>	"Nets Katz"@en	"1972-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7000292>	"Nets Katz"@en	"1973-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	
+<http://www.wikidata.org/entity/Q7023075>	"Nguyet Anh Duong"@en	"1960-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Ho Chi Minh City"@en
+<http://www.wikidata.org/entity/Q7025569>	"Nicholas Hughes"@en	"1962-01-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"North Tawton"@en
+<http://www.wikidata.org/entity/Q7026471>	"Nicholas De Genova"@en	"1968-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Chicago"@en
+<http://www.wikidata.org/entity/Q7026817>	"Nick Bruno"@en	"1951-06-04T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Independence"@en
+<http://www.wikidata.org/entity/Q7041616>	"Nitza Margarita Cintron"@en	"1950-08-17T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"San Juan"@en
+<http://www.wikidata.org/entity/Q7088836>	"Olufunmilayo Olopade"@en	"1957-01-01T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>	"Nigeria"@en
+
+Name	Phone	Email	SSN	Passport	Address
+Oliver D. Castellanos	+44 20 7186 8518	oliver.castellanos86@demo-mail.example.com	380-54-6334	244383585	3816 Larkspur Way, Portland
+Grace M. Okonkwo	(415) 555-6503	billing94@halcyon-demo.example.org	201-23-8783	C45313597	2233 Calloway Court, Leeds
+John E. Whitfield	+1-212-555-7254	jwhitfield207@corp-demo.example.net	380-54-6334	244383585	1149 Fenwick Street, Dunedin
+Applicant: Oliver D. Castellanos, date of birth 07/02/1991	Oliver D. Castellanos, date of birth 07/02/1991
+Phone: +44 20 7186 8518  Email: oliver.castellanos86@demo-mail.example.com	oliver.castellanos86@demo-mail.example.com
+Card 5500 2823 9429 7040, passport no. 244383585	Card 5500 2823 9429 7040, passport no. 244383585
+SSN 380-54-6334; alt. contact Okonkwo, Grace	SSN 380-54-6334; alt. contact Okonkwo, Grace
+Quillfeather Labs, 3816 Larkspur Way, Portland	Quillfeather Labs, 3816 Larkspur Way, Portland
+Wire to IBAN GB63NWBK26625025753165, attn John E. Whitfield	Wire to IBAN GB63NWBK26625025753165, attn John E. Whitfield
+Customer: Priya Abernathy <billing94@halcyon-demo.example.org> tel (415) 555-6503	Priya Abernathy <billing94@halcyon-demo.example.org> tel (415) 555-6503
+Billing address: 2233 Calloway Court, Leeds	2233 Calloway Court, Leeds
+Ship to 1149 Fenwick Street, Dunedin, contact Elena R. Vandermeer +1-212-555-7254	Ship to 1149 Fenwick Street, Dunedin, contact Elena R. Vandermeer +1-212-555-7254
+Witness: Grace Okonkwo, passport C45313597, born October 27, 1982	Grace Okonkwo, passport C45313597, born October 27, 1982
+Server 10.196.22.207 (fallback 172.16.222.150), admin jwhitfield207@corp-demo.example.net	Server 10.196.22.207 (fallback 172.16.222.150), admin jwhitfield207@corp-demo.example.net
+token = sk_live_468709Zq16296156Xw	token = sk_live_468709Zq16296156Xw
+password: Rv455!kd4309Pm	Rv455!kd4309Pm
+Northwind Holdings and Orchard Lane Partners signed by Priya A. Abernathy, SSN 201-23-8783	Northwind Holdings and Orchard Lane Partners signed by Priya A. Abernathy, SSN 201-23-8783
+Card on file 4111 8897 1322 7208, phone +49 30 449254	Card on file 4111 8897 1322 7208, phone +49 30 449254
+Comment	"This agreement is made between Quillfeather Labs (3816 Larkspur Way, Portland) represented by John E. Whitfield and Oliver D. Castellanos, born 07/02/1991, passport 244383585, residing at 2233 Calloway Court, Leeds.
+Payments go to IBAN GB63NWBK26625025753165. Send notices to billing94@halcyon-demo.example.org or call +44 20 7186 8518. Copy Priya Abernathy (SSN 201-23-8783) on every invoice."

@@ -1,0 +1,3 @@
+# Requests from W4c
+1. anonymizer/imagereplace.py (_portable): 5 EN text PDFs are blocked only because W10 refuses images with a linked /JBIG2Globals (cm_pdf_en_025, 026, 038) or /Metadata (cm_pdf_en_039, 040). Suggest: for /Metadata drop the key (metadata is scrubbed by policy anyway); for /JBIG2Globals stash the globals stream bytes in the vault with the image and restore it as a new object. Expect +5 produced files on the EN PDF corpus.
+2. Optional, cleaner than text removal: the ImageN label could be marked (e.g. in a /OC layer or by a fixed font name) so restore need not recognise it by regex; current fix recognises word ImageN inside the area of a vault-backed placeholder image.

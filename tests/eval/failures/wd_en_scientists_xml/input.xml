@@ -1,0 +1,4037 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql xmlns='http://www.w3.org/2005/sparql-results#'>
+	<head>
+		<variable name='p'/>
+		<variable name='pLabel'/>
+		<variable name='birth'/>
+		<variable name='placeLabel'/>
+	</head>
+	<results>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q513559</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-01-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Richard A. Muller</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Francisco</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q516774</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-07-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Stuart Hameroff</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Buffalo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q526247</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-12-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jeff Cheeger</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q526247</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-12-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jeff Cheeger</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q534027</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1971-04-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Tamara Braun</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Evanston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q535664</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-09-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Janet Biehl</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q539791</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-10-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>William Perry</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Vandergrift</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q548185</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-12-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Moshe Arens</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Kaunas</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q552938</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1908-02-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Telford Taylor</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Schenectady</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q560847</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-04-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jim Simons</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Newton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q561458</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-09-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Henry Louis Gates, Jr.</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Keyser</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q568161</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-06-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Kay</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Houston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q578036</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-05-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ron Rivest</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Schenectady</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q596590</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-02-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Louis Nirenberg</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Hamilton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q611121</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-02-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Morton Deutsch</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q623624</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1905-09-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>T. Keith Glennan</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Enderlin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q649387</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1907-05-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>John Gamble Kirkwood</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Oklahoma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q672122</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arkadi Nemirovski</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Moscow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q677597</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-02-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles A. Becker</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Florida</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q723263</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-06-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bernard Lown</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Utena</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q729661</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1915-05-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jerome Wiesner</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Detroit</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q827502</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-06-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bert Vogelstein</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Baltimore</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q828523</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-01-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles Pence Slichter</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Ithaca</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q891710</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-12-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Stephen Friend</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Stamford</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q899453</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1907-08-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>John D. Clark</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Fairbanks</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q903471</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-03-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Martin Karplus</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Vienna</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q920841</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-03-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Robert Dilts</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>United States</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q930425</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Clay Shirky</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Columbia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q948447</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-02-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Leon Kass</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q948447</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-02-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Leon Kass</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q954243</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-01-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eric J. Heller</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Washington, D.C.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q981045</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1981-06-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jonah Lehrer</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Los Angeles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q983450</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1970-07-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Siddhartha Mukherjee</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Delhi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q984089</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1972-02-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Mitchell Joachim</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Jersey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q986622</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-01-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Brian O'Leary</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Boston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1027328</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-10-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Callista Roy</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Los Angeles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1101405</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-04-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ferenc A. Jolesz</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Budapest</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1140555</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-11-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Paul Mockapetris</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Boston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1174286</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-10-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David E. Kuhl</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>St. Louis</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1189220</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-09-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dennis J. Selkoe</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1202177</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-03-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Owen Gingerich</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Washington</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1248240</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-03-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Thomas E. Starzl</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Le Mars</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1283735</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-01-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Neil L. Rudenstine</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Danbury</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1307585</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1907-06-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Paul-Émile Victor</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Geneva</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1307585</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1907-06-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Paul-Émile Victor</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Lons-le-Saunier</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1310291</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-02-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q1310291</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Akron</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1314693</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-12-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Martha Woodmansee</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1322956</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James F. Kasting</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Schenectady</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1339014</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-05-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Emmy Werner</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Eltville am Rhein</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1367762</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-11-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Thomas O. Paine</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Berkeley</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1368901</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-02-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Thomas Mancuso</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1389687</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-03-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Kenneth H. Cooper</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Oklahoma City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1390215</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-06-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Robert Ledley</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Flushing</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1391370</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-02-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Heinz Pagels</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1398876</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-07-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Joseph Frederick Engelberger</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1416952</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-02-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Georg Luck</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Bern</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1427817</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-07-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Tingye Li</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Nanjing</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1440708</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-02-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Fran Ulmer</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Madison</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1443483</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-03-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Frank J. Dixon</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Saint Paul</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1507321</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-07-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George F. Cahill, Jr.</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1509875</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-02-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Gerald G. Jampolsky</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Long Beach</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1525437</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1904-09-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ludwik Gross</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Poland</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1525437</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1904-09-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ludwik Gross</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Kraków</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1561795</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1970-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Peter Krapp</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q1574525</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-07-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Naomi Feil</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Munich</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4961808</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1965-11-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Brené Brown</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Antonio</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4963006</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1951-09-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Brian Atwater</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Britain</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4972902</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1915-03-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Brockway McMillan</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Minneapolis</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5006359</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-09-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5006359</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Winter Haven</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5006457</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>C. Fred Bentley</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Cambridge</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5040064</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-11-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5040064</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5040073</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1916-07-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Carl E. Taylor</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Landour</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5041718</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-09-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Carlos Albizu Miranda</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Ponce</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5041981</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1965-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Carlos Del Castillo</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Juan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5042454</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-08-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Carlos Ortiz Longo</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Juan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5044426</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-12-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Carol Kuhlthau</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Brunswick</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5052689</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-01-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Catherine Galbraith</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5052747</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Catherine Ingraham</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5052747</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Catherine Ingraham</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5053464</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Cathy Marshall</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5053606</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-01-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Cato T. Laurencin</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Philadelphia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5075119</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1917-11-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles Anderson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Columbus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5075378</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-10-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles Bailyn</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Cambridge</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5077308</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles Edward Stevens</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5079321</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-05-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles J. Bates</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5081877</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-05-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles R. Pellegrino</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5082591</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles Speziale</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Newark</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5088227</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1905-03-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5088227</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Oshkosh</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5093624</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-03-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Chester Kahapea</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Honolulu</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5102292</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1963-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Hussein Ibish</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Beirut</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5106159</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Chris Cimino</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>East Brunswick</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5107303</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Chris Mack</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5112314</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Christopher Field</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5113164</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-01-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Christopher Rose</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5113545</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Christos Faloutsos</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Athens</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5115541</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-05-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Chuck Hull</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Clifton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5131998</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-02-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Cleve Backster</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Lafayette</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5163791</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-10-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Constantine A. Balanis</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Trikala</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5166691</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-07-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Conway B. Leovy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5178586</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Courtney Brown</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5181028</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Craig Heller</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5181137</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-02-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Craig L. Hill</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pomona</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5195702</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-05-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Curtis Carlson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Providence</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5200054</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Cynthia E. Rosenzweig</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5203734</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-03-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>D. Mark Hegsted</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Rexburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5212898</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1973-05-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Damon Wilson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Charleston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5214706</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dana D. Nelson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>United States</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5216328</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-07-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Daniel A Farber</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5216556</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-06-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Daniel Bernardi</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Juan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5217489</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-09-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Daniel Hillel</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Los Angeles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5217762</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-02-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Daniel Kammen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5219136</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Daniel Yankelovich</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Boston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5225445</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Darryl S. Inaba</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Denver</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5230919</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1970-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David August</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Troy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5231010</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David B. Williams</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5231757</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1980-11-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Britz</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5231992</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-06-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David C. Baldus</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Wheeling</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5232807</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1991-07-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Dalrymple</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5232829</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1975-06-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Dausey</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pittsburgh</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5233215</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-07-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David E. Sweet</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Holyoke</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5233509</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1968-08-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5233509</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>King County</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5233944</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1982-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David G. Rand</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Berkeley</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5235117</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-10-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Holt</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Gatesville</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5236219</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David L. Kirp</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5236898</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-10-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David M. Brienza</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Rochelle</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5237524</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Merritt</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5239430</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Salsburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5240610</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-08-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David Vanderbilt</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Huntington</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5246441</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1922-03-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dean Roden Chapman</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5248148</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-12-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Debora Shuger</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Manhattan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5248148</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-12-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Debora Shuger</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Stuyvesant Town—Peter Cooper Village</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5248393</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1985-08-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Deborah Temkin</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Tucson</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5250520</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-12-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Deepak Pandya</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5253541</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-09-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Delbert Philpott</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Omro</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5258702</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-09-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dennis McCarthy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5259058</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-12-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dennis Weatherby</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brighton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5275089</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-04-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dieter Grau</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Berlin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5294310</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Donald Engelman</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5296399</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Donna M. Hughes</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pennsylvania</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5298034</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-01-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dork Sahagian</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pennsylvania</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5316855</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-03-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Dusan Krajcinovic</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Zagreb</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5321808</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1917-10-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>E. Converse Peirce 2nd</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4444839</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-02-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Tony K. Stewart</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4494377</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-07-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>David L. Haberman</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4499805</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-07-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Thomas Johns Hopkins</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4500464</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-08-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>John Stratton Hawley</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Schenectady</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4503372</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-11-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Aleksandr Tsatsanidi</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Saint Petersburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4512846</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-01-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Genady P. Cherepanov</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Melenkovsky District</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4514419</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-11-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Georgy Chernyavsky</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Kharkiv</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4521730</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-08-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Graham Schweig</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Washington, D.C.</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4524297</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-03-16T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Mary M. Shirley</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Philadelphia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4526218</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-12-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Richard Warren Shorthill</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Aberdeen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4532516</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1914-11-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Victor H. Erlich</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Saint Petersburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4647650</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-10-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>A. Colin McClung</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4648184</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>A. Michael Noll</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Newark</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4679842</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1963-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Adam Steltzner</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Francisco Bay Area</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4681241</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-09-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Addison Bain</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Kalispell</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4682864</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-12-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Adin Falkoff</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Jersey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4684231</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Adolfo Figueroa-Viñas</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Arecibo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4697442</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-01-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ainissa Ramirez</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4707191</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-09-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alan M. Lovelace</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>St. Petersburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4707571</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-01-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alan R. Price</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pontiac</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4711143</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-06-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Albert Rothenberg</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4719029</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-01-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alexander H. Flax</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4723138</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-07-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alfred Matthew Hubbard</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Kentucky</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4723392</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-11-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alfred S. Yue</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Guangzhou</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4723392</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-11-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Alfred S. Yue</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Guangzhou</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4749439</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1974-10-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Amy Webb</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4754767</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-09-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Andre Delbecq</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Toledo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4757117</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1983-03-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Andrew Goldstein</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Milton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4757559</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-05-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Andrew K. Golden</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4762175</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-12-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Angel Gaud Gonzalez</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Mayagüez</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4764666</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1972-05-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Anil Potti</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4766596</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ann O'Leary</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4772313</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-01-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Anthony Cortese</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Winthrop</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4772981</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1973-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q4772981</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4776661</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1962-10-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Antonio Giordano</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Naples</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4776799</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Antonio Mignucci</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Juan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4783924</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-08-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Aram Chobanian</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pawtucket</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4793645</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-08-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Joycelyn Elders</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Schaal</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4795013</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q4795013</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4795177</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-02-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arnold Mitchell</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4798689</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-05-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arthur Firstenberg</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4799314</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1913-10-20T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arthur Kantrowitz</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>The Bronx</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4799451</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-07-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arthur Larson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Sioux Falls</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4800561</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1922-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arthur W. Murphy</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4802034</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1969-12-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Arul Chinnaiyan</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Cleveland</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4834071</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-04-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>B. Jayant Baliga</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chennai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4859042</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Barbara Katz Rothman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4859042</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Barbara Katz Rothman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4864783</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-12-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Barry Stevens</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4888158</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-02-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Benjamin A. Botkin</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Boston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4888158</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-02-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Benjamin A. Botkin</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>East Boston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4893264</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-05-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bernard J. Dunn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4907523</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1958-01-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bilal M. Ayyub</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Tulkarm</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4910428</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-09-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bill Parkyn</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Teaneck</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4933370</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1944-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bob McMath</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4934240</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-11-27T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bob Twiggs</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Blackfoot</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q4945336</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-04-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Boris Mordukhovich</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Moscow</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5335389</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1946-08-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ed Seykota</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5337184</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-07-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Edgar M. Cortright</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Hastings</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5343595</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-09-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Edward Imwinkelried</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Francisco</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5344028</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Edward L. Schneider</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5345944</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-08-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Edward Wilson Merrill</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Bedford</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5346592</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1916-05-26T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Edwin L. Moore</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Winter Haven</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5354222</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1909-03-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eleanor Blum</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5360194</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1948-08-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eli Coleman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Buffalo</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5363183</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-07-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Elizabeth May McClintock</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Los Angeles</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5372851</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1970-07-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Emma Hwang</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Taiwan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5387687</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1956-09-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eric W. Kaler</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Rancho Mirage</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5392003</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1925-01-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Morris Goodman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Milwaukee</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5407190</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-02-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eugene E. Covert</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Rapid City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5407905</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-10-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Eugenia Kalnay</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Buenos Aires</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5416351</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-01-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Evelyn J. Fields</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Norfolk</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5423934</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-07-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>F. James Rutherford</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Stockton</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5434429</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-10-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5434429</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5441680</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1945-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Felice Frankel</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5486423</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-09-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Frank Edward Young</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Mineola</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5491671</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Franklin M. Loew</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Syracuse</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5498040</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-10-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Frederick Hitz</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5498084</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-04-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Frederick I. Ordway III</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5508264</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Fuller W. Bazer</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5523720</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1953-01-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Garo H. Armen</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Istanbul</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5525406</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1967-10-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Gary L. Gregg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5535951</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1923-06-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George A. Economou</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Manchester</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5538327</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-11-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George D. Schwab</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Latvia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5538888</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-05-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George Edward Pendray</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Omaha</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5539146</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1908-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George F. Stewart</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Mesa</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5540000</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-01-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George H. Burgess</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Oklahoma City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5540028</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-12-11T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George H. Goble</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Centerville</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5541963</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1927-06-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George M. Martin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5543109</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1939-03-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George P. Fletcher</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5584693</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1903-07-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Gordie C. Hanna</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5586013</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1952-07-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Gordon Woods</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5606365</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1979-11-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Greg Tseng</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Taipei</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5628099</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>H. Bruce Franklin</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>United States</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5628443</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-03-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>H. Norman Abramson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>San Antonio</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5644652</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-10-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Hamid Shirvani</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Tehran</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5659918</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-09-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Harold Amos</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Pennsauken</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5660385</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-09-21T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Harold Crosby</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal>Q16568</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5673065</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1926-04-18T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5673065</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Medford</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5678908</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Hashem El-Serag</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Libya</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5698827</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1955-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Heidi Boghosian</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Britain</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5813436</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-01-09T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Donn E. Rosen</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5890212</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1916-04-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Homer Sarasohn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5918952</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-01-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Howard A. Stone</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5919700</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1972-06-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Howard Friedman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q5920292</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1922-02-17T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q5920292</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Marinette</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6032893</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-07-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ingo Titze</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6074255</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1941-07-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Irvin Leigh Matus</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6074492</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1909-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Irving Bieber</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6074569</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1920-01-12T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Irving Friedman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6074678</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-07-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Irving Lefkowitz</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6080720</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1959-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ishwar Puri</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New Delhi</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6095252</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-08-31T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Itzhak Bars</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>İzmir</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6106775</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>J. Peter Kincaid</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6108714</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-01-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Richard Sumner Cowan</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>United States</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6108714</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1921-01-23T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Richard Sumner Cowan</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Crawfordsville</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6109457</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1931-01-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q6109457</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Murphysboro</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6111614</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1918-01-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jack Catran</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brooklyn</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6117187</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-05-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jackson Katz</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6135662</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-09-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James Hart Wyld</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6136769</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-03-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James J. Tietjen</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6140636</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1947-10-08T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James Orlin Grabbe</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Hale County</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6141748</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1950-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James R. Von Ehr II</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>United States</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6152523</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jane Marcus</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q6160577</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1940-07-25T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Jaroslav Folda</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Baltimore</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q104592</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1957-12-29T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bruce Beutler</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q106746</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-06-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Richard Smalley</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Akron</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q107420</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1932-12-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Sheldon Glashow</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q108886</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1935-07-03T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Harrison Schmitt</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Santa Rita</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q110106</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-05-30T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Julius Axelrod</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>New York City</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q117217</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1934-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Hans R. Camenzind</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Zurich</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q132537</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1904-04-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal>Q132537</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Manhattan</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q139890</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1966-03-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Zack Snyder</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Green Bay</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q155794</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1906-07-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Hans Bethe</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Strasbourg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q157245</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1943-11-07T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Michael Spence</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Montclair</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q162209</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1942-10-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Bernice Johnson Reagon</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Dougherty County</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q168041</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1928-03-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Zbigniew Brzezinski</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Warsaw</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q168963</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1937-12-10T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Zdeněk Bažant</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Prague</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q182522</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1936-05-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>George H. Heilmeier</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Philadelphia</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q185007</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1909-04-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Rita Levi-Montalcini</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Turin</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q186042</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1908-10-15T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>John Kenneth Galbraith</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Iona Station</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q192688</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1929-04-05T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Ivar Giæver</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Bergen</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q7468</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1960-12-14T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Catherine Coleman</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Charleston</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q11757</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Janet Kolodner</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q16389</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1933-11-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Charles K. Kao</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Shanghai</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q27507</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1912-10-02T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Frank Malina</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Brenham</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q45305</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-04-06T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Barys Kit</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Saint Petersburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q49618</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1904-07-24T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>James Rhyne Killian</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Blacksburg</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q55175</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1938-07-13T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Sheila Widnall</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Tacoma</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q55220</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1954-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Donna Nelson</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Eufaula</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q56181</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1901-01-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Rebecca W. Keller</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q57100</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1906-06-28T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Maria Göppert Mayer</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Katowice</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q73058</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1924-08-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Willard Boyle</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Amherst</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q334760</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1949-04-04T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Shing-Tung Yau</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Shantou</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q338083</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-05-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Mete Sözen</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Turkey</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q338083</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1930-05-22T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Mete Sözen</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Istanbul</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q350468</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1910-05-01T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>J. Allen Hynek</literal>
+			</binding>
+			<binding name='placeLabel'>
+				<literal xml:lang='en'>Chicago</literal>
+			</binding>
+		</result>
+		<result>
+			<binding name='p'>
+				<uri>http://www.wikidata.org/entity/Q356638</uri>
+			</binding>
+			<binding name='birth'>
+				<literal datatype='http://www.w3.org/2001/XMLSchema#dateTime'>1964-11-19T00:00:00Z</literal>
+			</binding>
+			<binding name='pLabel'>
+				<literal xml:lang='en'>Fred Irvin Diamond</literal>
+			</binding>
+		</result>
+	</results>
+<!-- Applicant: Grace S. Delacroix, date of birth 19/06/1968 --><contacts><person f0="Grace S. Delacroix" f1="+44 20 7192 6003" f2="grace.delacroix71@demo-mail.example.com" f3="376-69-1496" f4="862118528" f5="2411 Fenwick Street, Portland"><name>Grace S. Delacroix</name></person><person f0="Grace K. Kowalczyk" f1="(415) 555-2212" f2="billing51@northwind-demo.example.org" f3="499-76-2451" f4="G28244149" f5="786 Fenwick Street, Springfield"><name>Grace K. Kowalczyk</name></person><person f0="Yuki E. Haverford" f1="+1-212-555-7502" f2="yhaverford264@corp-demo.example.net" f3="376-69-1496" f4="862118528" f5="1577 Marchmont Avenue, Leeds"><name>Yuki E. Haverford</name></person></contacts><note>Applicant: Grace S. Delacroix, date of birth 19/06/1968</note><note>Phone: +44 20 7192 6003  Email: grace.delacroix71@demo-mail.example.com</note><note>Card 5500 7054 4977 7271, passport no. 862118528</note><note>SSN 376-69-1496; alt. contact Kowalczyk, Grace</note><note>Blue Harbor Capital, 2411 Fenwick Street, Portland</note><note>Wire to IBAN GB88NWBK81300118849684, attn Yuki E. Haverford</note><note>Customer: Marcus Underhill &lt;billing51@northwind-demo.example.org&gt; tel (415) 555-2212</note><note>Billing address: 786 Fenwick Street, Springfield</note><note>Ship to 1577 Marchmont Avenue, Leeds, contact Oliver E. Lindqvist +1-212-555-7502</note><note>Witness: Grace Kowalczyk, passport G28244149, born March 17, 1995</note><note>Server 10.150.14.86 (fallback 172.16.4.12), admin yhaverford264@corp-demo.example.net</note><note>token = sk_live_240174Zq43083805Xw</note><note>password: Rv514!kd3072Pm</note><note>Quillfeather Labs and Orchard Lane Partners signed by Marcus J. Underhill, SSN 499-76-2451</note><note>Card on file 4111 7612 0686 9696, phone +49 30 431932</note><raw><![CDATA[This agreement is made between Blue Harbor Capital (2411 Fenwick Street, Portland) represented by Yuki E. Haverford and Grace S. Delacroix, born 19/06/1968, passport 862118528, residing at 786 Fenwick Street, Springfield. | Payments go to IBAN GB88NWBK81300118849684. Send notices to billing51@northwind-demo.example.org or call +44 20 7192 6003. Copy Marcus Underhill (SSN 499-76-2451) on every invoice. | Hi Grace, please charge card 5500 7054 4977 7271 for Orchard Lane Partners; my cell is +1-212-555-7502 and my email yhaverford264@corp-demo.example.net. Regards, Oliver E. Lindqvist.]]></raw></sparql>

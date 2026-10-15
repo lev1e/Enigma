@@ -1,0 +1,31 @@
+version: 2
+build:
+  os: ubuntu-24.04
+  tools:
+    python: '3.13'
+  commands:
+    - asdf plugin add uv
+    - asdf install uv latest
+    - asdf global uv latest
+    - uv run --group docs sphinx-build -W -b dirhtml docs $READTHEDOCS_OUTPUT/html
+
+contacts:
+  - "Applicant: Thomas T. Delacroix, date of birth 24/07/1992"
+  - "Phone: +44 20 7775 2766  Email: thomas.delacroix30@demo-mail.example.com"
+  - "Card 5500 0492 5017 0869, passport no. 343809852"
+  - "SSN 584-24-9114; alt. contact Kowalczyk, Priya"
+  - "Orchard Lane Partners, 4428 Calloway Court, Portland"
+  - "Wire to IBAN GB94NWBK05141345417608, attn Oliver B. Abernathy"
+  - "Customer: Yuki Vandermeer <billing65@halcyon-demo.example.org> tel (415) 555-9508"
+  - "Billing address: 1609 Larkspur Way, Springfield"
+  - "Ship to 4337 Fenwick Street, Halifax, contact Grace J. Lindqvist +1-212-555-6051"
+  - "Witness: Priya Kowalczyk, passport E15257349, born March 13, 1976"
+  - "Server 10.213.169.92 (fallback 172.16.23.224), admin oabernathy423@corp-demo.example.net"
+  - "token = sk_live_438058Zq70887748Xw"
+  - "password: Rv423!kd9834Pm"
+  - "Halcyon Dynamics and Northwind Holdings signed by Yuki C. Vandermeer, SSN 121-70-8717"
+  - "Card on file 4111 2921 7802 2828, phone +49 30 232819"
+notes: |
+  This agreement is made between Orchard Lane Partners (4428 Calloway Court, Portland) represented by Oliver B. Abernathy and Thomas T. Delacroix, born 24/07/1992, passport 343809852, residing at 1609 Larkspur Way, Springfield.
+  Payments go to IBAN GB94NWBK05141345417608. Send notices to billing65@halcyon-demo.example.org or call +44 20 7775 2766. Copy Yuki Vandermeer (SSN 121-70-8717) on every invoice.
+  Hi Priya, please charge card 5500 0492 5017 0869 for Northwind Holdings; my cell is +1-212-555-6051 and my email oabernathy423@corp-demo.example.net. Regards, Grace J. Lindqvist.

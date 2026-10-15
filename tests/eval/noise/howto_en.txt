@@ -1,0 +1,1 @@
+How to reset the device. Hold the power button for ten seconds until the light blinks twice. Release the button and wait for the light to turn green. The device will restart and return to its factory settings. This takes about two minutes. Do not unplug the device while the light is blinking. If the light stays red, repeat the steps above.

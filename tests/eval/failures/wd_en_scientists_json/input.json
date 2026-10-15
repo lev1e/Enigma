@@ -1,0 +1,6128 @@
+{
+ "results": {
+  "head": {
+   "vars": [
+    "p",
+    "pLabel",
+    "birth",
+    "placeLabel"
+   ]
+  },
+  "results": {
+   "bindings": [
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4494377"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-07-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David L. Haberman"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4499805"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-07-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Thomas Johns Hopkins"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4500464"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1941-08-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John Stratton Hawley"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Schenectady"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4503372"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-11-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Aleksandr Tsatsanidi"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Saint Petersburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4512846"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-01-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Genady P. Cherepanov"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Melenkovsky District"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4514419"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-11-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Georgy Chernyavsky"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kharkiv"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4521730"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-08-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Graham Schweig"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Washington, D.C."
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4524297"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-03-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mary M. Shirley"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4526218"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-12-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Richard Warren Shorthill"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Aberdeen"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4532516"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-11-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Victor H. Erlich"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Saint Petersburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4647650"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-10-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "A. Colin McClung"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4648184"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "A. Michael Noll"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Newark"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4679842"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1963-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Adam Steltzner"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Francisco Bay Area"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4681241"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-09-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Addison Bain"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kalispell"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4682864"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-12-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Adin Falkoff"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Jersey"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4684231"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Adolfo Figueroa-Viñas"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arecibo"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4697442"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-01-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ainissa Ramirez"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4707191"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-09-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alan M. Lovelace"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "St. Petersburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4707571"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-01-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alan R. Price"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pontiac"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4711143"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-06-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Albert Rothenberg"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4719029"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1921-01-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alexander H. Flax"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4723138"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-07-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alfred Matthew Hubbard"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kentucky"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4723392"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-11-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alfred S. Yue"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Guangzhou"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4723392"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-11-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alfred S. Yue"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Guangzhou"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4749439"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1974-10-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Amy Webb"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4754767"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-09-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andre Delbecq"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Toledo"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4757117"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1983-03-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew Goldstein"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Milton"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4757559"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-05-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew K. Golden"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4762175"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-12-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Angel Gaud Gonzalez"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mayagüez"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4764666"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1972-05-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Anil Potti"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4766596"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ann O'Leary"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4772313"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-01-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Anthony Cortese"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Winthrop"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4772981"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1973-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q4772981"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4776661"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-10-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Antonio Giordano"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Naples"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4776799"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Antonio Mignucci"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Juan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4783924"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-08-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Aram Chobanian"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pawtucket"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4793645"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-08-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Joycelyn Elders"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Schaal"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4795013"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q4795013"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4795177"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1918-02-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arnold Mitchell"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4798689"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-05-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arthur Firstenberg"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4799314"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-10-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arthur Kantrowitz"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "The Bronx"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4799451"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1910-07-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arthur Larson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sioux Falls"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4800561"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arthur W. Murphy"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4802034"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-12-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Arul Chinnaiyan"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cleveland"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4834071"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-04-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "B. Jayant Baliga"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chennai"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4859042"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Barbara Katz Rothman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4859042"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Barbara Katz Rothman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4864783"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-12-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Barry Stevens"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4888158"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-02-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Benjamin A. Botkin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Boston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4888158"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-02-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Benjamin A. Botkin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "East Boston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4893264"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-05-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bernard J. Dunn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4907523"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-01-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bilal M. Ayyub"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tulkarm"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4910428"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-09-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bill Parkyn"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Teaneck"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4933370"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bob McMath"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4934240"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-11-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bob Twiggs"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Blackfoot"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4945336"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-04-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Boris Mordukhovich"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Moscow"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4961808"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1965-11-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brené Brown"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Antonio"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4963006"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-09-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brian Atwater"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Britain"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q4972902"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1915-03-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brockway McMillan"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Minneapolis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5006359"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-09-07T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q5006359"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Winter Haven"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5006457"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-03-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "C. Fred Bentley"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cambridge"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5040064"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-11-17T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q5040064"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5040073"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1916-07-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carl E. Taylor"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Landour"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5041718"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-09-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carlos Albizu Miranda"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ponce"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5041981"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1965-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carlos Del Castillo"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Juan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5042454"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-08-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carlos Ortiz Longo"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Juan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5044426"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-12-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carol Kuhlthau"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Brunswick"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5052689"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-01-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Catherine Galbraith"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5052747"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Catherine Ingraham"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5052747"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Catherine Ingraham"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5053464"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cathy Marshall"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5053606"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-01-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cato T. Laurencin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5075119"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1917-11-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles Anderson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Columbus"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5075378"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-10-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles Bailyn"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cambridge"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5077308"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles Edward Stevens"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5079321"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-05-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles J. Bates"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5081877"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-05-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles R. Pellegrino"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5082591"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-06-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles Speziale"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Newark"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5088227"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1905-03-12T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q5088227"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Oshkosh"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5093624"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-03-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chester Kahapea"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Honolulu"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1389687"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-03-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kenneth H. Cooper"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Oklahoma City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1390215"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-06-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Ledley"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Flushing"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1391370"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-02-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Heinz Pagels"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1398876"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-07-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Joseph Frederick Engelberger"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1416952"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-02-17T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Georg Luck"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bern"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1427817"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-07-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tingye Li"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Nanjing"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1440708"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-02-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Fran Ulmer"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Madison"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1443483"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-03-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Frank J. Dixon"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Saint Paul"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1507321"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-07-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "George F. Cahill, Jr."
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1509875"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-02-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gerald G. Jampolsky"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Long Beach"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1525437"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1904-09-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ludwik Gross"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Poland"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1525437"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1904-09-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ludwik Gross"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kraków"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1561795"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1970-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Peter Krapp"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1574525"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-07-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Naomi Feil"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Munich"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1631740"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-07-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Howard Charles Goodman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rochester"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1661230"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-04-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Richard C. Hoagland"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Morristown"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1667755"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-10-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Alfred Sommer"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1700314"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-04-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John Jackson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kansas City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1701279"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-11-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John O'Keefe"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1701476"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-09-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John C. Priscu"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Las Vegas"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1722163"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-07-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Marjorie Senechal"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "St. Louis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1744292"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-10-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Michael Peskin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1788548"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1916-05-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert F. Christy"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vancouver"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q1820381"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-10-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Leroy Hood"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Missoula"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2038512"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1902-04-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Otto Donner"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Berlin"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2040005"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-03-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Francis Everitt"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sevenoaks"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2058948"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-03-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Paul Bohannan"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lincoln"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2059366"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-01-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Paul E. Meehl"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Minneapolis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2145325"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert John Soreng"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Evanston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2149560"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-04-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Richard Garwin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cleveland"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2156727"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-09-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Cade"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Antonio"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2157943"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-09-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert L. Folk"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cleveland"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2191455"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-07-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mihajlo D. Mesarovic"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zrenjanin"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2277534"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-05-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ralph Metzner"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Berlin"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2281920"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1903-09-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sidney Farber"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Buffalo"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2329129"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-06-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ron Wyatt"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2357903"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-10-04T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q2357903"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "St. Louis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2370162"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-04-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Julius Rebek"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Berehove"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2490516"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Naim Ateek"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Beit She'an"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2494817"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-07-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Michael Cremo"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Schenectady"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2579618"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-04-20T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q2579618"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Louisville"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2580492"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-10-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "William S. Sly"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "East St. Louis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2602121"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1915-08-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "José Manuel Rodriguez Delgado"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ronda"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2619019"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-11-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bill Nye"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Washington, D.C."
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2726960"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-09-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John Sexton"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2846651"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-06-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew Koenig"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2846705"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew Pickering"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2896108"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-05-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Peter Turchin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Moscow"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2896996"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "James Zogby"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Utica"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q2958779"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Janet Gyatso"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3013008"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1941-10-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dan Alderson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "St. Joseph"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3018366"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-12-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Hillis"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Copenhagen"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3044917"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-06-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Leonard Horowitz"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3067305"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1917-01-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Faubion Bowers"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Oklahoma"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q3067305"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1917-01-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Faubion Bowers"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Miami"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5102292"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1963-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hussein Ibish"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Beirut"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5106159"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chris Cimino"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "East Brunswick"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5107303"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chris Mack"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5112314"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Christopher Field"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5113164"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-01-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Christopher Rose"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5113545"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Christos Faloutsos"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Athens"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5115541"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-05-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chuck Hull"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Clifton"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5131998"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-02-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cleve Backster"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lafayette"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5163791"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-10-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Constantine A. Balanis"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Trikala"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5166691"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-07-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Conway B. Leovy"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5178586"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Courtney Brown"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5181028"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Craig Heller"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5181137"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-02-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Craig L. Hill"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pomona"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5195702"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-05-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Curtis Carlson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Providence"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5200054"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Cynthia E. Rosenzweig"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5203734"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-03-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "D. Mark Hegsted"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rexburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5212898"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1973-05-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Damon Wilson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charleston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5214706"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dana D. Nelson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "United States"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5216328"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-07-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Daniel A Farber"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5216556"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-06-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Daniel Bernardi"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Juan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5217489"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-09-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Daniel Hillel"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Los Angeles"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5217762"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1962-02-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Daniel Kammen"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5219136"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Daniel Yankelovich"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Boston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5225445"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Darryl S. Inaba"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Denver"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5230919"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1970-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David August"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Troy"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5231010"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David B. Williams"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5231757"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1980-11-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Britz"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5231992"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-06-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David C. Baldus"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Wheeling"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5232807"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1991-07-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Dalrymple"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5232829"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1975-06-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Dausey"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pittsburgh"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5233215"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-07-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David E. Sweet"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Holyoke"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5233509"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1968-08-07T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q5233509"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "King County"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5233944"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1982-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David G. Rand"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Berkeley"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5235117"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-10-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Holt"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gatesville"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5236219"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David L. Kirp"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5236898"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-10-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David M. Brienza"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Rochelle"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5237524"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1955-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Merritt"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5239430"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Salsburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5240610"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-08-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "David Vanderbilt"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Huntington"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5246441"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-03-08T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dean Roden Chapman"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5248148"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-12-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Debora Shuger"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Manhattan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5248148"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-12-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Debora Shuger"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Stuyvesant Town—Peter Cooper Village"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5248393"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1985-08-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Deborah Temkin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tucson"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5250520"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-12-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Deepak Pandya"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5253541"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-09-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Delbert Philpott"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Omro"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5258702"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-09-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dennis McCarthy"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5259058"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-12-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dennis Weatherby"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brighton"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5275089"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-04-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dieter Grau"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Berlin"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5294310"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1941-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Donald Engelman"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5296399"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Donna M. Hughes"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pennsylvania"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5298034"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dork Sahagian"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Pennsylvania"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5316855"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-03-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dusan Krajcinovic"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zagreb"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5321808"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1917-10-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "E. Converse Peirce 2nd"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5335389"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-08-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ed Seykota"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5337184"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-07-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Edgar M. Cortright"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hastings"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5343595"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-09-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Edward Imwinkelried"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Francisco"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5344028"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Edward L. Schneider"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5345944"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-08-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Edward Wilson Merrill"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Bedford"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5346592"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1916-05-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Edwin L. Moore"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Winter Haven"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5354222"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-03-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eleanor Blum"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5360194"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-08-25T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eli Coleman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Buffalo"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5363183"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-07-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Elizabeth May McClintock"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Los Angeles"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5372851"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1970-07-21T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Emma Hwang"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Taiwan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5387687"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1956-09-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eric W. Kaler"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rancho Mirage"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5392003"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-01-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Morris Goodman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Milwaukee"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5407190"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-02-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eugene E. Covert"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rapid City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5407905"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-10-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eugenia Kalnay"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Buenos Aires"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5416351"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-01-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Evelyn J. Fields"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Norfolk"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5423934"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-07-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "F. James Rutherford"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Stockton"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5434429"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-10-14T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q5434429"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5441680"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1945-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Felice Frankel"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5486423"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-09-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Frank Edward Young"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mineola"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q5491671"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1939-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Franklin M. Loew"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Syracuse"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q76373"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-05-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "George E. Smith"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "White Plains"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q78608"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1923-10-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Carl Djerassi"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vienna"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q80553"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-11-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Norman Johnson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q83333"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-04-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "James Watson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q92646"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-02-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John Henry Holland"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Fort Wayne"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q92778"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1915-03-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "J. C. R. Licklider"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "St. Louis"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q92826"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1946-02-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Terry Winograd"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Takoma Park"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q95663"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-03-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Walter Haeussermann"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Künzelsau"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q101728"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-07-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Michael Rossmann"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Frankfurt"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q101740"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-11-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Benoit Mandelbrot"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Warsaw"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q104592"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1957-12-29T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bruce Beutler"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q106746"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-06-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Richard Smalley"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Akron"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q107420"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-12-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sheldon Glashow"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q108886"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-07-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Harrison Schmitt"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Santa Rita"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q110106"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-05-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Julius Axelrod"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q117217"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1934-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hans R. Camenzind"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zurich"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q132537"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1904-04-22T00:00:00Z"
+     },
+     "pLabel": {
+      "type": "literal",
+      "value": "Q132537"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Manhattan"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q139890"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1966-03-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zack Snyder"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Green Bay"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q155794"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1906-07-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hans Bethe"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Strasbourg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q157245"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-11-07T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Michael Spence"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Montclair"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q162209"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1942-10-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bernice Johnson Reagon"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dougherty County"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q168041"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-03-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zbigniew Brzezinski"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Warsaw"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q168963"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1937-12-10T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zdeněk Bažant"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Prague"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q182522"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-05-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "George H. Heilmeier"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q185007"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-04-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rita Levi-Montalcini"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Turin"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q186042"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1908-10-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "John Kenneth Galbraith"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Iona Station"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q192688"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1929-04-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ivar Giæver"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Bergen"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q7468"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1960-12-14T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Catherine Coleman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charleston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q11757"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Janet Kolodner"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q16389"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1933-11-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Charles K. Kao"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Shanghai"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q27507"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-10-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Frank Malina"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brenham"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q45305"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1910-04-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Barys Kit"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Saint Petersburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q49618"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1904-07-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "James Rhyne Killian"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Blacksburg"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q55175"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1938-07-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Sheila Widnall"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tacoma"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q55220"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Donna Nelson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Eufaula"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q56181"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Rebecca W. Keller"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q57100"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1906-06-28T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Maria Göppert Mayer"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Katowice"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q73058"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1924-08-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Willard Boyle"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Amherst"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q203243"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1940-05-20T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Leonard Susskind"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q206679"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-09-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Joseph Epes Brown"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ridgefield"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q213553"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1926-06-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Raul Hilberg"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vienna"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q214475"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1969-11-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ayaan Hirsi Ali"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mogadishu"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q216080"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1922-07-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Emile Zuckerkandl"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vienna"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q222122"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1958-07-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dean Baker"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "United States"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q233957"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1905-09-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Severo Ochoa"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Ḷḷuarca"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q234357"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-04-13T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Stanisław Ulam"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lviv"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q234888"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-07-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vera Rubin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Philadelphia"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q239419"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-01-05T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Saskia Sassen"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "The Hague"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q249115"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1950-06-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Benedict Gross"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "South Orange"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q269002"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1909-01-23T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tatiana Proskouriakoff"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tomsk"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q272492"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-01-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Diana Gabaldon"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Scottsdale"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q272492"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-01-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Diana Gabaldon"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Williams"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q298341"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1948-02-12T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Raymond Kurzweil"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Queens"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q317953"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-11-30T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lawrence Summers"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New Haven"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q319383"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-12-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Martin Cooper"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q329004"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1954-01-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gary Hamel"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q334361"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1903-04-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Gregory Goodwin Pincus"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Woodbine"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q334760"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1949-04-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Shing-Tung Yau"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Shantou"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q338083"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-05-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mete Sözen"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Turkey"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q338083"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1930-05-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Mete Sözen"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Istanbul"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q350468"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1910-05-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "J. Allen Hynek"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q356638"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1964-11-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Fred Irvin Diamond"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q360445"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1928-11-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Nick Holonyak"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Zeigler"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q365578"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-08-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Nathan Myhrvold"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Seattle"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q372215"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1932-03-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Walter Cunningham"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Creston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q432929"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-09-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew Grove"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "United States"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q432929"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1936-09-02T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrew Grove"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Budapest"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q435001"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1959-07-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Xiangzhong Yang"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "People's Republic of China"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q435188"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1914-07-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dorothea Orem"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Baltimore"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q437599"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-05-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Todd Stern"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q445338"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1913-08-24T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Stephen Kuffler"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Austria–Hungary"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q450317"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1912-05-31T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chien-Shiung Wu"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Taicang"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q454146"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1961-03-26T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Amanda Simpson"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Chicago"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q459171"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1935-04-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Judith Reisman"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Newark"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q459333"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-12-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Michael Newton"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Hollywood"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q464166"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1951-10-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kathryn D. Sullivan"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Paterson"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q469231"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1901-05-15T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Dorothy Hansine Andersen"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Asheville"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q469371"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1920-02-03T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Henry Heimlich"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Wilmington"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q469551"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1931-07-22T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Riane Eisler"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vienna"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q493956"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1965-06-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Andrea M. Ghez"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q504677"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-04-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Zubrin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q504677"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-04-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Zubrin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q504677"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-04-09T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Zubrin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lakewood"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q504677"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1952-04-19T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Robert Zubrin"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Lakewood"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q513559"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1944-01-06T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Richard A. Muller"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "San Francisco"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q516774"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1947-07-16T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Stuart Hameroff"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Buffalo"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q526247"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-12-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Jeff Cheeger"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "New York City"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q526247"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1943-12-01T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Jeff Cheeger"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Brooklyn"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q534027"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1971-04-18T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Tamara Braun"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Evanston"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q535664"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1953-09-04T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Janet Biehl"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q539791"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1927-10-11T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "William Perry"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Vandergrift"
+     }
+    },
+    {
+     "p": {
+      "type": "uri",
+      "value": "http://www.wikidata.org/entity/Q548185"
+     },
+     "birth": {
+      "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+      "type": "literal",
+      "value": "1925-12-27T00:00:00Z"
+     },
+     "pLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Moshe Arens"
+     },
+     "placeLabel": {
+      "xml:lang": "en",
+      "type": "literal",
+      "value": "Kaunas"
+     }
+    }
+   ]
+  }
+ },
+ "contacts": [
+  {
+   "Name": "Priya D. Castellanos",
+   "Phone": "+44 20 7770 8179",
+   "Email": "priya.castellanos15@demo-mail.example.com",
+   "SSN": "179-88-2277",
+   "Passport": "319779972",
+   "Address": "124 Marchmont Avenue, Springfield"
+  },
+  {
+   "Name": "Marcus B. Kowalczyk",
+   "Phone": "(415) 555-5634",
+   "Email": "billing71@halcyon-demo.example.org",
+   "SSN": "228-39-5097",
+   "Passport": "H16983324",
+   "Address": "3845 Fenwick Street, Portland"
+  },
+  {
+   "Name": "Oliver B. Underhill",
+   "Phone": "+1-212-555-6250",
+   "Email": "ounderhill852@corp-demo.example.net",
+   "SSN": "179-88-2277",
+   "Passport": "319779972",
+   "Address": "3692 Larkspur Way, Portland"
+  }
+ ],
+ "notes": [
+  "Applicant: Priya D. Castellanos, date of birth 12/04/1992",
+  "Phone: +44 20 7770 8179  Email: priya.castellanos15@demo-mail.example.com",
+  "Card 5500 4991 7572 7548, passport no. 319779972",
+  "SSN 179-88-2277; alt. contact Kowalczyk, Marcus",
+  "Blue Harbor Capital, 124 Marchmont Avenue, Springfield",
+  "Wire to IBAN GB31NWBK41102472252558, attn Oliver B. Underhill",
+  "Customer: Grace Okonkwo <billing71@halcyon-demo.example.org> tel (415) 555-5634",
+  "Billing address: 3845 Fenwick Street, Portland",
+  "Ship to 3692 Larkspur Way, Portland, contact Elena A. Delacroix +1-212-555-6250",
+  "Witness: Marcus Kowalczyk, passport H16983324, born March 20, 1997",
+  "Server 10.218.230.173 (fallback 172.16.41.109), admin ounderhill852@corp-demo.example.net",
+  "token = sk_live_575500Zq72425372Xw",
+  "password: Rv358!kd9494Pm",
+  "Halcyon Dynamics and Quillfeather Labs signed by Grace A. Okonkwo, SSN 228-39-5097",
+  "Card on file 4111 9911 2339 3309, phone +49 30 815005"
+ ],
+ "paragraphs": [
+  "This agreement is made between Blue Harbor Capital (124 Marchmont Avenue, Springfield) represented by Oliver B. Underhill and Priya D. Castellanos, born 12/04/1992, passport 319779972, residing at 3845 Fenwick Street, Portland.",
+  "Payments go to IBAN GB31NWBK41102472252558. Send notices to billing71@halcyon-demo.example.org or call +44 20 7770 8179. Copy Grace Okonkwo (SSN 228-39-5097) on every invoice.",
+  "Hi Marcus, please charge card 5500 4991 7572 7548 for Quillfeather Labs; my cell is +1-212-555-6250 and my email ounderhill852@corp-demo.example.net. Regards, Elena A. Delacroix."
+ ],
+ "owner": {
+  "name": "Priya D. Castellanos",
+  "meta": {
+   "author": "Priya D. Castellanos",
+   "title": "Agreement Blue Harbor Capital",
+   "subject": "Contact priya.castellanos15@demo-mail.example.com",
+   "keywords": "+44 20 7770 8179; billing71@halcyon-demo.example.org",
+   "comments": "Prepared for Marcus B. Kowalczyk"
+  }
+ },
+ "credentials": [
+  "sk_live_575500Zq72425372Xw",
+  "Rv358!kd9494Pm"
+ ]
+}

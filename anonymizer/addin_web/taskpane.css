@@ -1,0 +1,159 @@
+/* Панель в Office: те же токены (OKLCH, холодная палитра, один акцент), что у окна программы. Внешних ресурсов нет. */
+:root {
+  color-scheme: light dark;
+  /* Нейтральная палитра с лёгким холодным оттенком и один акцент. Семантические цвета только там, где они несут смысл. */
+  --bg: oklch(0.985 0.003 250); --surface: oklch(0.997 0.002 250); --side: oklch(0.962 0.004 250);
+  --text: oklch(0.235 0.012 255); --muted: oklch(0.5 0.012 255); --faint: oklch(0.66 0.01 255);
+  --line: oklch(0.915 0.005 250); --line-strong: oklch(0.83 0.007 250);
+  /* Рамка поля ввода и подсказка в нём: не слабее 3:1 и 4.5:1 к фону (--line-strong остаётся для декоративных линий). */
+  --field: oklch(0.955 0.006 250); --field-hover: oklch(0.94 0.008 250); --field-line: oklch(0.65 0.01 255); --ph: oklch(0.5 0.01 255);
+  --hover: oklch(0.945 0.005 250); --select: oklch(0.925 0.008 250);
+  --accent: oklch(0.4 0.14 252); --accent-hover: oklch(0.35 0.13 252); --on-accent: oklch(0.99 0.002 250); --focus: oklch(0.58 0.15 252);
+  --ok: oklch(0.5 0.11 155); --warn: oklch(0.53 0.11 70); --error: oklch(0.5 0.17 27); --on-error: oklch(0.99 0.002 250);
+  --scrim: oklch(0.2 0.01 255 / .38); --lift: oklch(0.2 0.02 255 / .28);
+  /* Радиусы: мелкие элементы, органы управления, блоки и диалоги. */
+  --r-xs: 4px; --r-control: 999px; --r-field: 14px; --r-block: 8px;
+  --btn-fill: color-mix(in oklab, var(--text) 8%, var(--surface)); --btn-fill-hover: color-mix(in oklab, var(--text) 14%, var(--surface)); --btn-fill-press: color-mix(in oklab, var(--text) 20%, var(--surface));
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px;
+  /* Шкала шрифта: подпись, вторичный, основной, заголовок блока, заголовок чата. Вес: 400, 500, 600 только у заголовков. */
+  --fs-xs: 12px; --fs-sm: 13px; --fs-md: 14px; --fs-lg: 16px; --fs-xl: 20px;
+  --ctl: 34px; --ctl-sm: 32px;
+  --sans: "Segoe UI Variable Text", "Segoe UI", -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif;
+  --display: var(--sans);
+  --mono: ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace;
+  /* Движение: 120 мс отклик, 180 мс обычный переход, 240 мс панели. Один вид замедления. */
+  --dur-1: .15s; --dur-2: .18s; --dur-3: .24s; --ease: cubic-bezier(.25, 1, .5, 1);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: oklch(0.205 0.006 255); --surface: oklch(0.24 0.007 255); --side: oklch(0.175 0.006 255);
+    --text: oklch(0.93 0.004 250); --muted: oklch(0.72 0.008 250); --faint: oklch(0.56 0.008 250);
+    --line: oklch(0.3 0.008 255); --line-strong: oklch(0.4 0.01 255);
+  --field: oklch(0.285 0.008 255); --field-hover: oklch(0.31 0.009 255); --field-line: oklch(0.54 0.01 255); --ph: oklch(0.7 0.008 250);
+    --hover: oklch(0.26 0.008 255); --select: oklch(0.3 0.01 255);
+    --accent: oklch(0.72 0.12 252); --accent-hover: oklch(0.78 0.11 252); --on-accent: oklch(0.2 0.02 255); --focus: oklch(0.76 0.12 252);
+    --ok: oklch(0.76 0.12 155); --warn: oklch(0.8 0.12 78); --error: oklch(0.72 0.16 27); --on-error: oklch(0.18 0.02 255);
+    --scrim: oklch(0.1 0.01 255 / .55); --lift: oklch(0.05 0.01 255 / .6);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: oklch(0.205 0.006 255); --surface: oklch(0.24 0.007 255); --side: oklch(0.175 0.006 255);
+  --text: oklch(0.93 0.004 250); --muted: oklch(0.72 0.008 250); --faint: oklch(0.56 0.008 250);
+  --line: oklch(0.3 0.008 255); --line-strong: oklch(0.4 0.01 255);
+  --field: oklch(0.285 0.008 255); --field-hover: oklch(0.31 0.009 255); --field-line: oklch(0.54 0.01 255); --ph: oklch(0.7 0.008 250);
+  --hover: oklch(0.26 0.008 255); --select: oklch(0.3 0.01 255);
+  --accent: oklch(0.72 0.12 252); --accent-hover: oklch(0.78 0.11 252); --on-accent: oklch(0.2 0.02 255); --focus: oklch(0.76 0.12 252);
+  --ok: oklch(0.76 0.12 155); --warn: oklch(0.8 0.12 78); --error: oklch(0.72 0.16 27); --on-error: oklch(0.18 0.02 255);
+  --scrim: oklch(0.1 0.01 255 / .55); --lift: oklch(0.05 0.01 255 / .6);
+}
+/* Панель-специфика: поверх токенов окна программы. Минимум текста 14px, цель нажатия 44px. */
+:root { --pane-ctl: 44px; --fs-pane: 14px; --r-row: 8px; }
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+html { scrollbar-gutter: stable; }
+body { background: var(--bg); color: var(--text); font: var(--fs-md)/1.5 var(--sans); -webkit-font-smoothing: antialiased; text-wrap: pretty; overflow-x: hidden; }
+h1, h2, .status { text-wrap: balance; }
+button, input { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+[hidden] { display: none !important; }
+::selection { background: color-mix(in oklab, var(--accent) 28%, transparent); }
+
+.pane { padding: var(--s4); display: grid; gap: var(--s4); align-content: start; min-height: 100dvh; min-width: 0; }
+.pane > * { min-width: 0; }
+.head { display: flex; align-items: center; justify-content: space-between; gap: var(--s3); flex-wrap: wrap; }
+.brand { display: inline-flex; align-items: center; gap: var(--s2); margin: 0; font: 600 var(--fs-xl)/1.2 var(--display); letter-spacing: -.01em; }
+.conn { font-size: var(--fs-pane); color: var(--muted); }
+.conn.ok::before { content: ""; display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--ok); margin-right: 6px; }
+.conn.bad { color: var(--error); }
+
+.lead { margin: 0; color: var(--muted); max-width: 46ch; }
+.hint { margin: 0; color: var(--muted); font-size: var(--fs-pane); }
+.actions { display: grid; gap: var(--s2); margin-top: var(--s4); }
+.row { display: flex; align-items: center; gap: var(--s3); flex-wrap: wrap; }
+.block { display: grid; gap: var(--s3); }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; min-height: var(--pane-ctl); padding: var(--s2) var(--s4); border-radius: var(--r-control); border: 1px solid transparent; background: var(--btn-fill); color: var(--text); text-align: center; transition: background-color var(--dur-1) var(--ease), border-color var(--dur-1) var(--ease), transform var(--dur-1) var(--ease); }
+.btn:hover:not(:disabled) { background: var(--btn-fill-hover); }
+.btn:active:not(:disabled) { background: var(--btn-fill-press); transform: translateY(1px); }
+.btn:disabled { color: var(--faint); background: color-mix(in oklab, var(--text) 4%, var(--surface)); cursor: not-allowed; }
+.btn.main { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 500; }
+.btn.main:hover:not(:disabled) { background: var(--accent-hover); border-color: var(--accent-hover); }
+.btn.main:disabled { background: var(--select); border-color: var(--select); color: var(--faint); }
+.btn.small { padding: var(--s1) var(--s3); }
+.link { background: none; border: 0; padding: 0; color: var(--muted); text-decoration: underline; text-decoration-color: var(--field-line); text-decoration-thickness: 1px; text-underline-offset: 3px; border-radius: var(--r-xs); text-align: left; }
+.link:hover { color: var(--text); text-decoration-color: currentColor; }
+
+.steps { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s2); }
+.steps li { display: grid; grid-template-columns: 20px 1fr; gap: var(--s2); color: var(--muted); }
+.steps li .mark { font-family: var(--mono); text-align: center; border-radius: 0; }
+.steps li.now { color: var(--text); font-weight: 600; }
+.steps li.done { color: var(--muted); }
+.steps li.fail { color: var(--error); }
+.bar { height: 2px; background: var(--line); }
+.bar > i { display: block; height: 100%; width: 0; background: var(--accent); transition: width .3s var(--ease); }
+
+.status { margin: 0; font: 600 var(--fs-lg)/1.35 var(--display); letter-spacing: -.01em; overflow-wrap: anywhere; }
+.status.error { color: var(--error); }
+.sub { margin: 0; color: var(--muted); overflow-wrap: anywhere; }
+.notes { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s2); }
+.notes li { padding: var(--s2) var(--s3); border-radius: var(--r-row); background: var(--hover); color: var(--text); font-size: var(--fs-pane); overflow-wrap: anywhere; }
+.notes li.info { color: var(--muted); }
+.notes li.error { background: color-mix(in oklab, var(--error) 12%, var(--surface)); color: var(--error); }
+.notes li.warn { background: color-mix(in oklab, var(--warn) 14%, var(--surface)); color: var(--text); }
+.notes li.ok { background: color-mix(in oklab, var(--ok) 12%, var(--surface)); color: var(--ok); }
+
+/* Предупреждения, которые видны до запуска: заметка о модели имён и менее безопасный режим картинок. */
+.alerts { display: grid; gap: var(--s2); }
+.alert { margin: 0; padding: var(--s3); border-radius: var(--r-row); font-size: var(--fs-pane); line-height: 1.5; overflow-wrap: anywhere; background: var(--hover); color: var(--muted); }
+.alert strong { color: var(--text); font-weight: 600; }
+.alert.warn { background: color-mix(in oklab, var(--warn) 14%, var(--surface)); border: 1px solid var(--warn); color: var(--text); }
+.alert .link { display: flex; align-items: center; min-height: var(--pane-ctl); margin-top: var(--s1); }
+.link#open-settings-foot, .link#open-folder { display: inline-flex; align-items: center; min-height: var(--pane-ctl); }
+
+.sec { margin: 0 0 var(--s1); font-size: var(--fs-md); font-weight: 600; }
+.sug { display: grid; gap: var(--s2); }
+.sug label { display: grid; grid-template-columns: 20px 1fr; gap: var(--s2); align-items: start; padding: var(--s2) var(--s3); border-radius: var(--r-row); background: var(--hover); min-height: var(--pane-ctl); }
+.ctx { font-size: var(--fs-pane); color: var(--muted); overflow-wrap: anywhere; }
+.chips { display: flex; flex-wrap: wrap; gap: var(--s2); }
+.chip { padding: 2px var(--s2); border: 1px solid var(--line-strong); border-radius: 999px; font-size: var(--fs-pane); color: var(--muted); overflow-wrap: anywhere; }
+
+details { margin: 0; }
+summary { cursor: pointer; color: var(--muted); border-radius: var(--r-xs); list-style: none; display: flex; align-items: center; gap: var(--s2); min-height: var(--pane-ctl); }
+summary::-webkit-details-marker { display: none; }
+summary::before { content: ""; flex: none; width: 6px; height: 6px; border-style: solid; border-width: 0 1.5px 1.5px 0; transform: rotate(-45deg); margin: 0 var(--s1); transition: transform var(--dur-2) var(--ease); }
+details[open] > summary::before { transform: rotate(45deg); }
+summary:hover { color: var(--text); }
+details[open] > summary { color: var(--text); margin-bottom: var(--s2); }
+.fold { display: grid; gap: var(--s3); }
+label.check { display: flex; gap: var(--s3); align-items: flex-start; min-height: var(--pane-ctl); padding: 10px 0; }
+input[type=checkbox] { flex: none; width: 20px; height: 20px; margin: 2px 0 0; accent-color: var(--accent); }
+.list { list-style: none; margin: var(--s2) 0 0; padding: 0; display: grid; gap: var(--s2); }
+.list li { display: flex; align-items: center; justify-content: space-between; gap: var(--s3); flex-wrap: wrap; padding: var(--s2) 0; border-bottom: 1px solid var(--line); }
+.list .name { overflow-wrap: anywhere; min-width: 0; font-weight: 500; }
+.list .meta { font-size: var(--fs-pane); color: var(--muted); }
+.foot { margin: var(--s2) 0 0; font-size: var(--fs-pane); color: var(--muted); }
+
+.mark { border-radius: 5px; }
+
+/* Состояние документа */
+.state { display: grid; gap: var(--s1); padding: var(--s3) var(--s4); border-radius: var(--r-block); background: var(--hover); }
+.state-title { margin: 0; font: 600 var(--fs-lg)/1.3 var(--display); overflow-wrap: anywhere; }
+.state.done .state-title { color: var(--ok); }
+.state.back .state-title { color: var(--text); }
+.state + .lead, .state + .note { margin-top: var(--s3); }
+.note { margin: 0; padding: var(--s2) var(--s3); border-radius: var(--r-row); background: color-mix(in oklab, var(--warn) 14%, var(--surface)); color: var(--text); font-size: var(--fs-pane); }
+.links { margin-top: var(--s3); gap: var(--s4); }
+.links .link { min-height: var(--pane-ctl); display: inline-flex; align-items: center; }
+#table-box { margin-top: var(--s3); }
+.repl li { align-items: flex-start; }
+.repl .what { display: grid; gap: 0; min-width: 0; }
+.repl .val { font-family: var(--mono); font-size: var(--fs-pane); letter-spacing: .02em; overflow-wrap: anywhere; }
+.repl .files { font-size: var(--fs-pane); color: var(--muted); }
+
+#result:focus { outline: none; }
+#result:focus-visible { outline: 2px solid var(--focus); outline-offset: 4px; }
+.btn, .actions .btn { overflow-wrap: anywhere; }
+#open-folder { min-height: var(--pane-ctl); }
+@media (max-width: 340px) { .pane { padding: var(--s3); } .brand { font-size: var(--fs-lg); } }
+@media (prefers-reduced-motion: reduce) { .btn, .bar > i, summary::before { transition: none; } }

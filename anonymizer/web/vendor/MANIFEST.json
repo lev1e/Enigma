@@ -1,0 +1,35 @@
+{
+  "note": "Fetched once on a dev machine, verified against npm dist.integrity (npm packages) and the research table. Never fetched at runtime.",
+  "files": [
+    {
+      "file": "marked.umd.js",
+      "name": "marked",
+      "version": "18.1.1",
+      "license": "MIT",
+      "url": "https://cdn.jsdelivr.net/npm/marked@18.1.1/lib/marked.umd.js",
+      "sha256": "b82b9334406d8bdd16b6236c08de1cb65b2a859873ca9503d9cc0b292ca3c12a",
+      "bytes": 47956,
+      "license_file": "licenses/marked.txt"
+    },
+    {
+      "file": "purify.min.js",
+      "name": "DOMPurify",
+      "version": "3.4.17",
+      "license": "Apache-2.0",
+      "url": "https://cdn.jsdelivr.net/npm/dompurify@3.4.17/dist/purify.min.js",
+      "sha256": "cd37898f9782adf54820c413191b5691803f0f137c799d6edcfd38523b4c2c31",
+      "bytes": 29828,
+      "license_file": "licenses/dompurify.txt"
+    },
+    {
+      "file": "highlight.min.js",
+      "name": "highlight.js",
+      "version": "11.11.1",
+      "license": "BSD-3-Clause",
+      "url": "https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.11.1/build/highlight.min.js",
+      "sha256": "c4a399dd6f488bc97a3546e3476747b3e714c99c57b9473154c6fb8d259b9381",
+      "bytes": 127496,
+      "license_file": "licenses/highlightjs.txt"
+    }
+  ]
+}

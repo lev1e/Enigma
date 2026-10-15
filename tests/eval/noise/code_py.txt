@@ -1,0 +1,13 @@
+def moving_average(values, window):
+    """Return the moving average of a list of numbers."""
+    if window <= 0:
+        raise ValueError("window must be positive")
+    result = []
+    total = 0.0
+    for i, v in enumerate(values):
+        total += v
+        if i >= window:
+            total -= values[i - window]
+        if i >= window - 1:
+            result.append(total / window)
+    return result

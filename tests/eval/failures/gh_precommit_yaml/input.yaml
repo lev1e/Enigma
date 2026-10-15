@@ -1,0 +1,45 @@
+repos:
+  - repo: https://github.com/astral-sh/ruff-pre-commit
+    rev: cb8c523fd4835aba42af70f4cad5568db4df0b6c  # frozen: v0.16.0
+    hooks:
+      - id: ruff-check
+      - id: ruff-format
+  - repo: https://github.com/astral-sh/uv-pre-commit
+    rev: 5900cba2cfe6d20f562458d4d308ac55569f92eb  # frozen: 0.12.0
+    hooks:
+      - id: uv-lock
+  - repo: https://github.com/codespell-project/codespell
+    rev: 57b21406f092110c18776e39b0bda50d37c945c8  # frozen: v2.4.3
+    hooks:
+      - id: codespell
+        additional_dependencies:
+          - tomli
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: 3e8a8703264a2f4a69428a0aa4dcb512790b2c8c  # frozen: v6.0.0
+    hooks:
+      - id: check-merge-conflict
+      - id: debug-statements
+      - id: fix-byte-order-marker
+      - id: trailing-whitespace
+      - id: end-of-file-fixer
+
+contacts:
+  - "Applicant: Grace L. Abernathy, date of birth 19/10/1999"
+  - "Phone: +44 20 7380 2181  Email: grace.abernathy29@demo-mail.example.com"
+  - "Card 5500 3691 7587 1720, passport no. 283813858"
+  - "SSN 513-93-5727; alt. contact Okonkwo, Grace"
+  - "Orchard Lane Partners, 3904 Fenwick Street, Dunedin"
+  - "Wire to IBAN GB19NWBK66258886100406, attn Priya B. Vandermeer"
+  - "Customer: Oliver Castellanos <billing67@halcyon-demo.example.org> tel (415) 555-9456"
+  - "Billing address: 4152 Fenwick Street, Dunedin"
+  - "Ship to 3781 Larkspur Way, Springfield, contact Elena D. Delacroix +1-212-555-6148"
+  - "Witness: Grace Okonkwo, passport A45896050, born October 27, 1974"
+  - "Server 10.99.100.169 (fallback 172.16.64.160), admin pvandermeer581@corp-demo.example.net"
+  - "token = sk_live_673447Zq55234142Xw"
+  - "password: Rv453!kd4344Pm"
+  - "Redwood Ferris Logistics and Northwind Holdings signed by Oliver C. Castellanos, SSN 223-42-6190"
+  - "Card on file 4111 4105 4013 0552, phone +49 30 388753"
+notes: |
+  This agreement is made between Orchard Lane Partners (3904 Fenwick Street, Dunedin) represented by Priya B. Vandermeer and Grace L. Abernathy, born 19/10/1999, passport 283813858, residing at 4152 Fenwick Street, Dunedin.
+  Payments go to IBAN GB19NWBK66258886100406. Send notices to billing67@halcyon-demo.example.org or call +44 20 7380 2181. Copy Oliver Castellanos (SSN 223-42-6190) on every invoice.
+  Hi Grace, please charge card 5500 3691 7587 1720 for Northwind Holdings; my cell is +1-212-555-6148 and my email pvandermeer581@corp-demo.example.net. Regards, Elena D. Delacroix.

@@ -1,0 +1,1 @@
+{"id": "adv_binary_as_txt", "file": "bin.txt", "fmt": "txt", "lang": "ru", "traits": "adversarial", "gold": [], "expect": "any", "note": ""}

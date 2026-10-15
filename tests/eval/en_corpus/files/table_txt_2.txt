@@ -1,0 +1,8 @@
+
+Employee	Date of Birth	Passport No	SSN	Email
+Patrick Jankowski	06/12/1995	X9734265	221-29-3803	oyelaran_harriet@corp-demo.example.net
+Okonkwo, Daniel	3/26/00	Y5334146	662-23-5005	ibrahim_natalie@corp-demo.example.net
+Pemberton, Marcus	1974-02-25	419146975	413-83-1366	gibrahim25@demo-mail.example.org
+Alicia Whitfield	24/09/1953	Y9017622	492-24-2145	gdelacroix02@demo-mail.example.org
+Harriet Brennan	January 15, 1987	D7429219	351-40-7552	librahim08@demo-mail.example.org
+Daniel Gallagher	2001-04-20	Z9674617	281-12-4199	fiona.vandermeer@example.com

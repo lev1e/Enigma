@@ -1,0 +1,3 @@
+# Requests from S9C
+1. ner.py `eligible()` (owner of ner.py: S9A or later): the markup veto looks only at the first 4000 chars and rejects the WHOLE document. Wikipedia-derived md/html in tests/eval/real (md_ru_gazprom, md_ru_putin, html_ru_cheb/gazprom/moscow/pushkin/sber/tver) contain `{{` or `[[` in the head, so natasha does nothing there (0 extra names, S9C table). Experiment with the veto disabled: md_ru_putin +8 extra names (+23 review), html_ru_cheb +3 names but +109 review items (markup noise, 100 -> 209). Needs a per-window / per-line markup filter, not a switch-off; measure review volume before shipping.
+2. settings_schema keep_terms hint: S9C already added the sentence about full names (one-line edit in anonymizer/settings_schema.py).

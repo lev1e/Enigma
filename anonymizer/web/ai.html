@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Anonymizer: ИИ-чат</title>
+<style>
+:root {
+  color-scheme: light dark;
+  /* Нейтральная палитра с лёгким холодным оттенком и один акцент. Семантические цвета только там, где они несут смысл. */
+  --bg: oklch(0.985 0.003 250); --surface: oklch(0.997 0.002 250); --side: oklch(0.962 0.004 250);
+  --text: oklch(0.235 0.012 255); --muted: oklch(0.5 0.012 255); --faint: oklch(0.66 0.01 255);
+  --line: oklch(0.915 0.005 250); --line-strong: oklch(0.83 0.007 250);
+  /* Рамка поля ввода и подсказка в нём: не слабее 3:1 и 4.5:1 к фону (--line-strong остаётся для декоративных линий). */
+  --field: oklch(0.955 0.006 250); --field-hover: oklch(0.94 0.008 250); --field-line: oklch(0.65 0.01 255); --ph: oklch(0.5 0.01 255);
+  --hover: oklch(0.945 0.005 250); --select: oklch(0.925 0.008 250);
+  --accent: oklch(0.4 0.14 252); --accent-hover: oklch(0.35 0.13 252); --on-accent: oklch(0.99 0.002 250); --focus: oklch(0.58 0.15 252);
+  --ok: oklch(0.5 0.11 155); --warn: oklch(0.53 0.11 70); --error: oklch(0.5 0.17 27); --on-error: oklch(0.99 0.002 250);
+  --scrim: oklch(0.2 0.01 255 / .38); --lift: oklch(0.2 0.02 255 / .28);
+  /* Радиусы: мелкие элементы, органы управления, блоки и диалоги. */
+  --r-xs: 4px; --r-control: 999px; --r-field: 14px; --r-block: 8px;
+  --btn-fill: color-mix(in oklab, var(--text) 8%, var(--surface)); --btn-fill-hover: color-mix(in oklab, var(--text) 14%, var(--surface)); --btn-fill-press: color-mix(in oklab, var(--text) 20%, var(--surface));
+  --s1: 4px; --s2: 8px; --s3: 12px; --s4: 16px; --s5: 24px; --s6: 32px;
+  /* Шкала шрифта: подпись, вторичный, основной, заголовок блока, заголовок чата. Вес: 400, 500, 600 только у заголовков. */
+  --fs-xs: 12px; --fs-sm: 13px; --fs-md: 14px; --fs-lg: 16px; --fs-xl: 20px;
+  --ctl: 34px; --ctl-sm: 32px;
+  --sans: "Segoe UI Variable Text", "Segoe UI", -apple-system, system-ui, "Helvetica Neue", Arial, sans-serif;
+  --display: var(--sans);
+  --mono: ui-monospace, "Cascadia Mono", Consolas, Menlo, monospace;
+  /* Движение: 120 мс отклик, 180 мс обычный переход, 240 мс панели. Один вид замедления. */
+  --dur-1: .15s; --dur-2: .18s; --dur-3: .24s; --ease: cubic-bezier(.25, 1, .5, 1);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: oklch(0.205 0.006 255); --surface: oklch(0.24 0.007 255); --side: oklch(0.175 0.006 255);
+    --text: oklch(0.93 0.004 250); --muted: oklch(0.72 0.008 250); --faint: oklch(0.56 0.008 250);
+    --line: oklch(0.3 0.008 255); --line-strong: oklch(0.4 0.01 255);
+  --field: oklch(0.285 0.008 255); --field-hover: oklch(0.31 0.009 255); --field-line: oklch(0.54 0.01 255); --ph: oklch(0.7 0.008 250);
+    --hover: oklch(0.26 0.008 255); --select: oklch(0.3 0.01 255);
+    --accent: oklch(0.72 0.12 252); --accent-hover: oklch(0.78 0.11 252); --on-accent: oklch(0.2 0.02 255); --focus: oklch(0.76 0.12 252);
+    --ok: oklch(0.76 0.12 155); --warn: oklch(0.8 0.12 78); --error: oklch(0.72 0.16 27); --on-error: oklch(0.18 0.02 255);
+    --scrim: oklch(0.1 0.01 255 / .55); --lift: oklch(0.05 0.01 255 / .6);
+  }
+}
+:root[data-theme="dark"] {
+  --bg: oklch(0.205 0.006 255); --surface: oklch(0.24 0.007 255); --side: oklch(0.175 0.006 255);
+  --text: oklch(0.93 0.004 250); --muted: oklch(0.72 0.008 250); --faint: oklch(0.56 0.008 250);
+  --line: oklch(0.3 0.008 255); --line-strong: oklch(0.4 0.01 255);
+  --field: oklch(0.285 0.008 255); --field-hover: oklch(0.31 0.009 255); --field-line: oklch(0.54 0.01 255); --ph: oklch(0.7 0.008 250);
+  --hover: oklch(0.26 0.008 255); --select: oklch(0.3 0.01 255);
+  --accent: oklch(0.72 0.12 252); --accent-hover: oklch(0.78 0.11 252); --on-accent: oklch(0.2 0.02 255); --focus: oklch(0.76 0.12 252);
+  --ok: oklch(0.76 0.12 155); --warn: oklch(0.8 0.12 78); --error: oklch(0.72 0.16 27); --on-error: oklch(0.18 0.02 255);
+  --scrim: oklch(0.1 0.01 255 / .55); --lift: oklch(0.05 0.01 255 / .6);
+}
+
+* { box-sizing: border-box; scrollbar-width: thin; scrollbar-color: var(--line-strong) transparent; }
+html, body { margin: 0; }
+html { scrollbar-gutter: stable; scroll-padding-bottom: var(--composer-h, 0px); }
+h1, h2, h3, .status { text-wrap: balance; }
+.meta, .step-time, .tok, table.map { font-variant-numeric: tabular-nums; }
+::selection { background: color-mix(in oklab, var(--accent) 28%, transparent); }
+body { text-wrap: pretty; background: var(--bg); color: var(--text); font: var(--fs-md)/1.5 var(--sans); -webkit-font-smoothing: antialiased; }
+button, input, textarea, select { font: inherit; color: inherit; }
+button { cursor: pointer; }
+:focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+@media (max-width: 720px), (pointer: coarse) { .btn, a.btn { min-height: 44px; } }
+[hidden] { display: none !important; }
+/* Кнопки: главная (одна на экран), обычная, тихая, опасная. Одна высота и один радиус. */
+.btn { display: inline-flex; align-items: center; justify-content: center; min-height: var(--ctl); padding: 0 var(--s3); border-radius: var(--r-control); border: 1px solid transparent; background: var(--btn-fill); color: var(--text); text-decoration: none; text-align: center; line-height: 1.2; white-space: nowrap; }
+.btn:hover:not(:disabled) { background: var(--btn-fill-hover); }
+.btn:active:not(:disabled) { background: var(--btn-fill-press); transform: translateY(1px); }
+.btn { transition: background-color var(--dur-1) var(--ease), border-color var(--dur-1) var(--ease), transform var(--dur-1) var(--ease); }
+.btn:disabled { color: var(--faint); background: color-mix(in oklab, var(--text) 4%, var(--surface)); cursor: not-allowed; }
+.btn[aria-expanded="true"] { background: var(--btn-fill-press); }
+.btn.main { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 500; padding: 0 var(--s4); }
+.btn.main:hover:not(:disabled) { background: var(--accent-hover); border-color: var(--accent-hover); }
+.btn.main:disabled { background: var(--select); border-color: var(--select); color: var(--faint); }
+.btn.danger { color: var(--error); background: color-mix(in oklab, var(--error) 12%, var(--surface)); }
+.btn.danger:hover:not(:disabled) { background: color-mix(in oklab, var(--error) 20%, var(--surface)); }
+.btn.danger-main { background: var(--error); border-color: var(--error); color: var(--on-error); font-weight: 500; padding: 0 var(--s4); }
+.btn.ghost { background: transparent; justify-content: flex-start; }
+.btn.ghost:hover:not(:disabled) { background: var(--hover); }
+a.btn { text-decoration: none; color: inherit; }
+
+.ai-page { max-width: 760px; margin: 0 auto; padding: var(--s5) var(--s4) var(--s6); display: grid; gap: var(--s4); }
+.ai-top { display: flex; flex-wrap: wrap; gap: var(--s3); align-items: center; }
+.ai-top h1 { font-size: var(--fs-xl); margin: 0; flex: 1 1 auto; }
+.ai-note { color: var(--muted); margin: 0; }
+.ai-card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--r-block); padding: var(--s4); display: grid; gap: var(--s3); }
+.ai-card h2 { margin: 0; font-size: var(--fs-lg); }
+.ai-row { display: grid; gap: var(--s1); }
+.ai-row label { font-size: var(--fs-sm); color: var(--muted); }
+.ai-row input[type=text], .ai-row input[type=password], .ai-row select, .ai-row textarea { width: 100%; min-height: 44px; padding: var(--s2) var(--s3); background: var(--field); border: 1px solid var(--line-strong); border-radius: var(--r-field); }
+.ai-row textarea { min-height: 96px; resize: vertical; }
+.ai-acts { display: flex; flex-wrap: wrap; gap: var(--s2); align-items: center; }
+.ai-acts .btn { min-height: 44px; }
+.ai-switch { display: flex; gap: var(--s2); align-items: center; min-height: 44px; }
+.ai-switch input { width: 20px; height: 20px; }
+.msgs { display: grid; gap: var(--s3); list-style: none; margin: 0; padding: 0; }
+.msg { padding: var(--s3); border-radius: var(--r-block); border: 1px solid var(--line); white-space: pre-wrap; overflow-wrap: anywhere; }
+.msg.user { background: var(--field); }
+.msg .who { display: block; font-size: var(--fs-xs); color: var(--muted); margin-bottom: var(--s1); }
+.dry { background: var(--field); border-radius: var(--r-block); padding: var(--s3); font: var(--fs-sm)/1.45 var(--mono); white-space: pre-wrap; overflow-wrap: anywhere; max-height: 280px; overflow: auto; margin: 0; }
+.files { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--s2); }
+.file-chip { display: inline-flex; gap: var(--s2); align-items: center; padding: var(--s1) var(--s3); border: 1px solid var(--line-strong); border-radius: var(--r-control); font-size: var(--fs-sm); overflow-wrap: anywhere; }
+.file-chip button { min-height: 32px; min-width: 32px; border: 0; background: transparent; border-radius: var(--r-control); }
+.file-chip button:hover { background: var(--hover); }
+.msg .save { margin-top: var(--s2); min-height: 44px; }
+.status-line { min-height: 1.5em; margin: 0; }
+.status-line.err { color: var(--error); }
+.status-line.ok { color: var(--ok); }
+.finds { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--s2); }
+.find { display: flex; flex-wrap: wrap; gap: var(--s2); align-items: center; padding: var(--s2) var(--s3); border: 1px solid var(--line-strong); border-radius: var(--r-block); }
+.find q { font-weight: 500; overflow-wrap: anywhere; }
+.find .meta { color: var(--muted); font-size: var(--fs-sm); }
+.weak { color: var(--warn); }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } }
+</style>
+</head>
+<body>
+<main class="ai-page">
+  <header class="ai-top">
+    <h1>ИИ-чат</h1>
+    <a class="btn" href="/">К чатам</a>
+  </header>
+  <p class="ai-note">ИИ выключен по умолчанию. Включённый чат отправляет провайдеру только обезличенный текст с метками (Name1, Org2): исходные значения остаются на этом компьютере. Перед отправкой можно посмотреть запрос целиком.</p>
+
+  <section class="ai-card" aria-labelledby="set-h">
+    <h2 id="set-h">Провайдер</h2>
+    <div class="ai-switch"><input type="checkbox" id="g-enabled"><label for="g-enabled">Разрешить работу с ИИ в программе</label></div>
+    <div class="ai-row"><label for="p-sel">Провайдеры</label><select id="p-sel"></select></div>
+    <div class="ai-row"><label for="p-name">Название (например, «Тедорра»)</label><input type="text" id="p-name" maxlength="60" autocomplete="off"></div>
+    <div class="ai-row"><label for="p-kind">Тип провайдера</label><select id="p-kind"></select></div>
+    <div class="ai-row"><label for="p-url">Адрес (необязательно для облачных провайдеров)</label><input type="text" id="p-url" autocomplete="off" spellcheck="false"></div>
+    <div class="ai-row"><label for="p-model">Модель</label><input type="text" id="p-model" list="p-models" autocomplete="off" spellcheck="false"><datalist id="p-models"></datalist></div>
+    <div class="ai-row"><label for="p-list">Модели для выбора в чате (через запятую)</label><input type="text" id="p-list" autocomplete="off" spellcheck="false"></div>
+    <div class="ai-switch"><input type="checkbox" id="p-internal"><label for="p-internal">Внутренний сервер организации (метка «внутренняя»; это подпись, а не защита)</label></div>
+    <div class="ai-row"><label for="p-key">Ключ API (после сохранения не показывается)</label><input type="password" id="p-key" autocomplete="off" spellcheck="false"></div>
+    <p class="ai-note" id="p-state" aria-live="polite"></p>
+    <div class="ai-acts">
+      <button class="btn main" id="p-save">Сохранить</button>
+      <button class="btn" id="p-test">Проверить подключение</button>
+      <button class="btn danger" id="p-delkey">Удалить ключ</button>
+      <button class="btn danger" id="p-del">Удалить провайдера</button>
+    </div>
+    <p class="status-line" id="p-status" role="status" aria-live="polite"></p>
+  </section>
+
+  <section class="ai-card" aria-labelledby="chat-h">
+    <h2 id="chat-h">Беседа</h2>
+    <div class="ai-row"><label for="c-select">Чат</label><select id="c-select"></select></div>
+    <div id="aic-list"></div>
+    <div id="aic-composer"></div>
+  </section>
+</main>
+<script src="/ai-chat.js"></script>
+<script>
+"use strict";
+const H = {"X-Requested-With": "anonymizer", "Content-Type": "application/json"};
+const $ = id => document.getElementById(id);
+async function api(method, path, body) {
+  const r = await fetch(path, {method, headers: H, body: body === undefined ? undefined : JSON.stringify(body)});
+  let data = {};
+  try { data = await r.json(); } catch (e) { /* empty body */ }
+  if (!r.ok) throw new Error(data.error || "Ошибка запроса");
+  return data;
+}
+const state = {chat: "", providers: [], resolve: {anonymize: [], allow: []}, run: "", curated: {}, files: []};
+const KIND_NAMES = {anthropic: "Anthropic", openai: "OpenAI", gemini: "Google Gemini", openrouter: "OpenRouter", custom: "Свой адрес (OpenAI-совместимый)"};
+function say(id, text, cls) { const el = $(id); el.textContent = text || ""; el.className = "status-line" + (cls ? " " + cls : ""); }
+
+let curId = "";
+function fillForm(cur) {
+  const sel = $("p-kind");
+  $("p-name").value = cur ? cur.name : ""; if (cur) sel.value = cur.kind;
+  $("p-url").value = cur ? cur.base_url || "" : ""; $("p-model").value = cur ? cur.model || "" : "";
+  $("p-list").value = cur ? (cur.models || []).join(", ") : ""; $("p-internal").checked = !!(cur && cur.internal);
+  $("p-key").value = ""; $("p-del").hidden = !cur; $("p-delkey").hidden = !cur;
+  const st = $("p-state"); st.className = "ai-note" + (cur && cur.weak ? " weak" : "");
+  st.textContent = cur ? (cur.saved ? "Ключ сохранён: " + cur.masked + " (" + (cur.backend === "keychain" ? "связка ключей системы" : cur.backend === "dpapi" ? "защита Windows" : "файл профиля") + ")" : (cur.local ? "Ключ не нужен: сервер на этом компьютере." : "Ключ не сохранён.")) : "Новый провайдер: заполните поля и нажмите «Сохранить».";
+  if (cur && cur.weak) st.textContent += ". Ключ лежит в зашифрованном файле профиля: это слабее связки ключей системы.";
+  fillModels();
+}
+async function loadProviders(select) {
+  const d = await api("GET", "/api/ai/providers");
+  state.providers = d.items; state.curated = d.curated || {};
+  $("g-enabled").checked = !!d.enabled;
+  const kind = $("p-kind");
+  if (!kind.options.length) for (const k of d.kinds) kind.add(new Option(KIND_NAMES[k] || k, k));
+  const ps = $("p-sel"); ps.replaceChildren();
+  for (const p of d.items) ps.add(new Option(p.name + " · " + p.badge, p.id));
+  ps.add(new Option("Добавить провайдера…", ""));
+  curId = select !== undefined ? select : (d.items.some(p => p.id === curId) ? curId : (d.items[0] ? d.items[0].id : ""));
+  ps.value = curId; fillForm(d.items.find(p => p.id === curId));
+  if (typeof chatUI !== "undefined" && chatUI.refreshProviders) chatUI.refreshProviders();
+}
+function fillModels() {
+  const list = $("p-models"); list.replaceChildren();
+  for (const m of state.curated[$("p-kind").value] || []) list.append(new Option(m, m));
+}
+function pid() { return curId; }
+function slug(name) { return (name.toLowerCase().replace(/[^a-z0-9_-]+/g, "-").replace(/^-+|-+$/g, "") || "prov") .slice(0, 30); }
+async function saveProvider() {
+  let id = curId;
+  if (!id) { const base = slug($("p-name").value); id = base; let n = 2; const taken = new Set(state.providers.map(p => p.id)); while (taken.has(id)) id = base + "-" + n++; }
+  const models = $("p-list").value.split(",").map(x => x.trim()).filter(Boolean);
+  await api("POST", "/api/ai/providers/" + id, {kind: $("p-kind").value, base_url: $("p-url").value.trim(), model: $("p-model").value.trim(), name: $("p-name").value.trim(), models, internal: $("p-internal").checked});
+  if ($("p-key").value) { await api("POST", "/api/ai/providers/" + id + "/key", {key: $("p-key").value}); $("p-key").value = ""; }
+  say("p-status", "Сохранено.", "ok"); await loadProviders(id);
+}
+
+async function loadChats() {
+  const d = await api("GET", "/api/chats");
+  const sel = $("c-select"); sel.replaceChildren();
+  for (const c of d.items) sel.add(new Option(c.title || "Без названия", c.id));
+  const want = new URLSearchParams(location.search).get("chat");
+  if (want && [...sel.options].some(o => o.value === want)) sel.value = want;
+  state.chat = sel.value;
+  if (state.chat) await loadChat(); else chatUI.say("Сначала создайте чат на главной странице.");
+}
+const chatUI = AIChat.mount({list: $("aic-list"), composer: $("aic-composer")});
+async function loadChat() { await chatUI.setChat(state.chat, true); }
+function guard(fn) { return async () => { try { await fn(); } catch (e) { chatUI.say(e.message, "err"); } }; }
+$("p-save").onclick = async () => { try { await saveProvider(); } catch (e) { say("p-status", e.message, "err"); } };
+$("p-kind").onchange = fillModels;
+$("p-sel").onchange = () => { curId = $("p-sel").value; fillForm(state.providers.find(p => p.id === curId)); say("p-status", ""); };
+$("p-del").onclick = async () => { try { if (!curId) return; await api("DELETE", "/api/ai/providers/" + curId); say("p-status", "Провайдер удалён.", "ok"); curId = ""; await loadProviders(); } catch (e) { say("p-status", e.message, "err"); } };
+$("p-test").onclick = async () => {
+  try { const r = await api("POST", "/api/ai/providers/" + pid() + "/test"); say("p-status", r.ok ? "Подключение работает." : r.message, r.ok ? "ok" : "err"); }
+  catch (e) { say("p-status", e.message, "err"); }
+};
+$("p-delkey").onclick = async () => { try { await api("DELETE", "/api/ai/providers/" + pid() + "/key"); say("p-status", "Ключ удалён.", "ok"); await loadProviders(curId); } catch (e) { say("p-status", e.message, "err"); } };
+$("g-enabled").onchange = async () => { await api("POST", "/api/ai/enabled", {enabled: $("g-enabled").checked}); };
+$("c-select").onchange = () => { state.chat = $("c-select").value; loadChat(); };
+loadProviders().then(loadChats).catch(e => chatUI.say(e.message, "err"));
+</script>
+</body>
+</html>
