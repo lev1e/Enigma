@@ -58,6 +58,28 @@ jobs:
           & $iscc "/DMyAppVersion=$env:APP_VERSION" packaging\Anonymizer.iss
           if ($LASTEXITCODE -ne 0) { throw "Inno Setup failed" }
           if (-not (Test-Path "dist\Anonymizer-Setup-$env:APP_VERSION.exe")) { throw "Installer dist\Anonymizer-Setup-$env:APP_VERSION.exe was not produced" }
+      - name: Smoke-test the installed program
+        timeout-minutes: 5
+        shell: powershell
+        run: |
+          $install = Join-Path $env:RUNNER_TEMP "Anonymizer-install-smoke"
+          $log = Join-Path $env:RUNNER_TEMP "Anonymizer-install-smoke.log"
+          # Test installation without Office registration, certificate prompts or a desktop shortcut.
+          $arguments = @('/VERYSILENT', '/SUPPRESSMSGBOXES', '/NORESTART', '/SP-', '/NOICONS', '/TASKS="!addin,!desktopicon"', "/DIR=`"$install`"", "/LOG=`"$log`"")
+          $setup = Start-Process -FilePath "dist\Anonymizer-Setup-$env:APP_VERSION.exe" -ArgumentList $arguments -PassThru
+          if (-not $setup.WaitForExit(180000)) { $setup.Kill(); throw "Installer timed out" }
+          if ($setup.ExitCode -ne 0) { throw "Installer exited with $($setup.ExitCode); log: $log" }
+          $installedExe = Join-Path $install "Anonymizer.exe"
+          if (-not (Test-Path $installedExe)) { throw "Installed program is missing" }
+          if (-not (Test-Path (Join-Path $install "QUICKSTART.md"))) { throw "Installed quickstart is missing" }
+          if ((Get-FileHash $installedExe -Algorithm SHA256).Hash -ne (Get-FileHash "dist\Anonymizer.exe" -Algorithm SHA256).Hash) { throw "Installed executable differs from the build" }
+          $report = Join-Path $env:RUNNER_TEMP "installed-selfcheck.json"
+          $check = Start-Process -FilePath $installedExe -ArgumentList "--selfcheck", "`"$report`"" -PassThru
+          if (-not $check.WaitForExit(120000)) { $check.Kill(); throw "Installed selfcheck timed out" }
+          if (-not (Test-Path $report)) { throw "Installed selfcheck report is missing" }
+          Get-Content $report -Raw | Write-Host
+          $result = Get-Content $report -Raw | ConvertFrom-Json
+          if ($check.ExitCode -ne 0 -or -not $result.ok -or -not $result.checks.ner_model) { throw "Installed program selfcheck failed" }
       - name: Checksums
         shell: powershell
         run: |

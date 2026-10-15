@@ -24,6 +24,10 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+      - name: Install OCR runtime for integration tests
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr tesseract-ocr-eng tesseract-ocr-rus poppler-utils
       - name: Install (test dependencies only)
         run: |
           python -m pip install --upgrade pip
