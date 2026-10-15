@@ -11,7 +11,7 @@
 ## Выпуск новой версии
 1. Поднять `__version__` в `anonymizer/__init__.py`.
 2. Запустить скрипт, выложить все три файла в одну папку; `latest.json` должен лежать по постоянному адресу.
-3. Лента: GitHub Releases репозитория `lev1e/Anonymizer`. `--base-url` = `https://github.com/lev1e/Anonymizer/releases/download/v<версия>`; адрес ленты зашит в `anonymizer/updater.py` (`DEFAULT_FEED_URL`, `.../releases/latest/download/latest.json`),
+3. Лента: GitHub Releases репозитория `lev1e/Enigma`. `--base-url` = `https://github.com/lev1e/Enigma/releases/download/v<версия>`; адрес ленты зашит в `anonymizer/updater.py` (`DEFAULT_FEED_URL`, `.../releases/latest/download/latest.json`),
    Он должен быть прописан до сборки первой раздаваемой версии.
 
 Ключ подписи: `~/.anonymizer-release/update-signing.pem` (вне репозитория; потеря = старые копии больше не обновятся,

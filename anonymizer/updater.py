@@ -31,7 +31,7 @@ from urllib.parse import urlparse
 from . import __version__, crypto
 
 # Постоянный адрес ленты. Переопределяется переменной ANONYMIZER_UPDATE_URL (для проверки и для закрытых раздач).
-DEFAULT_FEED_URL = "https://github.com/lev1e/Anonymizer/releases/latest/download/latest.json"
+DEFAULT_FEED_URL = "https://github.com/lev1e/Enigma/releases/latest/download/latest.json"
 PUBLIC_KEY_B64 = "c4LAWde/wStziM2eEY61llwptIZHdeGuyhUKhMqLvsg="
 BUNDLE_ID = "dev.enigma.anonymizer"
 CHECK_INTERVAL = 12 * 3600
