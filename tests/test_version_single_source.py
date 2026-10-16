@@ -20,6 +20,14 @@ def _read(*parts: str) -> str:
     return ROOT.joinpath(*parts).read_text(encoding="utf-8")
 
 
+def _literal_app_versions(text: str) -> list[str]:
+    # Tesseract's explicit four-part package version is a dependency pin, not
+    # the application version. Mask only that argument, retaining its line.
+    text = re.sub(r"(\bchoco install tesseract --version=)\d+(?:\.\d+){3}\b",
+                  r"\1<dependency-version>", text)
+    return re.findall(r"\b\d+\.\d+\.\d+\b", text)
+
+
 class VersionSingleSourceTest(unittest.TestCase):
     def test_pyproject_is_dynamic(self):
         text = _read("pyproject.toml")
@@ -43,12 +51,19 @@ class VersionSingleSourceTest(unittest.TestCase):
             self.assertEqual(gen_version_info.read_version(Path(tmp)), "9.8.7")
 
     def test_no_stale_literal_in_packaging_files(self):
-        stale = re.compile(r"\b\d+\.\d+\.\d+\b")
         for parts in (("packaging", "Anonymizer.iss"), (".github", "workflows", "windows-build.yml"), ("build_windows.ps1",)):
             text = _read(*parts)
-            for match in stale.finditer(text):
+            for version in _literal_app_versions(text):
                 # 0.0.0 is the WebView2 "not installed" sentinel in the .iss, not an app version.
-                self.assertIn(match.group(0), ("3.12", "0.0.0"),f"{'/'.join(parts)} hard-codes version {match.group(0)}")
+                self.assertIn(version, ("3.12", "0.0.0"), f"{'/'.join(parts)} hard-codes version {version}")
+
+    def test_dependency_pin_does_not_hide_stale_application_versions(self):
+        command = "choco install tesseract --version=5.5.3.20260724 --no-progress -y"
+        self.assertEqual(_literal_app_versions(command), [])
+        for stale in ('APP_VERSION="2.3.0"', 'Anonymizer-Setup-2.3.0.exe', 'other_tool==2.3.0'):
+            with self.subTest(stale=stale):
+                self.assertIn("2.3.0", _literal_app_versions(command + " " + stale))
+                self.assertIn("2.3.0", _literal_app_versions(command + "\n" + stale))
 
     def test_iss_requires_define_and_uses_it_for_file_name(self):
         iss = _read("packaging", "Anonymizer.iss")
