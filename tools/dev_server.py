@@ -30,7 +30,6 @@ webapp.Handler.do_GET = _get
 home = Path(os.environ.get("ANONYMIZER_HOME") or tempfile.mkdtemp(prefix="anonymizer-dev-"))
 os.environ["ANONYMIZER_HOME"] = str(home)
 server, app = create_server(Vault(home / "vault.bin"), home / "work", port=int(os.environ.get("PORT", "8765")))
-app.token = "devtoken"
 print(f"http://127.0.0.1:{server.server_address[1]}/?t={app.token}", flush=True)
 threading.Thread(target=server.serve_forever, daemon=True).start()
 app.stop.wait()

@@ -13,6 +13,7 @@ import re
 from dataclasses import replace
 
 from .models import Decision, Finding
+from .bounded_regex import markup_tokens
 
 CSV_SUFFIXES = (".csv", ".tsv")
 
@@ -232,7 +233,7 @@ def _html_layout(text: str) -> tuple[str, list[tuple[int, int]]]:
             chars[a] = lead
 
     pos = 0
-    for m in _HTML_TOKEN.finditer(text):
+    for m in markup_tokens(text, _HTML_TOKEN):
         if m.start() > pos:
             visible.append((pos, m.start()))
         pos = m.end()
@@ -303,7 +304,7 @@ def _xml_layout(text: str) -> tuple[str, list[tuple[int, int]]]:
             chars[a] = lead
 
     pos = 0
-    for m in _XML_TOKEN.finditer(text):
+    for m in markup_tokens(text, _XML_TOKEN, xml=True):
         if m.start() > pos:
             visible.append((pos, m.start()))
         pos = m.end()

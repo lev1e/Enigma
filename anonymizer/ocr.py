@@ -18,6 +18,7 @@ import sys
 import tempfile
 import time
 from dataclasses import dataclass
+from functools import cache
 from pathlib import Path
 
 import fitz
@@ -51,6 +52,15 @@ def _sweep_script_dirs() -> None:
             continue
         except OSError:
             shutil.rmtree(path, ignore_errors=True)
+
+
+@cache
+def _native_cache_dir() -> Path:
+    # A predictable shared-temp path can be pre-populated with an executable or
+    # symlink by another local user. mkdtemp creates a fresh private directory.
+    directory = Path(tempfile.mkdtemp(prefix="anonymizer-native-"))
+    atexit.register(shutil.rmtree, directory, ignore_errors=True)
+    return directory
 
 
 @dataclass(slots=True)
@@ -89,7 +99,7 @@ class VisionProvider:
     def _cached(self) -> Path:
         source = HERE / "ocr_helpers" / "vision_ocr.swift"
         digest = hashlib.sha1(source.read_bytes()).hexdigest()[:10] if source.exists() else "none"
-        return Path(tempfile.gettempdir()) / f"anonymizer-ocr-{os.getuid()}" / f"vision_ocr-{digest}"
+        return _native_cache_dir() / f"vision_ocr-{digest}"
 
     def _build(self) -> Path:
         packaged = self._packaged()
@@ -125,7 +135,7 @@ def _helper_binary(stem: str) -> Path | None:
     if not source.exists():
         return None
     digest = hashlib.sha1(source.read_bytes()).hexdigest()[:10]
-    target = Path(tempfile.gettempdir()) / f"anonymizer-ocr-{os.getuid()}" / f"{stem}-{digest}"
+    target = _native_cache_dir() / f"{stem}-{digest}"
     if target.exists():
         return target
     if not shutil.which("swiftc"):
@@ -179,6 +189,14 @@ def detect_barcodes(page, rect: fitz.Rect | None = None, scale: float = 3.0) -> 
     return out
 
 
+class _TesseractWords(list):
+    """Recognition and deferred boxes travel together, without shared engine state."""
+
+    def __init__(self):
+        super().__init__()
+        self.deferred: list[Word] = []
+
+
 class TesseractProvider:
     name = "tesseract"
 
@@ -196,14 +214,28 @@ class TesseractProvider:
         return {"rus", "eng"} <= langs
 
     def words(self, png: Path) -> list[Word]:
-        done = subprocess.run([self.exe, str(png), "stdout", "-l", getattr(self, "lang", "rus+eng"), "--dpi", str(OCR_DPI), *getattr(self, "extra", ()), "tsv"],
+        # TSV has no text-direction field. Tesseract's implicit vertical-text
+        # recognition otherwise returns sideways word boxes as horizontal text,
+        # causing incorrect character placement and incomplete redaction. Keep
+        # page segmentation, but let our explicit orientation passes rotate both
+        # the text and its boxes together.
+        done = subprocess.run([self.exe, str(png), "stdout", "-l", getattr(self, "lang", "rus+eng"), "--dpi", str(OCR_DPI),
+                               "-c", "textord_tabfind_vertical_text=0", *getattr(self, "extra", ()), "tsv"],
                               capture_output=True, text=True, timeout=300)
         if done.returncode != 0:
             raise OcrUnavailable("Tesseract завершился с ошибкой")
-        words: list[Word] = []
+        words = _TesseractWords()
         keys: dict[tuple[str, str, str], int] = {}
-        for row in done.stdout.splitlines()[1:]:
-            cols = row.split("\t")
+        rows = [row.split("\t") for row in done.stdout.splitlines()[1:]]
+        # Some Tesseract versions still rotate an inverted vertical block even
+        # with vertical detection disabled. TSV exposes its tall line box, but
+        # not the rotation. Defer such lines to the explicit rotated passes;
+        # retain narrow one-character fields, which have no readable direction.
+        tall_lines = {tuple(c[2:5]) for c in rows if len(c) >= 12 and c[0] == "4"
+                      and float(c[9]) > 2 * float(c[8])}
+        vertical_lines = {tuple(c[2:5]) for c in rows if len(c) >= 12 and c[0] == "5"
+                          and len(c[11].strip()) >= 3 and tuple(c[2:5]) in tall_lines}
+        for cols in rows:
             if len(cols) < 12 or cols[0] != "5" or not cols[11].strip():
                 continue
             line = keys.setdefault((cols[2], cols[3], cols[4]), len(keys))
@@ -212,7 +244,11 @@ class TesseractProvider:
                 conf = max(0.0, float(cols[10])) / 100.0
             except ValueError:
                 conf = 0.6
-            words.append(Word(cols[11], x, y, x + w, y + h, line, None, conf))
+            word = Word(cols[11], x, y, x + w, y + h, line, None, conf)
+            if tuple(cols[2:5]) in vertical_lines:
+                words.deferred.append(word)
+            else:
+                words.append(word)
         return words
 
 
@@ -532,6 +568,9 @@ def ocr_page_words(page, rect: fitz.Rect | None = None, scale: float | None = No
     scale = scale or OCR_DPI / 72.0
     clip = fitz.Rect(_tr(page.rotation_matrix, rect)) if rect is not None and page.rotation else (rect or page.rect)
     base, _, _ = _run_engine(engine, page, clip, scale)
+    deferred = [fitz.Rect(clip.x0 + w.x0 / scale, clip.y0 + w.y0 / scale,
+                          clip.x0 + w.x1 / scale, clip.y0 + w.y1 / scale)
+                for w in getattr(base, "deferred", ())]
     out = []
     for w in base:
         boxes = None
@@ -542,6 +581,8 @@ def ocr_page_words(page, rect: fitz.Rect | None = None, scale: float | None = No
                         [(clip.x0 + a / scale, clip.x0 + b / scale) for a, b in w.cx] if w.cx else None, w.conf,
                         w.rot if boxes else 0, boxes))
     if not orientations or (getattr(engine, "native_rotation", False) and not FORCE_PROBE):
+        if deferred:
+            raise OcrUnavailable("Не удалось проверить направление повёрнутого текста")
         return _unrotate(out, page), scale
     probe = min(scale, ORIENT_PROBE_SCALE)
     scores = {}
@@ -549,17 +590,36 @@ def ocr_page_words(page, rect: fitz.Rect | None = None, scale: float | None = No
         words, _, _ = _run_engine(engine, page, clip, probe, angle)
         scores[angle] = _readable(words)
     best = max(scores.values())
-    if best < ORIENT_MIN_SCORE:
-        return _unrotate(out, page), scale
-    keep = [a for a in scores if scores[a] >= max(ORIENT_MIN_SCORE, ORIENT_KEEP_SHARE * best)]
-    result = out if 0 in keep else []
+    if deferred:
+        # A short email or minority rotated annotation can be below the normal
+        # page-level threshold. Known deferred text must still get a full pass.
+        keep = sorted((a for a in scores if scores[a] > 0), key=scores.get, reverse=True)
+        if not keep:
+            raise OcrUnavailable("Не удалось распознать повёрнутый текст")
+    else:
+        if best < ORIENT_MIN_SCORE:
+            return _unrotate(out, page), scale
+        keep = [a for a in scores if scores[a] >= max(ORIENT_MIN_SCORE, ORIENT_KEEP_SHARE * best)]
+    result = out if 0 in keep and not deferred else []
     for angle in keep:
         if angle == 0:
+            if deferred:
+                for word in out:
+                    if not _inside_any(word, result):
+                        result.append(word)
             continue
         words, matrix, pix = _run_engine(engine, page, clip, scale, angle)
         for w in _to_page(words, matrix, pix, angle):
             if not _inside_any(w, result):
                 result.append(w)
+    if deferred:
+        recovered = RectGrid(fitz.Rect(w.x0, w.y0, w.x1, w.y1) for w in result)
+        for region in deferred:
+            # Never report an image as clean after silently discarding a readable
+            # vertical word. Require geometric recovery or refuse this OCR result.
+            covered = sum((region & box).get_area() for box in recovered.near(region))
+            if region.get_area() > 0 and covered < region.get_area() * .5:
+                raise OcrUnavailable("Не удалось полностью распознать повёрнутый текст")
     return _unrotate(result, page), scale
 
 

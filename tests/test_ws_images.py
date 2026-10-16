@@ -231,12 +231,28 @@ class BrandPolicy(unittest.TestCase):
         self.assertEqual(Path(rf.out_path).read_bytes(), png)
 
     def test_painted_logo_text_gets_same_token_elsewhere(self):
+        from unittest.mock import patch
+        from anonymizer import formats
+
         env = self.make()
-        job = env.anonymize(("logo.png", logo_png()), ("note.txt", "Партнёр Кооперация Энергия подписал договор."))
-        token = next(m for m in seen_words(Path(job.files[0].out_path).read_bytes()).split() if m.startswith("Company"))
+        original = logo_png()
+        # Observe the actual drawing: bilingual OCR can read the visible Latin
+        # Company1 label as Cyrillic Сотрапу1. Token identity is established by
+        # the renderer's exact argument, while OCR still checks confidentiality.
+        with patch.object(formats, "draw_text", wraps=formats.draw_text) as draw:
+            job = env.anonymize(("logo.png", original), ("note.txt", "Партнёр Кооперация Энергия подписал договор."))
+        tokens = [call.args[3] for call in draw.call_args_list if call.args[3].startswith("Company")]
+        self.assertTrue(tokens, "The company token must actually be drawn into the image")
+        self.assertEqual(len(set(tokens)), 1)
+        token = tokens[0]
+        output = Path(job.files[0].out_path).read_bytes()
+        self.assertNotEqual(original, output)
+        seen = seen_words(output)
+        self.assertNotIn("Кооперация", seen)
+        self.assertNotIn("Энергия", seen)
         note = Path(job.files[1].out_path).read_text(encoding="utf-8")
         self.assertNotIn("Кооперация Энергия", note)
-        self.assertIn(token.split("_")[0].rstrip("0123456789") , note)
+        self.assertIn(token, note)
 
     def test_pptx_paint_restores_exactly(self):
         env = self.make("paint")

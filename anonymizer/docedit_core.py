@@ -59,7 +59,8 @@ class Opts:
 
 
 def fingerprint(text: str) -> str:
-    return hashlib.sha1(text.encode("utf-8")).hexdigest()[:8]
+    # This digest gates stale edits; a 32-bit prefix permits practical collisions.
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()
 
 
 def labels_of(text: str) -> set[str]:

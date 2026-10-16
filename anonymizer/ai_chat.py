@@ -43,7 +43,26 @@ SSE_MAX_SECONDS = 900.0
 EDIT_RE = re.compile(r"(?<!\w)(поправ|исправ|измени|изменит|замени|заменит|отредактир|редактир|перепиш|добавь|добавит|удали|убери|"
                      r"дополни|переформулир|сократи|правк|edit|fix|rewrite|change|replace)", re.I)
 TEXT_EXTS = (".txt", ".md", ".markdown", ".csv", ".tsv", ".json", ".html", ".htm", ".xml", ".log", ".yaml", ".yml")
-BLOCK_RE = re.compile(r"<<<ФАЙЛ>>>[ \t]*\r?\n?(.*?)\r?\n?[ \t]*<<<КОНЕЦ>>>", re.S)
+def _edit_block(raw: str) -> str | None:
+    start = raw.find("<<<ФАЙЛ>>>")
+    if start < 0:
+        return None
+    start += len("<<<ФАЙЛ>>>")
+    end = raw.find("<<<КОНЕЦ>>>", start)
+    if end < 0:
+        return None
+    body = raw[start:end].lstrip(" \t")
+    if body.startswith("\r"):
+        body = body[1:]
+    if body.startswith("\n"):
+        body = body[1:]
+    body = body.rstrip(" \t")
+    if body.endswith("\n"):
+        body = body[:-1]
+    if body.endswith("\r"):
+        body = body[:-1]
+    return body
+
 EDIT_SYSTEM = ("Ты редактируешь файл. Первый из приложенных файлов (Файл 1) нужно изменить по просьбе пользователя. "
                "Верни ПОЛНЫЙ исправленный текст этого файла между строками <<<ФАЙЛ>>> и <<<КОНЕЦ>>>, без пояснений внутри блока. "
                "Все метки в тексте (например Name1, Phone1) оставляй без изменений. Пояснение к правке, если нужно, напиши после блока.")
@@ -574,10 +593,9 @@ class AiChats:
     def _apply_edit(self, run: dict, raw: str) -> dict:
         """Turns the model's answer into a new version of the file, or says plainly why not. Fails closed."""
         edit = run["edit"]
-        match = BLOCK_RE.search(raw)
-        if not match or not match.group(1).strip():
+        label_text = _edit_block(raw)
+        if label_text is None or not label_text.strip():
             return {"applied": False, "note": "ИИ не вернул файл целиком, поэтому новая версия не создана. Текстовый ответ ниже."}
-        label_text = match.group(1)
         restorer = Restorer(self.app.vault)
         restored = restorer.substitute(label_text)
         st = restorer.stats

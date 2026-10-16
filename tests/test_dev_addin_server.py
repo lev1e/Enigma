@@ -22,7 +22,7 @@ class DevAddinServerTests(unittest.TestCase):
             base = f"http://127.0.0.1:{server.server_address[1]}"
             fake = urllib.request.urlopen(base + "/addin/vendor/office.js", timeout=10).read().decode("utf-8")
             self.assertIn("__fake", fake)
-            req = urllib.request.Request(base + "/api/addin/info", headers={"X-Requested-With": "anonymizer", "X-Addin-Token": "devtoken"})
+            req = urllib.request.Request(base + "/api/addin/info", headers={"X-Requested-With": "anonymizer", "X-Addin-Token": api.token})
             self.assertTrue(json.loads(urllib.request.urlopen(req, timeout=10).read())["ok"])
             bad = urllib.request.Request(base + "/api/addin/info", headers={"X-Requested-With": "anonymizer", "X-Addin-Token": "x"})
             with self.assertRaises(urllib.error.HTTPError):

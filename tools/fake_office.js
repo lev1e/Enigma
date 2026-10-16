@@ -22,20 +22,21 @@
     const realFetch = window.fetch.bind(window); let failed = false;
     window.fetch = (url, opts) => (!failed && String(url).includes("/api/addin/verify/")) ? (failed = true, Promise.reject(new TypeError("Failed to fetch"))) : realFetch(url, opts);
   }
+  const devHeaders = {"X-Requested-With": "anonymizer"};
   const dev = path => "/dev/doc/" + path + "?name=" + encodeURIComponent(NAME) + "&host=" + HOST + (fresh && path === "bytes" ? "&fresh=1" : "");
   async function structureOf(bytes) {
-    const r = await fetch("/dev/structure?name=" + encodeURIComponent(NAME), {method: "POST", body: bytes});
+    const r = await fetch("/dev/structure?name=" + encodeURIComponent(NAME), {method: "POST", body: bytes, headers: devHeaders});
     return r.json();
   }
   async function save() {
-    await fetch(dev("bytes"), {method: "PUT", body: state.bytes});
-    await fetch(dev("meta"), {method: "PUT", body: JSON.stringify({...state.meta, sheets: state.sheets.map(s => ({id: s.id, name: s.name, visibility: s.visibility})), slides: state.slides})});
+    await fetch(dev("bytes"), {method: "PUT", body: state.bytes, headers: devHeaders});
+    await fetch(dev("meta"), {method: "PUT", body: JSON.stringify({...state.meta, sheets: state.sheets.map(s => ({id: s.id, name: s.name, visibility: s.visibility})), slides: state.slides}), headers: devHeaders});
   }
   async function load() {
-    const r = await fetch(dev("bytes"));
+    const r = await fetch(dev("bytes"), {headers: devHeaders});
     fresh = false;
     state.bytes = new Uint8Array(await r.arrayBuffer());
-    const meta = await (await fetch(dev("meta"))).json();
+    const meta = await (await fetch(dev("meta"), {headers: devHeaders})).json();
     state.meta = {props: meta.props || {}, custom: meta.custom || {}, settings: meta.settings || {}};
     const st = await structureOf(state.bytes);
     state.structure = st;
