@@ -216,3 +216,10 @@ Python 3.12.15 in `/tmp/enigma-security-venv`; exact project requirements instal
 The owner subsequently requested publication and build verification and explicitly authorized GitHub Actions for native Windows builds. The earlier no-CI constraint therefore no longer applies to this follow-up. The packaging-version test correction passed together with all targeted security regressions: `python -m unittest tests.test_version_single_source tests.test_security_remediation tests.test_security_regex tests.test_frontend_security`, 23 tests passed. Native build results and immutable source revisions are recorded in [BUILD-VERIFICATION.md](BUILD-VERIFICATION.md).
 
 An additional Tesseract rotated-redaction defect was reproduced and corrected during native build verification, outside the 60 original Blender rows. See [BUILD-VERIFICATION.md](BUILD-VERIFICATION.md) for the root cause, unchanged confidentiality assertions, before/after evidence, and final platform build results.
+
+
+## Final publication verification
+
+The follow-up is fully verified on runtime source `628ba4d`: local complete suite **1,829 tests, 0 failures/errors, 3 existing skips**; native Windows complete suite **1,829 tests, 0 failures/errors, 24 platform/data skips**; Linux complete suite **1,829 tests, 0 failures/errors, 22 platform/data skips**, with all text/noise quality gates passing against the unchanged baseline. The original packaging-test false failure has been corrected with negative regression coverage. Windows portable/installer builds and installed-program selfchecks passed. macOS arm64 app, strict ad hoc signature verification, frozen selfchecks and ZIP/DMG integrity passed.
+
+[BUILD-VERIFICATION.md](BUILD-VERIFICATION.md) contains immutable workflow links, artifact checksums, additional OCR fixes, and verification limits. The historical initial-run failures above are retained as audit evidence and are not the final results.
