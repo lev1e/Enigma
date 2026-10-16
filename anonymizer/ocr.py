@@ -206,7 +206,13 @@ class TesseractProvider:
         return {"rus", "eng"} <= langs
 
     def words(self, png: Path) -> list[Word]:
-        done = subprocess.run([self.exe, str(png), "stdout", "-l", getattr(self, "lang", "rus+eng"), "--dpi", str(OCR_DPI), *getattr(self, "extra", ()), "tsv"],
+        # TSV has no text-direction field. Tesseract's implicit vertical-text
+        # recognition otherwise returns sideways word boxes as horizontal text,
+        # causing incorrect character placement and incomplete redaction. Keep
+        # page segmentation, but let our explicit orientation passes rotate both
+        # the text and its boxes together.
+        done = subprocess.run([self.exe, str(png), "stdout", "-l", getattr(self, "lang", "rus+eng"), "--dpi", str(OCR_DPI),
+                               "-c", "textord_tabfind_vertical_text=0", *getattr(self, "extra", ()), "tsv"],
                               capture_output=True, text=True, timeout=300)
         if done.returncode != 0:
             raise OcrUnavailable("Tesseract завершился с ошибкой")

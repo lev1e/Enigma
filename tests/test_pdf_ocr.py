@@ -248,6 +248,28 @@ class LatinInnLabel(unittest.TestCase):
         self.assertNotIn("770701001", out)
 
 
+class TesseractDirections(unittest.TestCase):
+    def test_tsv_recognition_leaves_rotation_to_explicit_page_passes(self):
+        from subprocess import CompletedProcess
+        from unittest.mock import patch
+
+        # TSV describes a horizontal word, with no direction metadata. The same
+        # shape must never represent text Tesseract rotated internally.
+        tsv = "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext\n"
+        tsv += "5\t1\t1\t1\t1\t1\t10\t20\t100\t20\t95\tПетрович\n"
+        for cls in (ocr.TesseractProvider, ocr.TesseractSupplement):
+            with self.subTest(provider=cls.__name__):
+                engine = cls()
+                engine.exe = "tesseract"
+                with patch.object(ocr.subprocess, "run", return_value=CompletedProcess([], 0, tsv, "")) as run:
+                    words = engine.words(Path("scan.png"))
+                command = run.call_args.args[0]
+                option = command.index("textord_tabfind_vertical_text=0")
+                self.assertEqual(command[option - 1], "-c")
+                self.assertEqual([w.text for w in words], ["Петрович"])
+                self.assertEqual((words[0].x0, words[0].y0, words[0].x1, words[0].y1), (10, 20, 110, 40))
+
+
 class WindowsOcrMerge(unittest.TestCase):
     """Слияние слов русского и английского движков Windows (сам движок на этой машине недоступен)."""
 
