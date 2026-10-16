@@ -17,12 +17,12 @@ Full licence texts: `anonymizer/web/vendor/licenses/`. File hashes, sources and 
 
 Прямые зависимости (`requirements.txt`):
 
-- cryptography 46.0.0: Apache-2.0 OR BSD-3-Clause
+- cryptography 50.0.2: Apache-2.0 OR BSD-3-Clause
 - lxml 6.1.1: BSD-3-Clause
 - openpyxl 3.1.5: MIT
 - python-docx 1.2.0: MIT
 - python-pptx 1.0.2: MIT
-- PyMuPDF 1.26.6: двойная лицензия GNU AGPL 3.0 или коммерческая Artifex. **Требует проверки владельцем** (см. ниже).
+- PyMuPDF 1.26.7: двойная лицензия GNU AGPL 3.0 или коммерческая Artifex. **Требует проверки владельцем** (см. ниже).
 - Pillow 12.3.0: MIT-CMU
 - pymorphy3 2.0.6: MIT; pymorphy3-dicts-ru 2.4.417150.4580142: MIT
 - pywebview 6.2.1: BSD-3-Clause

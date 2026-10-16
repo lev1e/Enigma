@@ -11,6 +11,7 @@ from contextvars import ContextVar
 from collections import defaultdict
 from dataclasses import dataclass
 
+from .bounded_regex import DelimitedPattern, ConnectionPattern
 from . import geo_data
 from . import lexicon
 from . import morphology as mo
@@ -234,7 +235,7 @@ PII_RULES: tuple[Rule, ...] = (
     # Не российский номер: страна и 7–12 цифр в любых группах. Число с разрядами («+12 345 678») и сумма («+1 250 000 000 ₽») — не телефон.
     Rule("PHONE", re.compile(r"(?<![\d\w])\+\d{1,3}(?:[\s().\-]*\d){7,12}(?![\d\w])(?!\s?(?:руб|₽|%|тыс|млн|млрд|usd|eur|\$|€))", re.I),
          .93, "Номер телефона", validator=lambda v: not re.fullmatch(r"\+\d{1,3}(?: \d{3}){2,}", v.strip()) and not v.lstrip().startswith("+0")),
-    Rule("PHONE", re.compile(r"(?i)(?:тел(?:ефон)?|моб|факс|whatsapp|telegram)\.?\s*(?:[:№]|No\.?)?\s*((?:\+?\d[\s()\-]*){7,15})"), .95, "Номер телефона", group=1),
+    Rule("PHONE", re.compile(r"(?i)(?:тел(?:ефон)?|моб|факс|whatsapp|telegram)\.?\s*+(?:[:№]|No\.?)?\s*+((?:\+?\d[\s()\-]*+){7,15})"), .95, "Номер телефона", group=1),
     Rule("CARD", re.compile(r"(?<!\d)(?:\d{4}[ -]?){3}\d{4}(?:[ -]?\d{3})?(?!\d)"), .97, "Номер банковской карты", validator=valid_luhn),
     Rule("CARD", re.compile(r"(?i)(?:карт\w*|card|pan)\b[^\n]{0,20}?((?<!\d)(?:\d{4}[ -]){3}\d{4}(?!\d))"), .92, "Номер банковской карты", group=1),
     Rule("SNILS", re.compile(r"(?<!\d)\d{3}[- ]?\d{3}[- ]?\d{3}[ -]?\d{2}(?!\d)"), .99, "СНИЛС", validator=valid_snils),
@@ -370,10 +371,10 @@ def plausible_secret(value: str) -> bool:
 
 
 SECRET_RULES: tuple[Rule, ...] = (
-    Rule("SECRET", re.compile(r"-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----[\s\S]*?-----END (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----"), 1.0, "PRIVATE_KEY"),
+    Rule("SECRET", DelimitedPattern(r"-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----[\s\S]*?-----END (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----", r"-----BEGIN (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----", r"-----END (?:RSA |EC |DSA |OPENSSH |PGP )?PRIVATE KEY(?: BLOCK)?-----"), 1.0, "PRIVATE_KEY"),
     Rule("SECRET", re.compile(r"(?i)\bBearer\s+[A-Za-z0-9._~+/=-]{16,}"), 1.0, "BEARER"),
     Rule("SECRET", re.compile(r"(?<![\w-])eyJ[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}\.[A-Za-z0-9_-]{10,}(?![\w-])"), 1.0, "JWT"),
-    Rule("SECRET", re.compile(r"(?i)\b(?:Server|Host|Data Source)\s*=.+?(?:Password|Pwd)\s*=\s*[^;\s]+(?:;[^\n]*)?"), 1.0, "CONNECTION_STRING"),
+    Rule("SECRET", ConnectionPattern(), 1.0, "CONNECTION_STRING"),
     Rule("SECRET", re.compile(r"(?i)(?<![A-Za-z0-9])(?:password|passwd|pwd|пароль|api[_ -]?key|secret[_ -]?key|secret[_ -]?access[_ -]?key|access[_ -]?token|auth[_ -]?token|refresh[_ -]?token|client[_ -]?secret|private[_ -]?token|session[_ -]?id)\s*[:=]\s*[\"']?((?:&amp;|[^\s,;\"'<>]){8,})"), 1.0, "CREDENTIAL", group=1, validator=lambda v: plausible_secret(v)),
     # Пароль в адресе: «postgres://user:p4ssw0rd@host».
     Rule("SECRET", re.compile(r"(?i)\b[a-z][a-z0-9+.-]{1,15}://[^\s:/@]+:([^\s@/]{3,})@"), 1.0, "URL_PASSWORD", group=1),

@@ -1,13 +1,14 @@
-"""Панель Office для разработки: обычный HTTP на фиксированном порту, токен devtoken, двойник Office.js.
+"""Панель Office для разработки: обычный HTTP на фиксированном порту, случайный токен сеанса, двойник Office.js.
 
-Открыть: http://127.0.0.1:8792/addin/taskpane.html?host=Word&doc=Коммерческие%20условия.docx
+Открыть URL, напечатанный при запуске: он содержит ключ текущего сеанса и имя документа.
 Параметры двойника описаны в tools/fake_office.js. Документ лежит в памяти сервера (переживает перезагрузку страницы),
-`&fresh=1` возвращает исходный файл из case/. Только разработка: маршруты /dev/* без токена, HTTPS и сертификатов нет.
+`&fresh=1` возвращает исходный файл из case/. Только разработка: маршруты /dev/* только для своего Origin и с X-Requested-With, HTTPS и сертификатов нет.
 """
 from __future__ import annotations
 
 import json
 import os
+import secrets
 import sys
 import tempfile
 import threading
@@ -31,6 +32,10 @@ class DevHandler(AddinHandler):
     def _origins(self) -> set[str]:
         return {f"http://127.0.0.1:{self.port}", f"http://localhost:{self.port}"}
 
+    def _dev_allowed(self) -> bool:
+        return (self._host_ok() and self.headers.get("X-Requested-With") == "anonymizer"
+                and (not self.headers.get("Origin") or self.headers.get("Origin") in self._origins()))
+
     def _name(self) -> str:
         query = urllib.parse.parse_qs(urllib.parse.urlparse(self.path).query)
         return Path((query.get("name") or [""])[0]).name
@@ -51,6 +56,8 @@ class DevHandler(AddinHandler):
 
     def do_GET(self) -> None:
         path = urllib.parse.urlparse(self.path).path
+        if path.startswith("/dev/") and not self._dev_allowed():
+            return self._error(403, "Нет доступа")
         if path == "/addin/vendor/office.js":
             return self._send(200, FAKE_OFFICE.read_bytes(), addin.MIME[".js"])
         if path in ("/dev/doc/bytes", "/dev/doc/meta"):
@@ -65,6 +72,9 @@ class DevHandler(AddinHandler):
 
     def do_PUT(self) -> None:
         self._cached_body = None
+        if not self._dev_allowed():
+            self.close_connection = True
+            return self._error(403, "Нет доступа")
         path = urllib.parse.urlparse(self.path).path
         doc = self._doc() if path in ("/dev/doc/bytes", "/dev/doc/meta") else None
         if doc is None:
@@ -78,6 +88,9 @@ class DevHandler(AddinHandler):
 
     def do_POST(self) -> None:
         if urllib.parse.urlparse(self.path).path == "/dev/structure":
+            if not self._dev_allowed():
+                self.close_connection = True
+                return self._error(403, "Нет доступа")
             self._cached_body = None
             body = self._body()
             try:
@@ -91,8 +104,8 @@ class DevHandler(AddinHandler):
 def create(port: int = 8792, home: Path | None = None) -> tuple[AddinServer, AddinApi, App]:
     home = home or Path(os.environ.get("ANONYMIZER_HOME") or tempfile.mkdtemp(prefix="anonymizer-dev-addin-"))
     os.environ["ANONYMIZER_HOME"] = str(home)
-    app = App(Vault(home / "vault.bin"), home / "work", "devwindow")
-    api = AddinApi(app, Originals(home / "originals"), "devtoken")
+    app = App(Vault(home / "vault.bin"), home / "work", secrets.token_urlsafe(24))
+    api = AddinApi(app, Originals(home / "originals"), secrets.token_urlsafe(24))
     handler = type("BoundDevHandler", (DevHandler,), {"app": app, "api": api, "port": port})
     server = AddinServer(("127.0.0.1", port), handler)
     handler.port = server.server_address[1]

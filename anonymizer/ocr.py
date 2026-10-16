@@ -18,6 +18,7 @@ import sys
 import tempfile
 import time
 from dataclasses import dataclass
+from functools import cache
 from pathlib import Path
 
 import fitz
@@ -51,6 +52,15 @@ def _sweep_script_dirs() -> None:
             continue
         except OSError:
             shutil.rmtree(path, ignore_errors=True)
+
+
+@cache
+def _native_cache_dir() -> Path:
+    # A predictable shared-temp path can be pre-populated with an executable or
+    # symlink by another local user. mkdtemp creates a fresh private directory.
+    directory = Path(tempfile.mkdtemp(prefix="anonymizer-native-"))
+    atexit.register(shutil.rmtree, directory, ignore_errors=True)
+    return directory
 
 
 @dataclass(slots=True)
@@ -89,7 +99,7 @@ class VisionProvider:
     def _cached(self) -> Path:
         source = HERE / "ocr_helpers" / "vision_ocr.swift"
         digest = hashlib.sha1(source.read_bytes()).hexdigest()[:10] if source.exists() else "none"
-        return Path(tempfile.gettempdir()) / f"anonymizer-ocr-{os.getuid()}" / f"vision_ocr-{digest}"
+        return _native_cache_dir() / f"vision_ocr-{digest}"
 
     def _build(self) -> Path:
         packaged = self._packaged()
@@ -125,7 +135,7 @@ def _helper_binary(stem: str) -> Path | None:
     if not source.exists():
         return None
     digest = hashlib.sha1(source.read_bytes()).hexdigest()[:10]
-    target = Path(tempfile.gettempdir()) / f"anonymizer-ocr-{os.getuid()}" / f"{stem}-{digest}"
+    target = _native_cache_dir() / f"{stem}-{digest}"
     if target.exists():
         return target
     if not shutil.which("swiftc"):

@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import re
 from html import unescape
+from .bounded_regex import DelimitedPattern
 from collections import defaultdict
 
 _DIGITS = re.compile(r"\d")
@@ -272,10 +273,10 @@ def grids_from_html(text: str) -> list[list[tuple[int, int, str]]]:
     """Таблицы HTML (<table><tr><th|td>): по одной сетке на таблицу."""
     import html as _html
     grids = []
-    for table in re.finditer(r"(?is)<table\b.*?</table\s*>", text):
+    for table in DelimitedPattern(r"<table\b.*?</table\s*>", r"<table\b", r"</table\s*+>", re.I | re.S).finditer(text):
         cells: list[tuple[int, int, str]] = []
-        for ri, tr in enumerate(re.finditer(r"(?is)<tr\b.*?</tr\s*>", table.group(0))):
-            for ci, td in enumerate(re.finditer(r"(?is)<t[hd]\b[^>]*>(.*?)</t[hd]\s*>", tr.group(0))):
+        for ri, tr in enumerate(DelimitedPattern(r"<tr\b.*?</tr\s*>", r"<tr\b", r"</tr\s*+>", re.I | re.S).finditer(table.group(0))):
+            for ci, td in enumerate(DelimitedPattern(r"<t[hd]\b[^>]*+>(.*?)</t[hd]\s*>", r"<t[hd]\b", r"</t[hd]\s*+>", re.I | re.S, opening_end=">").finditer(tr.group(0))):
                 value = _html.unescape(re.sub(r"(?s)<[^>]+>", " ", td.group(1)))
                 value = re.sub(r"\s+", " ", value).strip()
                 if value:
