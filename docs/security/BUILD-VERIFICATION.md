@@ -29,3 +29,18 @@ Verified locally with Tesseract 5.5.1, official Russian/English fast models plus
 - A preliminary custom-language setup without `configs/tsv` produced empty parsed words; its results were discarded and are not evidence. All stated forced-provider results use valid TSV output and the positive control.
 
 The intermediate workflow attempts are superseded by verification on the final corrected commit.
+
+### Short and minority rotated text: final recovery hardening
+
+A final review reproduced a regression in the first tall-line guard: a short sideways email such as `a@enigma.ru` could be filtered while the normal 20-character / 35%-of-best orientation thresholds prevented recovery. That intermediate revision is not the final implementation, even though its workflows passed.
+
+Deferred word boxes now travel with each recognition result, without shared mutable provider state. When such boxes exist, nonempty orientation probes receive full recognition even below the ordinary page thresholds, with stronger orientations merged first. A spatial index checks that deferred regions have geometric coverage in recovered words; an unresolved region raises `OcrUnavailable`, and the image pipeline refuses output. Normal pages retain their previous thresholds and behavior.
+
+Final targeted results on this implementation:
+
+- **18 forced-Tesseract tests passed** (129.873 s), including all rotated-scan/PDF/Office-image cases, narrow-field preservation, short/minority email recovery, strongest-orientation precedence, and unresolved-region refusal.
+- **36 native-provider tests passed** (146.179 s): complete PDF OCR, logo policy and rotated-scan suites.
+- Real short-field comparison with the original runtime confirmed correct recognition of `a@enigma.ru` and `Пароль: abcD9!xy` at both 90 and 270 degrees, with proper direction metadata.
+- A service-level regression requires an unresolved vertical region to produce no output image; no privacy assertion or rendering operation is disabled.
+
+Final full tests and native builds are rerun on the corresponding committed source before publication to main.

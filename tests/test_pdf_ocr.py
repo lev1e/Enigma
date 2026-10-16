@@ -265,6 +265,93 @@ class TesseractDirections(unittest.TestCase):
         with patch.object(ocr.subprocess, "run", return_value=CompletedProcess([], 0, tsv, "")):
             words = engine.words(Path("scan.png"))
         self.assertEqual([w.text for w in words], ["1", "Иванов"])
+        self.assertEqual([w.text for w in words.deferred], ["Петрович"])
+
+    def test_short_minority_vertical_email_gets_an_explicit_pass(self):
+        from unittest.mock import patch
+        from types import SimpleNamespace
+
+        # The email is both below 20 characters and below 35% of the main text.
+        # Its deferred region must nevertheless be recovered, not called clean.
+        base = ocr._TesseractWords()
+        base.append(ocr.Word("ordinary " * 20, 40, 10, 95, 30, 0, conf=.95))
+        base.deferred.append(ocr.Word("a@b.ru", 10, 10, 20, 80, 1, conf=.95))
+        short = ocr.Word("a@b.ru", 0, 0, 70, 10, 0, conf=.95)
+        precise = ocr.Word("a@b.ru", 10, 10, 20, 80, 1, conf=.95, rot=270,
+                           boxes=[(10, 10 + j * 10, 20, 20 + j * 10) for j in range(6)])
+
+        def run(engine, page, clip, scale, angle=0):
+            return (base if angle == 0 else [short] if angle == 270 else []), None, None
+
+        doc = fitz.open()
+        self.addCleanup(doc.close)
+        page = doc.new_page(width=100, height=100)
+        with patch.object(ocr, "provider", return_value=SimpleNamespace()), \
+                patch.object(ocr, "_run_engine", side_effect=run), \
+                patch.object(ocr, "_to_page", return_value=[precise]):
+            words, _ = ocr.ocr_page_words(page, scale=1)
+        self.assertIn("a@b.ru", [w.text for w in words])
+        self.assertIn("ordinary " * 20, [w.text for w in words])
+        self.assertTrue(next(w for w in words if w.text == "a@b.ru").boxes)
+
+    def test_short_vertical_email_survives_the_normal_twenty_character_floor(self):
+        from unittest.mock import patch
+        from types import SimpleNamespace
+
+        base = ocr._TesseractWords()
+        base.deferred.append(ocr.Word("a@b.ru", 10, 10, 20, 80, 0, conf=.95))
+        precise = ocr.Word("a@b.ru", 10, 10, 20, 80, 0, conf=.95, rot=270,
+                           boxes=[(10, 10 + j * 10, 20, 20 + j * 10) for j in range(6)])
+        bad = ocr.Word("bad", 10, 10, 20, 80, 0, conf=.6)
+        doc = fitz.open()
+        self.addCleanup(doc.close)
+        page = doc.new_page(width=100, height=100)
+
+        def run(engine, page, clip, scale, angle=0):
+            return (base if angle == 0 else [precise] if angle == 270 else [bad] if angle == 90 else []), None, None
+
+        with patch.object(ocr, "provider", return_value=SimpleNamespace()), \
+                patch.object(ocr, "_run_engine", side_effect=run), \
+                patch.object(ocr, "_to_page", side_effect=lambda words, matrix, pix, angle: words):
+            words, _ = ocr.ocr_page_words(page, scale=1)
+        self.assertEqual([w.text for w in words], ["a@b.ru"])
+        self.assertEqual(words[0].rot, 270)
+
+    def test_unrecovered_vertical_region_refuses_ocr_result(self):
+        from unittest.mock import patch
+        from types import SimpleNamespace
+
+        base = ocr._TesseractWords()
+        base.append(ocr.Word("ordinary " * 20, 40, 10, 95, 30, 0, conf=.95))
+        base.deferred.append(ocr.Word("a@b.ru", 10, 10, 20, 80, 1, conf=.95))
+        doc = fitz.open()
+        self.addCleanup(doc.close)
+        page = doc.new_page(width=100, height=100)
+        with patch.object(ocr, "provider", return_value=SimpleNamespace()), \
+                patch.object(ocr, "_run_engine", side_effect=lambda engine, page, clip, scale, angle=0:
+                             (base if angle == 0 else [], None, None)):
+            with self.assertRaises(ocr.OcrUnavailable):
+                ocr.ocr_page_words(page, scale=1)
+
+    def test_unrecovered_vertical_text_does_not_produce_an_image(self):
+        import io
+        from PIL import Image, ImageDraw
+        from types import SimpleNamespace
+        from unittest.mock import patch
+
+        image = Image.new("RGB", (800, 240), "white")
+        ImageDraw.Draw(image).text((40, 80), "a@b.ru", fill="black", font_size=48)
+        buffer = io.BytesIO()
+        image.save(buffer, format="PNG")
+        base = ocr._TesseractWords()
+        base.deferred.append(ocr.Word("a@b.ru", 10, 10, 20, 80, 0, conf=.95))
+        env = Env(image_mode="redact_text")
+        self.addCleanup(env.close)
+        with patch.object(ocr, "provider", return_value=SimpleNamespace(name="test")), \
+                patch.object(ocr, "_run_engine", return_value=(base, None, None)):
+            job = env.anonymize(("short.png", buffer.getvalue()))
+        self.assertFalse(job.files[0].out_path)
+        self.assertTrue(job.files[0].messages)
 
     def test_tsv_recognition_leaves_rotation_to_explicit_page_passes(self):
         from subprocess import CompletedProcess

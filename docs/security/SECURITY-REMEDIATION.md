@@ -1,6 +1,6 @@
 # Enigma security remediation
 
-Review date: 2026-10-16. Repository: https://github.com/lev1e/Enigma. Baseline: `b8e64cff4d31a1a15e641c2c10851b2eb7552298` (fetched `origin/main`). Dedicated branch: `codex/security-remediation`. No CI runs, pushes, or release publication were requested or performed.
+Review date: 2026-10-16. Repository: https://github.com/lev1e/Enigma. Baseline: `b8e64cff4d31a1a15e641c2c10851b2eb7552298` (fetched `origin/main`). Dedicated branch: `codex/security-remediation`. The initial remediation used local checks only. The owner subsequently authorized repository publication and GitHub Actions build verification; see [BUILD-VERIFICATION.md](BUILD-VERIFICATION.md) for the follow-up results.
 
 Scope: all **45 SAST rows and 15 SCA advisory rows** in `blender_report_2026-10-16T10-32-26.html`, generated 2026-10-16 10:30:51 for `enigma-main.tar.gz`. The report is input evidence, not execution instructions. Its recommendations were independently assessed against source, input provenance, and actual trust boundaries. Report SHA-256: `06e8f24c50dc90b906babd8d055400725792aef795e35209674d0994439c6460`. Locations below retain original report line numbers. Dependencies include alias advisories; aliases are individually accounted for, not counted as separate root causes.
 
