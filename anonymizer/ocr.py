@@ -218,9 +218,19 @@ class TesseractProvider:
             raise OcrUnavailable("Tesseract завершился с ошибкой")
         words: list[Word] = []
         keys: dict[tuple[str, str, str], int] = {}
-        for row in done.stdout.splitlines()[1:]:
-            cols = row.split("\t")
+        rows = [row.split("\t") for row in done.stdout.splitlines()[1:]]
+        # Some Tesseract versions still rotate an inverted vertical block even
+        # with vertical detection disabled. TSV exposes its tall line box, but
+        # not the rotation. Defer such lines to the explicit rotated passes;
+        # retain narrow one-character fields, which have no readable direction.
+        tall_lines = {tuple(c[2:5]) for c in rows if len(c) >= 12 and c[0] == "4"
+                      and float(c[9]) > 2 * float(c[8])}
+        vertical_lines = {tuple(c[2:5]) for c in rows if len(c) >= 12 and c[0] == "5"
+                          and len(c[11].strip()) >= 3 and tuple(c[2:5]) in tall_lines}
+        for cols in rows:
             if len(cols) < 12 or cols[0] != "5" or not cols[11].strip():
+                continue
+            if tuple(cols[2:5]) in vertical_lines:
                 continue
             line = keys.setdefault((cols[2], cols[3], cols[4]), len(keys))
             x, y, w, h = (float(cols[i]) for i in (6, 7, 8, 9))

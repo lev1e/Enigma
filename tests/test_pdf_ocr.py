@@ -249,6 +249,23 @@ class LatinInnLabel(unittest.TestCase):
 
 
 class TesseractDirections(unittest.TestCase):
+    def test_implicit_vertical_lines_are_deferred_but_narrow_fields_survive(self):
+        from subprocess import CompletedProcess
+        from unittest.mock import patch
+
+        tsv = "level\tpage_num\tblock_num\tpar_num\tline_num\tword_num\tleft\ttop\twidth\theight\tconf\ttext\n"
+        tsv += "4\t1\t1\t1\t1\t0\t10\t20\t20\t200\t-1\t\n"
+        tsv += "5\t1\t1\t1\t1\t1\t10\t20\t20\t200\t95\tПетрович\n"
+        tsv += "4\t1\t1\t1\t2\t0\t50\t20\t5\t20\t-1\t\n"
+        tsv += "5\t1\t1\t1\t2\t1\t50\t20\t5\t20\t95\t1\n"
+        tsv += "4\t1\t1\t1\t3\t0\t80\t20\t100\t20\t-1\t\n"
+        tsv += "5\t1\t1\t1\t3\t1\t80\t20\t100\t20\t95\tИванов\n"
+        engine = ocr.TesseractProvider()
+        engine.exe = "tesseract"
+        with patch.object(ocr.subprocess, "run", return_value=CompletedProcess([], 0, tsv, "")):
+            words = engine.words(Path("scan.png"))
+        self.assertEqual([w.text for w in words], ["1", "Иванов"])
+
     def test_tsv_recognition_leaves_rotation_to_explicit_page_passes(self):
         from subprocess import CompletedProcess
         from unittest.mock import patch

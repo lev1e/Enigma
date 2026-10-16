@@ -15,3 +15,17 @@ Prior Linux CI exposed a genuine Tesseract rotated-scan redaction defect, indepe
 A separate existing logo consistency test assumed bilingual OCR must read a rendered Latin `Company1` as ASCII; Tesseract reads the correct visible label as Cyrillic lookalikes (`Сотрапу1`). The test now wraps the real renderer, requires a company token to actually be drawn, verifies the exact full token in the text document, checks image bytes changed, and OCR-checks that both original brand words are absent. Rendering is not stubbed and confidentiality assertions are retained. This strengthens exact identity compared with the former stem-only comparison. The forced-Tesseract logo test passed.
 
 The first Windows/PR workflow attempts were canceled when this runtime correction became ready; they do not count as successful verification. Fresh builds and full tests run against the corrected commit. macOS artifacts are rebuilt for source equivalence.
+
+### Complete Tesseract orientation verification
+
+Expanded tests exposed a remaining inverted-sideways case after disabling implicit vertical detection. The final TSV reader also defers tall lines containing multi-character words to the existing explicit rotation passes; it retains narrow single-character fields and ordinary horizontal lines. This prevents directionless words from suppressing correctly transformed words. Automatic page segmentation and column handling remain enabled.
+
+Verified locally with Tesseract 5.5.1, official Russian/English fast models plus the installed TSV configuration, DejaVu fixture fonts and forced selection of Tesseract before importing tests:
+
+- Positive control: 12 source words recognized, all expected sensitive values present, proper 270-degree direction and per-character boxes. Empty OCR output cannot count as a pass.
+- All `RotatedScans`, `PdfOcr`, `OfficeImageOcr`, and `TesseractDirections` cases: **14 tests passed** in 56.585 seconds, including rotated-image/page confidentiality, explicit-orientation assertions and exact recovery.
+- Corrected logo consistency test with forced Tesseract: **passed**.
+- Native Apple Vision `test_pdf_ocr` plus logo regression: **17 tests passed**; additional native rotated checks: **9 passed**.
+- A preliminary custom-language setup without `configs/tsv` produced empty parsed words; its results were discarded and are not evidence. All stated forced-provider results use valid TSV output and the positive control.
+
+The intermediate workflow attempts are superseded by verification on the final corrected commit.
