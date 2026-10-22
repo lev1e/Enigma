@@ -33,7 +33,13 @@ class CasesDirTests(unittest.TestCase):
             t = Path(t)
             shared = t / "shared_cases"; shared.mkdir(); (shared / "keep.txt").write_text("x")
             real = t / "real"; real.mkdir()
-            link = real / "_cases"; link.symlink_to(shared, target_is_directory=True)
+            link = real / "_cases"
+            try:
+                link.symlink_to(shared, target_is_directory=True)
+            except OSError as exc:
+                if sys.platform == "win32" and getattr(exc, "winerror", None) == 1314:
+                    self.skipTest("Windows symlink creation requires additional privileges (WinError 1314)")
+                raise
             old = eval_real.CASES
             eval_real.CASES = link
             try:
